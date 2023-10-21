@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#d18215",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "baseFontSize": 16
 }

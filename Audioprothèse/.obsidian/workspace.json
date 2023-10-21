@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "53e3b6bc6ed687ec",
+        "id": "fc2392f5bf3b8f18",
         "type": "tabs",
         "children": [
           {
-            "id": "10919c579a1051bb",
+            "id": "9242497974336a52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Oreille externe.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -35,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -66,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "right": {
     "id": "960edbd81f4e6a07",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cours/Oreille externe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cours/Oreille externe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cours/Oreille externe.md"
+              }
             }
           }
         ]
@@ -139,6 +148,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e1018c5828fc81f",
-  "lastOpenFiles": []
+  "active": "9242497974336a52",
+  "lastOpenFiles": [
+    "Cours/Sténose du conduit auditif.md",
+    "Cours/Oreille externe.md",
+    "Cours/Physiologie de l'audition.md",
+    "Cours/Audiologie.md",
+    "Cours/COURS.md",
+    "Cours/Pathologies.md",
+    "Cours/Agénésie du conduit auditif.md",
+    "SOUTENANCE DE MEMOIRE.md",
+    "ABOUT WORK.md",
+    "ARCHIVES.md",
+    "Dashboard.md",
+    "Images/Pasted image 20231021153720.png",
+    "Organisation et annexes/Organisation du second brain.md",
+    "Organisation et annexes",
+    "Organisation et annexes/Méthodes de création des fiches.md",
+    "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
+    "Organisation et annexes/Markdown Helper.md",
+    "Images/Pasted image 20231021140614.png",
+    "Images",
+    "Pasted image 20231021140614.png.md",
+    "Plan d'organisation des.md",
+    "Oreille moyenne OM.md",
+    "Cours",
+    "Templates/subject.pres.template.md",
+    "Templates",
+    "Untitled 1.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "canvas.md"
+  ]
 }

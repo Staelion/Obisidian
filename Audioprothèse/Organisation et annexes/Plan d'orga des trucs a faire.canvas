@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"95e2bea138705d84","x":-117,"y":-59,"width":94,"height":60,"type":"text","text":"Oui"},
+		{"id":"26d1f1d3ddd8e063","x":100,"y":-59,"width":100,"height":60,"type":"text","text":"Non"},
+		{"id":"09b0f4adaed4d52a","x":-195,"y":40,"width":250,"height":50,"type":"text","text":"Les avancer au maximum"},
+		{"id":"c620daaed6ddba5d","x":-195,"y":140,"width":250,"height":145,"type":"text","text":"Est-ce que j'ai du travail lié à l'audioprothèse \nSecond Brain/Révisions/Rapport de stage/appels, orga"},
+		{"id":"8a9b95c0c0b9e978","x":-25,"y":369,"width":160,"height":60,"type":"text","text":"Déjà fait aujourd'hui"},
+		{"id":"632f22c0c0dc3843","x":-252,"y":369,"width":115,"height":60,"type":"text","text":"Le faire "},
+		{"id":"dde76c01cbb72b8c","x":-70,"y":480,"width":250,"height":60,"type":"text","text":"Travail autre : 3ème grind/ QOL improvements"},
+		{"id":"2d2f62ae0d34e4bc","x":-93,"y":-220,"width":273,"height":60,"type":"text","text":"Est ce que mon cerveau et cramé ?"},
+		{"id":"44083b85d86a7af7","x":-105,"y":-420,"width":297,"height":108,"type":"text","text":"Est-ce que j'ai des trucs perso/papiers/vie normale à faire ?"}
+	],
+	"edges":[
+		{"id":"175f65de176bdaaf","fromNode":"2d2f62ae0d34e4bc","fromSide":"bottom","toNode":"95e2bea138705d84","toSide":"top"},
+		{"id":"5b38555bbdad525e","fromNode":"2d2f62ae0d34e4bc","fromSide":"bottom","toNode":"26d1f1d3ddd8e063","toSide":"top"},
+		{"id":"366c500c7702a1b0","fromNode":"95e2bea138705d84","fromSide":"bottom","toNode":"09b0f4adaed4d52a","toSide":"top"},
+		{"id":"ca5edaea0e288bc1","fromNode":"09b0f4adaed4d52a","fromSide":"bottom","toNode":"c620daaed6ddba5d","toSide":"top"},
+		{"id":"ee538d0ac6cc83aa","fromNode":"26d1f1d3ddd8e063","fromSide":"bottom","toNode":"c620daaed6ddba5d","toSide":"right"},
+		{"id":"1a61a54e28308705","fromNode":"c620daaed6ddba5d","fromSide":"bottom","toNode":"632f22c0c0dc3843","toSide":"top"},
+		{"id":"b87eef68c32997d4","fromNode":"c620daaed6ddba5d","fromSide":"bottom","toNode":"8a9b95c0c0b9e978","toSide":"top"},
+		{"id":"0f9240631c82f80a","fromNode":"632f22c0c0dc3843","fromSide":"bottom","toNode":"8a9b95c0c0b9e978","toSide":"left"},
+		{"id":"e36f8c9cef961290","fromNode":"8a9b95c0c0b9e978","fromSide":"bottom","toNode":"dde76c01cbb72b8c","toSide":"top"},
+		{"id":"64eacf1a13673dcc","fromNode":"44083b85d86a7af7","fromSide":"bottom","toNode":"2d2f62ae0d34e4bc","toSide":"top"}
+	]
+}

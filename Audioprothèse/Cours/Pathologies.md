@@ -1,0 +1,16 @@
+## __Ici seront regroupés toutes les différentes pathologies qui seront expliqués à travers les différents cours__
+
+
+>[!INFO]+ Pathologies exernes
+>
+>[[Agénésie du conduit auditif]]
+
+
+
+pathologies internes 
+
+pathologies rares
+
+pathologies externes a l'oreille ayant un impact sur l'audition
+
+ex(Schwannome du 8)
