@@ -1,12 +1,12 @@
-Profs : PEIGNE JAOUEN
+Profs : PEIGNE JAOUEN PLAINFOSSÉ
 ## Anatomie
 
-L'oreille externe se compose de deux parties principale : le pavillon et le conduit auditif.
+L'oreille externe se compose de deux parties principale : le pavillon et le conduit auditif. Elle à un triple rôle de transmission du son à l'oreille moyenne, amplification sonore ainsi que protection de l'oreille moyenne.
 
 ### Le pavillon
 
 >[!WARNING]+ Définition
->Portion de l'appareil auditif qui collecte les sons vers le système tympano-ossiculaire
+>Portion de l'appareil auditif qui collecte les sons vers le système tympano-ossiculaire. 
 
 
 >[!INFO]+ Anantomie
@@ -52,18 +52,18 @@ L'oreille externe se compose de deux parties principale : le pavillon et le cond
 
 >[!INFO]+ Anatomie
 >
->Le CAE est un tube quasiment horizontal, sinueux en forme de S, composé de cartilage vers l'extérieur, puis possédant une portion osseuse sur les 2/3 intérieur. Il possède deux "coudes" qui sont des points de repères et qui correspondent aux changements de direction du conduit. Il se termine sur le tympan qui fait la liaison entre l'oreille externe et l'[[Oreille moyenne]]. Il est recouvert de peau mais ce revêtement cutané est TRES fragile (facilement victime de petites inflammations liés aux frottements etc donc -> importance de l'[[Autoscopie]]). Il existe des glandes cérumineuses dans le tissu sous-cutané.
+>Le CAE est un tube quasiment horizontal, sinueux en forme de S, composé de cartilage vers l'extérieur, puis possédant une portion osseuse sur les 2/3 intérieur. Il possède deux "coudes" qui sont des points de repères et qui correspondent aux changements de direction du conduit. Il se termine sur le tympan qui fait la liaison entre l'oreille externe et l'[[Oreille moyenne]]. Il est recouvert de peau mais ce revêtement cutané est TRES fragile (facilement victime de petites inflammations liés aux frottements etc donc -> importance de l'[[Otoscopie]]). Il existe des glandes cérumineuses dans le tissu sous-cutané.
 >
 >- De l'extérieur au premier coude : oblique vers l'avant
 >- Du premier au deuxième coude : vers l'arrière
 >- Du deuxième coude au tympan 
 >
->Le tube total mesure 25 à 30 cm en moyenne.
+>Le tube total mesure 25 à 30 cm en moyenne. Diamètre de 8 à 10
 >C'est dans ce tube que se crée le cérumen.
 >---
 >__Cérumen__ 
 >
->C'est le mélange du produit des glandes sébacées et cérumineuse, substance cireuse au pH acide qui protège l’épithélium. Il est nécessaire et n'est donc pas fait pour être retiré. La forme du conduit et les actions telles la mastication permettent de déplacer le cérumen vers l'extérieur de l'oreille ce qui l'évacue naturellement.
+>C'est le mélange du produit des glandes sébacées et cérumineuse, substance cireuse au pH acide qui protège la peau du CAE. Il est nécessaire et n'est donc pas fait pour être retiré. La partie osseuse du conduit possède un processus autonettoyant : sa forme et les actions telles la mastication permettent de déplacer le cérumen vers l'extérieur de l'oreille ce qui l'évacue naturellement.
 >On peut néanmoins éliminer les excès de temps en temps :
 >- rinçage à l'eau
 >- utilisation d'eau oxygénée (liquéfie le cérumen et le rend donc beaucoup plus facile a enlever) !* !! pas plus d'une fois par mois !! *
@@ -78,8 +78,13 @@ Chez le jeune enfant, le conduit est rectiligne, court et relativement large.
 >La fonction principale du CAE est seulement de servir d'irrigation pour envoyer les sons perçus dans la suite de la chaine d'audition. Cela permet aussi au tympan d'être mieux protégés des éléments externes qui pourraient l'atteindre grâce aux courbures du CAE.
 
 >[!INFO]+ pathologies :
+>- [[Otite externe aïgue]]
+>- [[Ostéome et exostose du conduit auditif]]
+>- [[Cholestéatome]] dans le conduit auditif
+>- [[Dermatite]] du conduit auditif
 >- [[Sténose du conduit auditif]]
 >- [[Agénésie du conduit auditif]] 
+>- [[Pathologies traumatiques du CAE]]
 ### Autres informations 
 
 Impact des parties de l'oreille externe sur l'amplification des sons

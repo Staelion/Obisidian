@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2392f5bf3b8f18",
+        "id": "0983d3d39216126a",
         "type": "tabs",
         "children": [
           {
-            "id": "9242497974336a52",
+            "id": "f24171c0e8ef9346",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,16 +148,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9242497974336a52",
+  "active": "f24171c0e8ef9346",
   "lastOpenFiles": [
     "Cours/Sténose du conduit auditif.md",
+    "Images/Pasted image 20231022191051.png",
     "Cours/Oreille externe.md",
-    "Cours/Physiologie de l'audition.md",
-    "Cours/Audiologie.md",
+    "Untitled.canvas",
     "Cours/COURS.md",
+    "Cours/Pathologies traumatiques du CAE.md",
     "Cours/Pathologies.md",
     "Cours/Agénésie du conduit auditif.md",
+    "Cours/Dermo-hypodermite.md",
     "SOUTENANCE DE MEMOIRE.md",
+    "2023-10-22.md",
+    "Cours/Oreille moyenne.md",
+    "Cours/Otite externe aïgue.md",
+    "Cours/Ostéome et exostose du conduit auditif.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Cours/Physiologie de l'audition.md",
+    "Cours/Audiologie.md",
     "ABOUT WORK.md",
     "ARCHIVES.md",
     "Dashboard.md",
@@ -175,10 +185,6 @@
     "Cours",
     "Templates/subject.pres.template.md",
     "Templates",
-    "Untitled 1.md",
-    "Untitled 4.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
-    "canvas.md"
+    "Untitled 1.md"
   ]
 }

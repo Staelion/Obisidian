@@ -1,0 +1,4 @@
+>[!INFO]
+>L'ostéome est une tumeur osseuse bénigne qui se développe sans lien direct avec un traumatisme. Elle se présente généralement comme une masse solitaire de taille importante, reliée au CAE par un fin pédicule. Dans la plupart des cas, l'ostéome ne provoque pas de symptômes.
+>
+En revanche, l'exostose, une autre tumeur osseuse bénigne, est couramment associée à l'irritation thermique et mécanique de l'eau, ce qui en fait une affection fréquente chez les surfeurs et les nageurs. À l'otoscopie, on observe une ou plusieurs excroissances osseuses mamelonnées, généralement localisées dans la partie moyenne et médiane du CAE. Bien que l'exostose soit également le plus souvent asymptomatique, elle peut favoriser l'accumulation de squames, augmentant ainsi le risque de surinfections et d'otites externes.

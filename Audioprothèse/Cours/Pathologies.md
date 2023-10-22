@@ -4,6 +4,12 @@
 >[!INFO]+ Pathologies exernes
 >
 >[[Agénésie du conduit auditif]]
+>[[Dermo-hypodermite]]
+>[[Sténose du conduit auditif]]
+>[[Otite externe aïgue]]
+>[[Ostéome et exostose du conduit auditif]]
+[[Sténose du conduit auditif]]
+
 
 
 
