@@ -81,7 +81,7 @@ Chez le jeune enfant, le conduit est rectiligne, court et relativement large.
 >- [[Otite externe aïgue]]
 >- [[Ostéome et exostose du conduit auditif]]
 >- [[Cholestéatome]] dans le conduit auditif
->- [[Dermatite]] du conduit auditif
+>- [[Dermo-hypodermite]] de la peau du conduit
 >- [[Sténose du conduit auditif]]
 >- [[Agénésie du conduit auditif]] 
 >- [[Pathologies traumatiques du CAE]]

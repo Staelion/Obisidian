@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,32 +149,34 @@
   },
   "active": "f24171c0e8ef9346",
   "lastOpenFiles": [
+    "Cours/Audiologie.md",
+    "Cours/COURS.md",
+    "Cours/Oreille externe.md",
+    "Cours/Dermo-hypodermite.md",
+    "Cours/Otite externe aïgue.md",
+    "Cours/Pathologies.md",
+    "Dermatite.md",
+    "Cours/Agénésie du conduit auditif.md",
+    "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
+    "ABOUT WORK.md",
+    "Cours/Cholestéatome.md",
+    "Untitled.canvas",
     "Cours/Sténose du conduit auditif.md",
     "Images/Pasted image 20231022191051.png",
-    "Cours/Oreille externe.md",
-    "Untitled.canvas",
-    "Cours/COURS.md",
     "Cours/Pathologies traumatiques du CAE.md",
-    "Cours/Pathologies.md",
-    "Cours/Agénésie du conduit auditif.md",
-    "Cours/Dermo-hypodermite.md",
     "SOUTENANCE DE MEMOIRE.md",
     "2023-10-22.md",
     "Cours/Oreille moyenne.md",
-    "Cours/Otite externe aïgue.md",
     "Cours/Ostéome et exostose du conduit auditif.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Cours/Physiologie de l'audition.md",
-    "Cours/Audiologie.md",
-    "ABOUT WORK.md",
     "ARCHIVES.md",
     "Dashboard.md",
     "Images/Pasted image 20231021153720.png",
     "Organisation et annexes/Organisation du second brain.md",
     "Organisation et annexes",
     "Organisation et annexes/Méthodes de création des fiches.md",
-    "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
     "Organisation et annexes/Markdown Helper.md",
     "Images/Pasted image 20231021140614.png",
     "Images",
@@ -184,7 +185,6 @@
     "Oreille moyenne OM.md",
     "Cours",
     "Templates/subject.pres.template.md",
-    "Templates",
-    "Untitled 1.md"
+    "Templates"
   ]
 }
