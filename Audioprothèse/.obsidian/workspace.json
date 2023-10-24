@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0983d3d39216126a",
+        "id": "c195ec105c8dd2d3",
         "type": "tabs",
         "children": [
           {
-            "id": "f24171c0e8ef9346",
+            "id": "82cad4df626abe36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Oreille externe.md",
+                "file": "Cours/Oreille moyenne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Oreille externe.md",
+                "file": "Cours/Oreille moyenne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Oreille externe.md",
+                "file": "Cours/Oreille moyenne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Oreille externe.md"
+                "file": "Cours/Oreille moyenne.md"
               }
             }
           }
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,13 +148,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f24171c0e8ef9346",
+  "active": "82cad4df626abe36",
   "lastOpenFiles": [
-    "Cours/Audiologie.md",
+    "Organisation et annexes/Markdown Helper.md",
+    "Cours/Oreille moyenne.md",
+    "^1.md",
+    "Cours/Otite externe aïgue.md",
+    "Cours/Oreille interne.md",
     "Cours/COURS.md",
     "Cours/Oreille externe.md",
+    "Images/Pasted image 20231024135731.png",
+    "Cours/Pathologies traumatiques du CAE.md",
+    "Cours/Physiologie de l'audition.md",
+    "Images/Pasted image 20231024120200.png",
+    "Cours/Audiologie.md",
     "Cours/Dermo-hypodermite.md",
-    "Cours/Otite externe aïgue.md",
     "Cours/Pathologies.md",
     "Dermatite.md",
     "Cours/Agénésie du conduit auditif.md",
@@ -163,28 +172,22 @@
     "Untitled.canvas",
     "Cours/Sténose du conduit auditif.md",
     "Images/Pasted image 20231022191051.png",
-    "Cours/Pathologies traumatiques du CAE.md",
     "SOUTENANCE DE MEMOIRE.md",
     "2023-10-22.md",
-    "Cours/Oreille moyenne.md",
     "Cours/Ostéome et exostose du conduit auditif.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Cours/Physiologie de l'audition.md",
     "ARCHIVES.md",
     "Dashboard.md",
     "Images/Pasted image 20231021153720.png",
     "Organisation et annexes/Organisation du second brain.md",
     "Organisation et annexes",
     "Organisation et annexes/Méthodes de création des fiches.md",
-    "Organisation et annexes/Markdown Helper.md",
     "Images/Pasted image 20231021140614.png",
     "Images",
     "Pasted image 20231021140614.png.md",
     "Plan d'organisation des.md",
-    "Oreille moyenne OM.md",
     "Cours",
-    "Templates/subject.pres.template.md",
     "Templates"
   ]
 }
