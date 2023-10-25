@@ -32,20 +32,13 @@ L'oreille moyenne qui s'étend du tympan jusqu'à l'oreille interne est un petit
 
 >[!INFO]+ Pathologies
 >
-Otites moyenne chroniques (OMC) = tout processus inflammatoire de l’oreille moyenne, évoluant depuis plusieurs semaines (3 mois -> chronique) : 
+Otites moyenne chroniques (OMC) = tout processus inflammatoire de l’oreille moyenne, évoluant depuis plusieurs semaines (3 mois -> chronique) :
+> - [[Otite Moyenne aïgue]]
 > - [[Otite séro-muqueuse (OSM)]]
 >  - [[Perforation tympanique]]
 >  - [[Cholestéatome]]
 >  - [[Poche de rétraction]]
 > - [[Otite fibroa-dhésive]] 
-
-
-
-
-
-
-
-
 
 ### Les osselets
 

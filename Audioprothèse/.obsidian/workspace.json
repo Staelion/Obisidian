@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Otite séro-muqueuse (OSM).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Otite séro-muqueuse (OSM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Otite séro-muqueuse (OSM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Oreille moyenne.md"
+                "file": "Otite séro-muqueuse (OSM).md"
               }
             }
           }
@@ -150,9 +150,11 @@
   },
   "active": "82cad4df626abe36",
   "lastOpenFiles": [
-    "Organisation et annexes/Markdown Helper.md",
     "Cours/Oreille moyenne.md",
+    "Otite séro-muqueuse (OSM).md",
+    "Otite Moyenne aïgue.md",
     "^1.md",
+    "Organisation et annexes/Markdown Helper.md",
     "Cours/Otite externe aïgue.md",
     "Cours/Oreille interne.md",
     "Cours/COURS.md",
@@ -185,8 +187,6 @@
     "Organisation et annexes/Méthodes de création des fiches.md",
     "Images/Pasted image 20231021140614.png",
     "Images",
-    "Pasted image 20231021140614.png.md",
-    "Plan d'organisation des.md",
     "Cours",
     "Templates"
   ]
