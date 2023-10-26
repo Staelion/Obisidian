@@ -25,7 +25,6 @@ L'oreille moyenne qui s'étend du tympan jusqu'à l'oreille interne est un petit
 >  
 >  ![[Pasted image 20231024135731.png]]
 
-
 >[!INFO]+ Fonctions
 >
 >Sa Fonction principale est de vibrer en réponse aux variations de pression acoustique reçues, ce qui permet la transmission de ce son j'jusqu'à l'oreille interne grâce aux osselets de l'oreille moyenne.

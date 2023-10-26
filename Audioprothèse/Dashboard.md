@@ -7,7 +7,6 @@
 >[[Méthodes de création des fiches]]
 
 
-
 >[!ABSTRACT]
 >Voici le sommaire Global des différentes zones que l'on retrouve ici : 
 >- [[COURS]] 

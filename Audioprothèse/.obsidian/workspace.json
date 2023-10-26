@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c195ec105c8dd2d3",
+        "id": "6e82ebd158a8017c",
         "type": "tabs",
         "children": [
           {
-            "id": "82cad4df626abe36",
+            "id": "cc56a9254b160127",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Otite séro-muqueuse (OSM).md",
+                "file": "Perforation tympanique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Otite séro-muqueuse (OSM).md",
+                "file": "Perforation tympanique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Otite séro-muqueuse (OSM).md",
+                "file": "Perforation tympanique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Otite séro-muqueuse (OSM).md"
+                "file": "Perforation tympanique.md"
               }
             }
           }
@@ -148,22 +148,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82cad4df626abe36",
+  "active": "cc56a9254b160127",
   "lastOpenFiles": [
     "Cours/Oreille moyenne.md",
-    "Otite séro-muqueuse (OSM).md",
-    "Otite Moyenne aïgue.md",
+    "Perforation tympanique.md",
+    "Cours/Otite séro-muqueuse (OSM).md",
+    "Cours/Oreille interne.md",
+    "Cours/Oreille externe.md",
+    "Cours/Audiologie.md",
+    "Dashboard.md",
+    "Cours/Otite Moyenne aïgue.md",
+    "Cours/COURS.md",
+    "Cours/Ostéome et exostose du conduit auditif.md",
+    "Cours/Otite externe aïgue.md",
     "^1.md",
     "Organisation et annexes/Markdown Helper.md",
-    "Cours/Otite externe aïgue.md",
-    "Cours/Oreille interne.md",
-    "Cours/COURS.md",
-    "Cours/Oreille externe.md",
     "Images/Pasted image 20231024135731.png",
     "Cours/Pathologies traumatiques du CAE.md",
     "Cours/Physiologie de l'audition.md",
     "Images/Pasted image 20231024120200.png",
-    "Cours/Audiologie.md",
     "Cours/Dermo-hypodermite.md",
     "Cours/Pathologies.md",
     "Dermatite.md",
@@ -176,15 +179,12 @@
     "Images/Pasted image 20231022191051.png",
     "SOUTENANCE DE MEMOIRE.md",
     "2023-10-22.md",
-    "Cours/Ostéome et exostose du conduit auditif.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "ARCHIVES.md",
-    "Dashboard.md",
     "Images/Pasted image 20231021153720.png",
     "Organisation et annexes/Organisation du second brain.md",
     "Organisation et annexes",
-    "Organisation et annexes/Méthodes de création des fiches.md",
     "Images/Pasted image 20231021140614.png",
     "Images",
     "Cours",
