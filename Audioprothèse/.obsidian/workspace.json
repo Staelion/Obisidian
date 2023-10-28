@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Cholestéatome.md",
+                "file": "Cours/Oreille moyenne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Cholestéatome.md",
+                "file": "Cours/Oreille moyenne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Cholestéatome.md",
+                "file": "Cours/Oreille moyenne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Cholestéatome.md"
+                "file": "Cours/Oreille moyenne.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "62f7f5d99f88e992",
   "lastOpenFiles": [
+    "Cours/Cholestéatome.md",
     "Cours/Oreille moyenne.md",
     "Cours/Pathologies.md",
     "Cours/Pathologies traumatiques du CAE.md",
@@ -160,7 +161,6 @@
     "Cours/Paracentèse.md",
     "Cours/Otite séro-muqueuse (OSM).md",
     "Cours/Otite fibro-ahésive.md",
-    "Cours/Cholestéatome.md",
     "Cours/Dermo-hypodermite.md",
     "Cours/Oreille externe.md",
     "Cours/Poche de rétraction.md",
