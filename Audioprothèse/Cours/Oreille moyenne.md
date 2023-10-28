@@ -1,4 +1,4 @@
-Profs : PEIGNE
+Profs : PEIGNE CODET
 
 ## Anatomie
 
@@ -37,7 +37,7 @@ Otites moyenne chroniques (OMC) = tout processus inflammatoire de l’oreille mo
 >  - [[Perforation tympanique]]
 >  - [[Cholestéatome]]
 >  - [[Poche de rétraction]]
-> - [[Otite fibroa-dhésive]] 
+> - [[Otite fibro-ahésive]] 
 
 ### Les osselets
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c195ec105c8dd2d3",
+        "id": "fd1447f1c52939a3",
         "type": "tabs",
         "children": [
           {
-            "id": "82cad4df626abe36",
+            "id": "62f7f5d99f88e992",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Cours/Cholestéatome.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Cours/Cholestéatome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Cours/Cholestéatome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Oreille moyenne.md"
+                "file": "Cours/Cholestéatome.md"
               }
             }
           }
@@ -148,42 +148,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82cad4df626abe36",
+  "active": "62f7f5d99f88e992",
   "lastOpenFiles": [
-    "Perforation tympanique.md",
-    "Cours/Otite séro-muqueuse (OSM).md",
-    "Cours/Otite Moyenne aïgue.md",
-    "Organisation et annexes/Markdown Helper.md",
     "Cours/Oreille moyenne.md",
-    "^1.md",
-    "Cours/Otite externe aïgue.md",
-    "Cours/Oreille interne.md",
-    "Cours/COURS.md",
-    "Cours/Oreille externe.md",
-    "Images/Pasted image 20231024135731.png",
-    "Cours/Pathologies traumatiques du CAE.md",
-    "Cours/Physiologie de l'audition.md",
-    "Images/Pasted image 20231024120200.png",
-    "Cours/Audiologie.md",
-    "Cours/Dermo-hypodermite.md",
     "Cours/Pathologies.md",
-    "Dermatite.md",
-    "Cours/Agénésie du conduit auditif.md",
-    "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
-    "ABOUT WORK.md",
+    "Cours/Pathologies traumatiques du CAE.md",
+    "Cours/Perforation tympanique.md",
+    "Cours/Physiologie de l'audition.md",
+    "Surdité de perception.md",
+    "Surdité de transmission.md",
+    "Cours/Paracentèse.md",
+    "Cours/Otite séro-muqueuse (OSM).md",
+    "Cours/Otite fibro-ahésive.md",
     "Cours/Cholestéatome.md",
-    "Untitled.canvas",
+    "Cours/Dermo-hypodermite.md",
+    "Cours/Oreille externe.md",
+    "Cours/Poche de rétraction.md",
     "Cours/Sténose du conduit auditif.md",
-    "Images/Pasted image 20231022191051.png",
-    "SOUTENANCE DE MEMOIRE.md",
-    "2023-10-22.md",
+    "Cours/COURS.md",
+    "Cours/Otite Moyenne aïgue.md",
+    "Cours/Oreille interne.md",
+    "Cours/Audioprothèse.md",
+    "Cours/Otite externe aïgue.md",
+    "Cours/Audiologie.md",
+    "Cours/Agénésie du conduit auditif.md",
+    "Untitled.md",
+    "Untitled",
     "Cours/Ostéome et exostose du conduit auditif.md",
+    "Images/Pasted image 20231028114230.png",
+    "Organisation et annexes/Markdown Helper.md",
+    "^1.md",
+    "Images/Pasted image 20231024135731.png",
+    "Images/Pasted image 20231024120200.png",
+    "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
+    "Untitled.canvas",
+    "Images/Pasted image 20231022191051.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "ARCHIVES.md",
-    "Dashboard.md",
     "Images/Pasted image 20231021153720.png",
-    "Organisation et annexes/Organisation du second brain.md",
     "Organisation et annexes",
     "Images/Pasted image 20231021140614.png",
     "Images",

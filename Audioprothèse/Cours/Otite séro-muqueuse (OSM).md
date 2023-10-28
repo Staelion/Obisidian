@@ -3,11 +3,11 @@
 
 
 >[!INFO]
->Ce type d'otite est indolore et apparait majoritairement chez les enfant (3-8 ans). Elle n'impacte pas les osselets mais bloque les mouvements du tympan ce qui génère une transmission
+>Ce type d'otite est indolore et apparait majoritairement chez les enfant (3-8 ans). Elle n'impacte pas les osselets mais bloque les mouvements du tympan ce qui génère une [[Surdité de transmission]].
 >
 >*Signes cliniques :*
 >- Ce qui est alerte les parents : Hyperacousie
->- Surdité de transmission 20-40 dB souvent bilatéral
+>- [[Surdité de transmission]] 20-40 dB souvent bilatéral
 >- tympanogramme plat
 >*Otoscopie :*
 >- Tyman inflamatoire (mat, jauni)

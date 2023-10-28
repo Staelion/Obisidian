@@ -22,11 +22,17 @@
 >- Otalgie ++ 
 >- Otorrhée purulente si perforation  
 >- Hypoacousie 
->- Plénitude de l’oreille 
+>- Plénitude de l’oreille (sensation oreille bouchée)
 >- Conjonctivite associé (haemophilus), rhinorrhée, obstruction nasale 
 >- Fièvre**
-
-
+>- irritablité
+>
+>![[Pasted image 20231028114230.png]]
+>
+>** Traitements médicaux :**
+>- Stade congestif : mouchage, lavage de nez, antidouleurs
+>- Stade collecté : cure amoxicilline 5 jours, traitements des symptômes si ils sont modérés
+>- [[Paracentèse]] si purulent
 
 
 
