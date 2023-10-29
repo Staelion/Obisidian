@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Réflexe stapédien.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Réflexe stapédien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Réflexe stapédien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Oreille moyenne.md"
+                "file": "Réflexe stapédien.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "62f7f5d99f88e992",
   "lastOpenFiles": [
-    "Cours/Cholestéatome.md",
     "Cours/Oreille moyenne.md",
+    "Réflexe stapédien.md",
+    "Pasted image 20231029152935.png",
+    "Cours/Cholestéatome.md",
     "Cours/Pathologies.md",
     "Cours/Pathologies traumatiques du CAE.md",
     "Cours/Perforation tympanique.md",
@@ -177,7 +179,6 @@
     "Cours/Ostéome et exostose du conduit auditif.md",
     "Images/Pasted image 20231028114230.png",
     "Organisation et annexes/Markdown Helper.md",
-    "^1.md",
     "Images/Pasted image 20231024135731.png",
     "Images/Pasted image 20231024120200.png",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",

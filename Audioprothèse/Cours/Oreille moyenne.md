@@ -28,6 +28,8 @@ L'oreille moyenne qui s'étend du tympan jusqu'à l'oreille interne est un petit
 >[!INFO]+ Fonctions
 >
 >Sa Fonction principale est de vibrer en réponse aux variations de pression acoustique reçues, ce qui permet la transmission de ce son j'jusqu'à l'oreille interne grâce aux osselets de l'oreille moyenne.
+>
+>Le tympan joue le rôle d’amortisseur sur les basses fréquences.
 
 >[!INFO]+ Pathologies
 >
@@ -41,11 +43,27 @@ Otites moyenne chroniques (OMC) = tout processus inflammatoire de l’oreille mo
 
 ### Les osselets
 
+>[!WARNING] Définition
+>
+>Ensemble de trois petits os situés dans l'oreille moyenne. Ces os sont les plus petits du corps humain et sont responsables de la transmission des vibrations sonores de la membrane du tympan à la cochlée, l'organe de l'audition. Les trois osselets sont : le marteau (malleus), l'enclume (incus) et l'étrier (stapes). Ils amplifient les ondes sonores et les transmettent efficacement à la cochlée pour permettre la perception auditive.
+
+>[!INFO]+ Anatomie
+>On retrouve trois osselets différents osselets qui forment 
+>![[Pasted image 20231029152935.png]]
+
+>[!INFO]+ Fonctions
+>
+>Rôle de transmission 
+>Rôle de protection de l'[[Oreille interne]] :
+>- [[Réflexe stapédien]]
+
+>[!INFO]+ Pathologies
+>
+(pathologies : Otite moyenne aigue, )
 ### Les parois et leurs communications
 
 
 
-(pathologies : Otite moyenne aigue, )
 
 
 
