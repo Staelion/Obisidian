@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd1447f1c52939a3",
+        "id": "04873e71f4a28fa5",
         "type": "tabs",
         "children": [
           {
-            "id": "62f7f5d99f88e992",
+            "id": "eb20978589ebb052",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réflexe stapédien.md",
+                "file": "Cours/Oreille moyenne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réflexe stapédien.md",
+                "file": "Cours/Oreille moyenne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réflexe stapédien.md",
+                "file": "Cours/Oreille moyenne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réflexe stapédien.md"
+                "file": "Cours/Oreille moyenne.md"
               }
             }
           }
@@ -148,10 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f7f5d99f88e992",
+  "active": "eb20978589ebb052",
   "lastOpenFiles": [
-    "Cours/Oreille moyenne.md",
+    "Pasted image 20231030191552.png",
     "Réflexe stapédien.md",
+    "Cours/Oreille moyenne.md",
     "Pasted image 20231029152935.png",
     "Cours/Cholestéatome.md",
     "Cours/Pathologies.md",
@@ -178,7 +179,6 @@
     "Untitled",
     "Cours/Ostéome et exostose du conduit auditif.md",
     "Images/Pasted image 20231028114230.png",
-    "Organisation et annexes/Markdown Helper.md",
     "Images/Pasted image 20231024135731.png",
     "Images/Pasted image 20231024120200.png",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",

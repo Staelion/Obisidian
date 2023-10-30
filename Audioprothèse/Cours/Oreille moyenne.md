@@ -5,7 +5,7 @@ Profs : PEIGNE CODET
 L'oreille moyenne qui s'étend du tympan jusqu'à l'oreille interne est un petit espace rempli d'air qui contient principalement la chaine ossiculaire. Il est aéré grâce à la [[Trompe d'eustache]]
 
 ![[Pasted image 20231024120200.png]]
-
+![[Pasted image 20231030191552.png]]
 ### Le tympan
 
 >[!WARNING]+ Définition
@@ -48,14 +48,14 @@ Otites moyenne chroniques (OMC) = tout processus inflammatoire de l’oreille mo
 >Ensemble de trois petits os situés dans l'oreille moyenne. Ces os sont les plus petits du corps humain et sont responsables de la transmission des vibrations sonores de la membrane du tympan à la cochlée, l'organe de l'audition. Les trois osselets sont : le marteau (malleus), l'enclume (incus) et l'étrier (stapes). Ils amplifient les ondes sonores et les transmettent efficacement à la cochlée pour permettre la perception auditive.
 
 >[!INFO]+ Anatomie
->On retrouve trois osselets différents osselets qui forment 
+>La transmission des forces sonores dans l'oreille moyenne est assurée par le couplage mécanique entre le tympan et le marteau, avec les osselets tels que le marteau et l'enclume servant d'axes de rotation. Cette transmission s'opère via des ligaments qui agissent comme le centre d'inertie rotationnel des osselets, exploitant le phénomène de levier.
+> Le rapport de levier dépend de la distance entre le tympan et l'axe de rotation par rapport à l'articulation de l'enclume. L'axe de rotation varie en fonction de la fréquence sonore, avec une rotation favorisée pour les basses fréquences et une translation pour les hautes fréquences. L'étrier, quant à lui, réalise un mouvement de piston dans la fenêtre ovale de l'oreille moyenne. La forte adhérence entre le tympan et le manche du marteau est maintenue par des ligaments et filaments. L'axe de rotation correspond à l'alignement du corps et de la tête de l'enclume, tandis que l'axe de translation est illustré par l'exemple de la transmission des vibrations à travers des boules, où seules la première et la dernière boule sont mobiles.
 >![[Pasted image 20231029152935.png]]
 
 >[!INFO]+ Fonctions
 >
->Rôle de transmission 
->Rôle de protection de l'[[Oreille interne]] :
->- [[Réflexe stapédien]]
+>Rôle de transmission des vibrations sonores jusqu'à l'oreille interne
+>Rôle de protection de l'[[Oreille interne]] à l'aide du [[Réflexe stapédien]]
 
 >[!INFO]+ Pathologies
 >

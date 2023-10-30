@@ -1,5 +1,6 @@
 
 >[!WARNING] Définition
+>Le réflexe stapédien est une réponse réflexe de l'organisme, caractérisée par la contraction des muscles stapédiens en réaction à des niveaux sonores élevés (généralement supérieurs à 80 dB), visant à atténuer la transmission des basses fréquences et à protéger l'oreille interne.
 
 
 >[!INFO]
@@ -8,5 +9,7 @@
 >
 Le réflexe stapédien suit un arc réflexe poly-synaptique, impliquant les boucles acoustico-faciale et acoustico-trigéminale, ce qui entraîne une latence d'au moins 7 à 10 ms en fonction de l'intensité du son incident. Il présente une certaine fatigabilité après plusieurs secondes, surtout aux fréquences élevées telles que 1,5 kHz et 3 kHz. En plus de protéger l'oreille interne, ce réflexe améliore la sélectivité fréquentielle en atténuant davantage les basses fréquences, ce qui favorise la compréhension de sons complexes, y compris la parole dans un environnement bruyant, tout en réduisant le bruit généré par l'organisme. 
 >
->Il convient de noter que le réflexe stapédien, en laissant passer les fréquences aiguës, entraîne une réduction maximale de 15 dB lorsque la stimulation sonore augmente de 20 dB par rapport à la précédente. Par exemple, si le son atteint 80 dB, le réflexe réduit l'impact à 100 dB. Enfin, l'information est transmise de l'oreille interne au cerveau par le nerf acoustique (VIII), passant par le noyau cochléaire et le tronc cérébral, et le nerf facial (VII) assure l'innervation du muscle de l'étrier.
+>En laissant passer les fréquences aiguës, entraîne une réduction maximale de 15 dB lorsque la stimulation sonore augmente de 20 dB par rapport à la précédente. Par exemple, si le son atteint 80 dB, le réflexe réduit l'impact à 100 dB. 
+>
+>Enfin, l'information est transmise de l'oreille interne au cerveau par le nerf acoustique (VIII), passant par le noyau cochléaire et le tronc cérébral, et le nerf facial (VII) assure l'innervation du muscle de l'étrier.
 
