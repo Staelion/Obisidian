@@ -2,7 +2,8 @@ Profs : PEIGNE CODET
 
 ## Anatomie
 
-L'oreille moyenne qui s'étend du tympan jusqu'à l'oreille interne est un petit espace rempli d'air qui contient principalement la chaine ossiculaire. Il est aéré grâce à la [[Trompe d'eustache]]
+>[!INFO] 
+>L'oreille moyenne qui s'étend du tympan jusqu'à l'oreille interne est un petit espace rempli d'air qui contient principalement la chaine ossiculaire. Il est aéré grâce à la [[Trompe d'eustache]]
 
 ![[Pasted image 20231024120200.png]]
 ![[Pasted image 20231030191552.png]]
@@ -59,7 +60,11 @@ Otites moyenne chroniques (OMC) = tout processus inflammatoire de l’oreille mo
 
 >[!INFO]+ Pathologies
 >
-(pathologies : Otite moyenne aigue, )
+>- [[Otospongiose]]
+>- [[Otite Moyenne aïgue]]
+>- [[Cholestéatome]]
+>- Autres pathologies liés à l'oreille moyenne
+
 ### Les parois et leurs communications
 
 

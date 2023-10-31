@@ -11,5 +11,7 @@ Le réflexe stapédien suit un arc réflexe poly-synaptique, impliquant les bouc
 >
 >En laissant passer les fréquences aiguës, entraîne une réduction maximale de 15 dB lorsque la stimulation sonore augmente de 20 dB par rapport à la précédente. Par exemple, si le son atteint 80 dB, le réflexe réduit l'impact à 100 dB. 
 >
+>Il existe une fatigabilité de ce réflexe après plus de 10s, à partir 1.5k Hz et surtout vers 3k Hz
+>
 >Enfin, l'information est transmise de l'oreille interne au cerveau par le nerf acoustique (VIII), passant par le noyau cochléaire et le tronc cérébral, et le nerf facial (VII) assure l'innervation du muscle de l'étrier.
 

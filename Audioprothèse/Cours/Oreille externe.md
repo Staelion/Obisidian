@@ -1,7 +1,8 @@
 Profs : PEIGNE JAOUEN PLAINFOSSÉ
 ## Anatomie
 
-L'oreille externe se compose de deux parties principale : le pavillon et le conduit auditif. Elle à un triple rôle de transmission du son à l'oreille moyenne, amplification sonore ainsi que protection de l'oreille moyenne.
+>[!INFO] 
+>L'oreille externe se compose de deux parties principale : le pavillon et le conduit auditif. Elle à un triple rôle de transmission du son à l'oreille moyenne, amplification sonore ainsi que protection de l'oreille moyenne.
 
 ![[Pasted image 20231024120200.png]]
 ### Le pavillon

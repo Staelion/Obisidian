@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Cours/Oreille interne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Cours/Oreille interne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Oreille moyenne.md",
+                "file": "Cours/Oreille interne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Oreille moyenne.md"
+                "file": "Cours/Oreille interne.md"
               }
             }
           }
@@ -150,34 +150,35 @@
   },
   "active": "eb20978589ebb052",
   "lastOpenFiles": [
-    "Pasted image 20231030191552.png",
-    "Réflexe stapédien.md",
+    "Cours/Manœuvre de Valsalva.md",
+    "Cours/Trompe d'eustache.md",
     "Cours/Oreille moyenne.md",
-    "Pasted image 20231029152935.png",
-    "Cours/Cholestéatome.md",
-    "Cours/Pathologies.md",
-    "Cours/Pathologies traumatiques du CAE.md",
-    "Cours/Perforation tympanique.md",
-    "Cours/Physiologie de l'audition.md",
-    "Surdité de perception.md",
-    "Surdité de transmission.md",
-    "Cours/Paracentèse.md",
-    "Cours/Otite séro-muqueuse (OSM).md",
-    "Cours/Otite fibro-ahésive.md",
-    "Cours/Dermo-hypodermite.md",
-    "Cours/Oreille externe.md",
     "Cours/Poche de rétraction.md",
-    "Cours/Sténose du conduit auditif.md",
-    "Cours/COURS.md",
-    "Cours/Otite Moyenne aïgue.md",
+    "Cours/Physiologie de l'audition.md",
+    "Cours/Pathologies traumatiques du CAE.md",
+    "Cours/Pathologies.md",
+    "Cours/Paracentèse.md",
+    "Cours/Oreille externe.md",
     "Cours/Oreille interne.md",
-    "Cours/Audioprothèse.md",
-    "Cours/Otite externe aïgue.md",
-    "Cours/Audiologie.md",
-    "Cours/Agénésie du conduit auditif.md",
-    "Untitled.md",
-    "Untitled",
+    "Cours/Otite Moyenne aïgue.md",
+    "Cours/Otite fibro-ahésive.md",
+    "labyrinthite.md",
+    "Surdité de transmission.md",
+    "Surdité de perception.md",
+    "SOUTENANCE DE MEMOIRE.md",
+    "Cours/Perforation tympanique.md",
+    "Cours/Réflexe stapédien.md",
+    "Cours/Sténose du conduit auditif.md",
+    "!WARNING.md",
     "Cours/Ostéome et exostose du conduit auditif.md",
+    "Images/Pasted image 20231030191552.png",
+    "Cours/Otospongiose.md",
+    "Images/Pasted image 20231029152935.png",
+    "Cours/Cholestéatome.md",
+    "Cours/Otite séro-muqueuse (OSM).md",
+    "Cours/Dermo-hypodermite.md",
+    "Cours/COURS.md",
+    "Untitled",
     "Images/Pasted image 20231028114230.png",
     "Images/Pasted image 20231024135731.png",
     "Images/Pasted image 20231024120200.png",

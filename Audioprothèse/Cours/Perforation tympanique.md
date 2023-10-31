@@ -12,6 +12,6 @@
 >
 >*Complications :*
 >- Otorrhée 
->- Risque de labyrinthite si otorrhée a répétition
+>- Risque de [[labyrinthite]] si otorrhée a répétition
 > - [[Surdité de perception]] évolutive
 

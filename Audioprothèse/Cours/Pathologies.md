@@ -16,8 +16,10 @@
 
 
 
+>[!INFO]+ Pathologies internes 
+>
+>[[labyrinthite]]
 
-pathologies internes 
 
 pathologies rares
 
