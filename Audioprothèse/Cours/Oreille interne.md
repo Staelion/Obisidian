@@ -23,8 +23,6 @@ Profs : PARENT CODET
 >
 >Le trajet du son commence par l'entrée par la fenêtre ovale, se dirigeant ensuite vers la rampe vestibulaire. La communication se fait à l'apex par l'hélicotrème, et enfin, le son sort par la rampe tympanique pour atteindre la fenêtre ronde. 
 >
->![[Pasted image 20231101191132.png]]
->
 
 >[!INFO]+ Fonctions
 >La membrane basilaire entre en résonance en réponse à une fréquence sonore spécifique, avec une déformation qui varie en fonction de la fréquence. Cette déformation stimule l'organe de Corti, créant ainsi la tonotopie, où les fréquences graves sont détectées à l'apex et les fréquences aiguës à la base.
@@ -38,7 +36,7 @@ Profs : PARENT CODET
 
 >[!INFO] Anatomie
 >L'organe de Corti, situé dans le canal cochléaire, est le véritable organe auditif de l'oreille interne. Il transforme les informations mécaniques issues du son en signaux électriques nerveux. Les principales structures anatomiques de l'organe de Corti comprennent la membrane basilaire, les cellules ciliées externes et internes, et la membrana tectoria. Les cellules ciliées externes sont au nombre de 13 000 par cochlée, présentent des stéréocils à l'apex et sont contractiles. Elles attirent la membrana tectoria, ce qui déclenche la dépolarisation (activation) des cellules ciliées internes, au nombre de 3 500 par cochlée. Ces dernières ont également des stéréocils à l'apex et sont responsables de l'activation du nerf cochléaire pour la transmission du signal auditif.
-
+>>![[Pasted image 20231101191132.png]]
 >[!INFO] Fonctions
 >
 >1. **Sensibilité aux seuils auditifs :** L'organe de Corti est responsable de la détection des seuils auditifs, c'est-à-dire des niveaux de son les plus faibles que nous pouvons percevoir. Différentes parties de la membrane basilaire sont plus sensibles à certaines fréquences, ce qui permet de détecter des sons de différentes intensités.
@@ -55,13 +53,26 @@ Profs : PARENT CODET
 ### Oreille interne postérieure : Canaux-semi-circulaires et Vestibule
 
 >[!WARNING] Définition
+>
+>Les canaux semi-circulaires sont des structures anatomiques de l'oreille interne responsables de la détection des mouvements angulaires de la tête, contribuant ainsi à l'équilibre et à la régulation des réflexes oculomoteurs.
 #### Canaux semi-circulaires 
 
 >[!INFO] Anatomie
+>
+>  
+>Les canaux semi-circulaires (CSC) sont des structures essentielles de l'oreille interne, orientées dans les trois plans de l'espace. Ils sont perpendiculaires les uns aux autres, avec un diamètre d'environ 0,8 mm chacun. Chaque canal semi-circulaire comprend une ampoule et un orifice non ampullaire. Le CSC latéral, situé à environ 30° de la verticale (plan de Francfort), s'horizontalise lorsque l'on regarde devant soi et est le plus court, mesurant environ 15 mm de long. Il possède une ampoule antérieure. Le CSC supérieur, qui est également antérieur, est perpendiculaire au grand axe du rocher et mesure environ 16 mm de long. Il partage un canal commun avec le CSC postérieur. Enfin, le CSC postérieur, parallèle au grand axe du rocher, est le plus long des trois canaux, mesurant environ 20 mm de long, avec une ampoule postérieure. Il partage également un canal commun avec le CSC supérieur. On retrouve aussi les macules utriculaires et sacculaires qui apportent des informations de position dans le plan horizontal et vertical respectivement (accélération d'un véhicule / ascenseur)
+>
+>![[Pasted image 20231102152555.png]]
+
 
 >[!INFO]+ Fonctions
+>- Gestion de l'équilibre
+>- Proprioception
+>- Informations de déplacements du corps
+>- réglage des [[Réflexes oculomoteurs]] 
 
 >[!INFO] Pathologies
+>Etant l'organe responsable de la gestion de l'équilibre, les principales pathologies que l'on retrouve seront des [[Pathologies vertigineuses]] 
 #### Vestibule
 
 >[!INFO] Anatomie

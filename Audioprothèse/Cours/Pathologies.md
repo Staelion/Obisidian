@@ -15,6 +15,7 @@
 >[!INFO]+ Pathologies internes 
 >
 >[[Labyrinthite]]
+>[[Pathologies vertigineuses]]
 
 
 pathologies rares

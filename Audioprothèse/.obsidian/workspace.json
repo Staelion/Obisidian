@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a0615dfee378802f",
+        "id": "f115e53dfb8ce5cc",
         "type": "tabs",
         "children": [
           {
-            "id": "980aee2970c219a6",
+            "id": "84842b60a970101c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sélectivité sensorielle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sélectivité sensorielle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sélectivité sensorielle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sélectivité sensorielle.md"
+              }
             }
           }
         ]
@@ -139,38 +148,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "980aee2970c219a6",
+  "active": "84842b60a970101c",
   "lastOpenFiles": [
-    "Cours/Oreille moyenne.md",
-    "Cours/Oreille interne.md",
+    "Réflexes oculomoteurs.md",
+    "Fonctionnement central.md",
+    "Dashboard.md",
+    "Cours/Audiologie.md",
+    "Mécanismes de l'audition.md",
     "Sélectivité sensorielle.md",
+    "Cours/Réflexe stapédien.md",
     "Cours/Trompe d'eustache.md",
-    "Images/Pasted image 20231101191132.png",
-    "Untitled.canvas",
+    "Cours/Sténose du conduit auditif.md",
     "Cours/Pathologies.md",
-    "Cours/Otite séro-muqueuse (OSM).md",
-    "Cours/Otospongiose.md",
-    "Cours/Paracentèse.md",
     "Cours/Pathologies traumatiques du CAE.md",
     "Cours/Perforation tympanique.md",
-    "Cours/Labyrinthite.md",
-    "Cours/Manœuvre de Valsalva.md",
-    "Cours/Poche de rétraction.md",
     "Cours/Physiologie de l'audition.md",
-    "Cours/Oreille externe.md",
-    "Cours/Otite Moyenne aïgue.md",
+    "Cours/Poche de rétraction.md",
+    "Cours/Paracentèse.md",
     "Cours/Otite fibro-ahésive.md",
-    "Surdité de transmission.md",
-    "Surdité de perception.md",
+    "Cours/Otite Moyenne aïgue.md",
+    "Cours/Otite séro-muqueuse (OSM).md",
+    "Cours/Otospongiose.md",
     "SOUTENANCE DE MEMOIRE.md",
-    "Cours/Réflexe stapédien.md",
-    "Cours/Sténose du conduit auditif.md",
-    "!WARNING.md",
+    "Surdité de perception.md",
+    "Surdité de transmission.md",
+    "Cours/Oreille interne.md",
+    "Cours/Oreille moyenne.md",
+    "Cours/Oreille externe.md",
     "Cours/Ostéome et exostose du conduit auditif.md",
+    "Images/Pasted image 20231102152555.png",
+    "Images/Pasted image 20231101191132.png",
+    "Untitled.canvas",
     "Images/Pasted image 20231030191552.png",
     "Images/Pasted image 20231029152935.png",
-    "Cours/Cholestéatome.md",
-    "Cours/Dermo-hypodermite.md",
     "Untitled",
     "Images/Pasted image 20231028114230.png",
     "Images/Pasted image 20231024135731.png",
