@@ -11,13 +11,8 @@
             "id": "84842b60a970101c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sélectivité sensorielle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sélectivité sensorielle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sélectivité sensorielle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sélectivité sensorielle.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,12 +141,21 @@
   },
   "active": "84842b60a970101c",
   "lastOpenFiles": [
+    "Organisation et annexes/Méthodes de création des fiches.md",
+    "Cours/Oreille interne.md",
+    "Images/Pasted image 20231107101833.png",
+    "Cours/Oreille moyenne.md",
+    "Images/Pasted image 20231107101615.png",
+    "Images/Pasted image 20231107101251.png",
+    "Images/Pasted image 20231107100827.png",
+    "Cours/Labyrinthite.md",
+    "Images/Pasted image 20231107100551.png",
+    "Sélectivité sensorielle.md",
     "Réflexes oculomoteurs.md",
     "Fonctionnement central.md",
     "Dashboard.md",
     "Cours/Audiologie.md",
     "Mécanismes de l'audition.md",
-    "Sélectivité sensorielle.md",
     "Cours/Réflexe stapédien.md",
     "Cours/Trompe d'eustache.md",
     "Cours/Sténose du conduit auditif.md",
@@ -172,10 +172,6 @@
     "SOUTENANCE DE MEMOIRE.md",
     "Surdité de perception.md",
     "Surdité de transmission.md",
-    "Cours/Oreille interne.md",
-    "Cours/Oreille moyenne.md",
-    "Cours/Oreille externe.md",
-    "Cours/Ostéome et exostose du conduit auditif.md",
     "Images/Pasted image 20231102152555.png",
     "Images/Pasted image 20231101191132.png",
     "Untitled.canvas",
@@ -183,15 +179,10 @@
     "Images/Pasted image 20231029152935.png",
     "Untitled",
     "Images/Pasted image 20231028114230.png",
-    "Images/Pasted image 20231024135731.png",
-    "Images/Pasted image 20231024120200.png",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
-    "Images/Pasted image 20231022191051.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Images/Pasted image 20231021153720.png",
     "Organisation et annexes",
-    "Images/Pasted image 20231021140614.png",
     "Images",
     "Cours",
     "Templates"

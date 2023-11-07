@@ -7,6 +7,7 @@ Profs : PEIGNE CODET
 
 ![[Pasted image 20231024120200.png]]
 ![[Pasted image 20231030191552.png]]
+![[Pasted image 20231107101251.png]]
 ### Le tympan
 
 >[!WARNING]+ Définition
@@ -52,6 +53,7 @@ Otites moyenne chroniques (OMC) = tout processus inflammatoire de l’oreille mo
 >La transmission des forces sonores dans l'oreille moyenne est assurée par le couplage mécanique entre le tympan et le marteau, avec les osselets tels que le marteau et l'enclume servant d'axes de rotation. Cette transmission s'opère via des ligaments qui agissent comme le centre d'inertie rotationnel des osselets, exploitant le phénomène de levier.
 > Le rapport de levier dépend de la distance entre le tympan et l'axe de rotation par rapport à l'articulation de l'enclume. L'axe de rotation varie en fonction de la fréquence sonore, avec une rotation favorisée pour les basses fréquences et une translation pour les hautes fréquences. L'étrier, quant à lui, réalise un mouvement de piston dans la fenêtre ovale de l'oreille moyenne. La forte adhérence entre le tympan et le manche du marteau est maintenue par des ligaments et filaments. L'axe de rotation correspond à l'alignement du corps et de la tête de l'enclume, tandis que l'axe de translation est illustré par l'exemple de la transmission des vibrations à travers des boules, où seules la première et la dernière boule sont mobiles.
 >![[Pasted image 20231029152935.png]]
+>![[Pasted image 20231107101615.png]]
 
 >[!INFO]+ Fonctions
 >

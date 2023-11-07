@@ -7,7 +7,7 @@ Profs : PARENT CODET
 
 ![[Pasted image 20231024120200.png]]
 ![[Pasted image 20231030191552.png]]
-
+![[Pasted image 20231107100827.png]]
 ### Oreille interne antérieure : La cochlée
 
 #### La cochlée 
@@ -22,7 +22,8 @@ Profs : PARENT CODET
 >À l'intérieur de l'oreille interne, on trouve les rampes vestibulaires et tympaniques, séparées par la membrane basilaire et contenant de la périlymphe. Le canal cochléaire abrite la membrane basilaire, qui joue un rôle clé en tant qu'organe de Corti, l'organe sensoriel de l'audition, et contient de l'endolymphe.
 >
 >Le trajet du son commence par l'entrée par la fenêtre ovale, se dirigeant ensuite vers la rampe vestibulaire. La communication se fait à l'apex par l'hélicotrème, et enfin, le son sort par la rampe tympanique pour atteindre la fenêtre ronde. 
->
+![[Pasted image 20231107101833.png]]
+
 
 >[!INFO]+ Fonctions
 >La membrane basilaire entre en résonance en réponse à une fréquence sonore spécifique, avec une déformation qui varie en fonction de la fréquence. Cette déformation stimule l'organe de Corti, créant ainsi la tonotopie, où les fréquences graves sont détectées à l'apex et les fréquences aiguës à la base.
@@ -37,7 +38,9 @@ Profs : PARENT CODET
 >[!INFO] Anatomie
 >L'organe de Corti, situé dans le canal cochléaire, est le véritable organe auditif de l'oreille interne. Il transforme les informations mécaniques issues du son en signaux électriques nerveux. Les principales structures anatomiques de l'organe de Corti comprennent la membrane basilaire, les cellules ciliées externes et internes, et la membrana tectoria. Les cellules ciliées externes sont au nombre de 13 000 par cochlée, présentent des stéréocils à l'apex et sont contractiles. Elles attirent la membrana tectoria, ce qui déclenche la dépolarisation (activation) des cellules ciliées internes, au nombre de 3 500 par cochlée. Ces dernières ont également des stéréocils à l'apex et sont responsables de l'activation du nerf cochléaire pour la transmission du signal auditif.
 >>![[Pasted image 20231101191132.png]]
->[!INFO] Fonctions
+>[!INFO] 
+>![[Pasted image 20231107100551.png]]
+>Fonctions
 >
 >1. **Sensibilité aux seuils auditifs :** L'organe de Corti est responsable de la détection des seuils auditifs, c'est-à-dire des niveaux de son les plus faibles que nous pouvons percevoir. Différentes parties de la membrane basilaire sont plus sensibles à certaines fréquences, ce qui permet de détecter des sons de différentes intensités.
    > 
@@ -50,7 +53,7 @@ Profs : PARENT CODET
 >**Endommagements et pathologies :** Les cellules ciliées de l'organe de Corti sont vulnérables aux dommages dus à l'exposition au bruit excessif, aux médicaments ototoxiques, aux infections et à d'autres facteurs. Lorsqu'elles sont endommagées, elles peuvent ne pas se régénérer, entraînant ainsi des pertes auditives permanentes.
 
 
-### Oreille interne postérieure : Canaux-semi-circulaires et Vestibule
+### Oreille interne postérieure : Canaux semi-circulaires et Vestibule
 
 >[!WARNING] Définition
 >
