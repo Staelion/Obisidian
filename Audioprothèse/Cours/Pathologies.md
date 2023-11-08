@@ -1,7 +1,7 @@
 ## __Ici seront regroupés toutes les différentes pathologies qui seront expliqués à travers les différents cours__
 
 
->[!INFO]+ Pathologies exernes
+>[!INFO]+ Pathologies externes
 >
 >[[Agénésie du conduit auditif]]
 >[[Dermo-hypodermite]]
@@ -11,6 +11,9 @@
 >[[Sténose du conduit auditif]] 
 >[[Cholestéatome]]
 >[[Pathologies traumatiques du CAE]]
+>[[Otospongiose]]
+>[[Oreille Geyser]]
+>
 
 >[!INFO]+ Pathologies internes 
 >
@@ -18,7 +21,10 @@
 >[[Pathologies vertigineuses]]
 
 
-pathologies rares
+>[!INFO]+ Maladies rare ayant un impact sur l'audition 
+>[[Maladie de ménière]]
+
+
 
 pathologies externes a l'oreille ayant un impact sur l'audition
 

@@ -11,13 +11,8 @@
             "id": "84842b60a970101c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Oreille interne.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Oreille interne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Oreille interne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cours/Oreille interne.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -150,10 +141,19 @@
   },
   "active": "84842b60a970101c",
   "lastOpenFiles": [
-    "Organisation et annexes/Méthodes de création des fiches.md",
-    "Cours/Oreille interne.md",
-    "Images/Pasted image 20231107101833.png",
+    "Paragangliomes.md",
+    "Images/Pasted image 20231108112043.png",
+    "Cours/Oreille externe.md",
+    "Oreille Geyser.md",
     "Cours/Oreille moyenne.md",
+    "Cours/Otospongiose.md",
+    "Untitled",
+    "Cours/Oreille interne.md",
+    "Cours/Pathologies.md",
+    "Pathologies vertigineuses.md",
+    "Cours/Pathologies traumatiques du CAE.md",
+    "Organisation et annexes/Méthodes de création des fiches.md",
+    "Images/Pasted image 20231107101833.png",
     "Images/Pasted image 20231107101615.png",
     "Images/Pasted image 20231107101251.png",
     "Images/Pasted image 20231107100827.png",
@@ -168,26 +168,16 @@
     "Cours/Réflexe stapédien.md",
     "Cours/Trompe d'eustache.md",
     "Cours/Sténose du conduit auditif.md",
-    "Cours/Pathologies.md",
-    "Cours/Pathologies traumatiques du CAE.md",
     "Cours/Perforation tympanique.md",
     "Cours/Physiologie de l'audition.md",
     "Cours/Poche de rétraction.md",
     "Cours/Paracentèse.md",
     "Cours/Otite fibro-ahésive.md",
-    "Cours/Otite Moyenne aïgue.md",
-    "Cours/Otite séro-muqueuse (OSM).md",
-    "Cours/Otospongiose.md",
-    "SOUTENANCE DE MEMOIRE.md",
-    "Surdité de perception.md",
-    "Surdité de transmission.md",
     "Images/Pasted image 20231102152555.png",
     "Images/Pasted image 20231101191132.png",
     "Untitled.canvas",
     "Images/Pasted image 20231030191552.png",
     "Images/Pasted image 20231029152935.png",
-    "Untitled",
-    "Images/Pasted image 20231028114230.png",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

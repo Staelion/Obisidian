@@ -5,6 +5,9 @@ Profs : PEIGNE CODET
 >[!INFO] 
 >L'oreille moyenne qui s'étend du tympan jusqu'à l'oreille interne est un petit espace rempli d'air qui contient principalement la chaine ossiculaire. Il est aéré grâce à la [[Trompe d'eustache]]
 
+>[!INFO] Pathologies
+>[[Paragangliomes]]
+> 
 ![[Pasted image 20231024120200.png]]
 ![[Pasted image 20231030191552.png]]
 ![[Pasted image 20231107101251.png]]

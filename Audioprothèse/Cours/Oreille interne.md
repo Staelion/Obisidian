@@ -1,4 +1,4 @@
-Profs : PARENT CODET
+Profs : PARENT CODET JAOUEN
 
 ## Anatomie
 
@@ -29,6 +29,7 @@ Profs : PARENT CODET
 >La membrane basilaire entre en résonance en réponse à une fréquence sonore spécifique, avec une déformation qui varie en fonction de la fréquence. Cette déformation stimule l'organe de Corti, créant ainsi la tonotopie, où les fréquences graves sont détectées à l'apex et les fréquences aiguës à la base.
 
 >[!INFO] Pathologies
+>[[Oreille Geyser]]
 
 #### Organe de Corti
 
@@ -53,11 +54,19 @@ Profs : PARENT CODET
 >**Endommagements et pathologies :** Les cellules ciliées de l'organe de Corti sont vulnérables aux dommages dus à l'exposition au bruit excessif, aux médicaments ototoxiques, aux infections et à d'autres facteurs. Lorsqu'elles sont endommagées, elles peuvent ne pas se régénérer, entraînant ainsi des pertes auditives permanentes.
 
 
-### Oreille interne postérieure : Canaux semi-circulaires et Vestibule
+### Oreille interne postérieure : Système vestibulaire
 
 >[!WARNING] Définition
 >
 >Les canaux semi-circulaires sont des structures anatomiques de l'oreille interne responsables de la détection des mouvements angulaires de la tête, contribuant ainsi à l'équilibre et à la régulation des réflexes oculomoteurs.
+>
+>>Trois effecteurs participent à l’équilibre : 
+>- Le système vestibulaire   
+>- La vision 
+>- La proprioception (position et équilibre par les muscles, récepteurs sous voute plantaire)
+>- Parallèlement à l’équilibre : la marche. (Le système ostéo-articulaire, les muscles, système vasculaire)
+
+
 #### Canaux semi-circulaires 
 
 >[!INFO] Anatomie
