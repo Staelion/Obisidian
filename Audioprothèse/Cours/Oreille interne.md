@@ -65,6 +65,15 @@ Profs : PARENT CODET JAOUEN
 >- La vision 
 >- La proprioception (position et équilibre par les muscles, récepteurs sous voute plantaire)
 >- Parallèlement à l’équilibre : la marche. (Le système ostéo-articulaire, les muscles, système vasculaire)
+>  
+>Les deux réflexes : 
+>- Réflexe vestibulo oculaire : permet de stabiliser l’image de l’environnement visuel sur la rétine quand on tourne la tête   
+>Ex : si la tête tourne de 15 vers la gauche, l’œil fait 15° vers la droite, gain =1
+>
+> - Réflexe vestibulo spinal : participe à la régulation du corps lors des mouvements de la tête
+>Ex : si on tourne à droite=> tout le poids du corps bascule vers la droite
+
+  
 
 
 #### Canaux semi-circulaires 

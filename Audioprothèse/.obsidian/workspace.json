@@ -11,8 +11,13 @@
             "id": "84842b60a970101c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pathologies vertigineuses.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pathologies vertigineuses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pathologies vertigineuses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pathologies vertigineuses.md"
+              }
             }
           }
         ]
@@ -141,6 +150,8 @@
   },
   "active": "84842b60a970101c",
   "lastOpenFiles": [
+    "Cours/Oreille interne.md",
+    "Pathologies vertigineuses.md",
     "Paragangliomes.md",
     "Images/Pasted image 20231108112043.png",
     "Cours/Oreille externe.md",
@@ -148,9 +159,7 @@
     "Cours/Oreille moyenne.md",
     "Cours/Otospongiose.md",
     "Untitled",
-    "Cours/Oreille interne.md",
     "Cours/Pathologies.md",
-    "Pathologies vertigineuses.md",
     "Cours/Pathologies traumatiques du CAE.md",
     "Organisation et annexes/Méthodes de création des fiches.md",
     "Images/Pasted image 20231107101833.png",

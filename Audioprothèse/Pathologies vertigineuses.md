@@ -1,7 +1,5 @@
 >[!WARNING] Définition
 >
->
->
 >Trois effecteurs participent à l’équilibre : 
 >- Le système vestibulaire   
 >- La vision 
@@ -20,9 +18,5 @@
 >**Diagnostic**
 >
 >
-
-
-
-
 
 >[!INFO] Examens cliniques
