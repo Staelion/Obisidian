@@ -19,6 +19,9 @@
 >
 >[[Labyrinthite]]
 >[[Pathologies vertigineuses]]
+>[[Nystagmus]]
+>[[Déviations posturale]]
+>
 
 
 >[!INFO]+ Maladies rare ayant un impact sur l'audition 

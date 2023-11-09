@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathologies vertigineuses.md",
+                "file": "Pathologies/Pathologies vertigineuses.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathologies vertigineuses.md",
+                "file": "Pathologies/Pathologies vertigineuses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathologies vertigineuses.md",
+                "file": "Pathologies/Pathologies vertigineuses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathologies vertigineuses.md"
+                "file": "Pathologies/Pathologies vertigineuses.md"
               }
             }
           }
@@ -150,43 +150,47 @@
   },
   "active": "84842b60a970101c",
   "lastOpenFiles": [
-    "Cours/Oreille interne.md",
-    "Pathologies vertigineuses.md",
-    "Paragangliomes.md",
+    "Cours/Audiologie/Oreille interne.md",
+    "Cours/Audioprothèse.md",
+    "Untitled.md",
+    "Cours/Audiologie/Trompe d'eustache.md",
+    "Cours/Physiologie de l'audition.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Mécanismes de l'audition",
+    "Manœuvres et interventions/Manœuvres et interventions.md",
+    "Manœuvres et interventions",
+    "Cours/COURS.md",
+    "Cours/Audiologie",
+    "Cours/Audiologie/Oreille externe.md",
+    "Manœuvres et interventions/Manœuvre de Valsalva.md",
+    "Pathologies/Pathologies.md",
+    "Pathologies",
+    "Pathologies/Pathologies vertigineuses.md",
+    "Images/Pasted image 20231109104923.png",
+    "Pathologies/Paragangliomes.md",
     "Images/Pasted image 20231108112043.png",
-    "Cours/Oreille externe.md",
-    "Oreille Geyser.md",
-    "Cours/Oreille moyenne.md",
-    "Cours/Otospongiose.md",
-    "Untitled",
-    "Cours/Pathologies.md",
-    "Cours/Pathologies traumatiques du CAE.md",
+    "Pathologies/Oreille Geyser.md",
+    "Cours/Audiologie/Oreille moyenne.md",
+    "Pathologies/Otospongiose.md",
+    "Pathologies/Pathologies traumatiques du CAE.md",
     "Organisation et annexes/Méthodes de création des fiches.md",
     "Images/Pasted image 20231107101833.png",
     "Images/Pasted image 20231107101615.png",
     "Images/Pasted image 20231107101251.png",
     "Images/Pasted image 20231107100827.png",
-    "Cours/Labyrinthite.md",
+    "Pathologies/Labyrinthite.md",
     "Images/Pasted image 20231107100551.png",
-    "Sélectivité sensorielle.md",
-    "Réflexes oculomoteurs.md",
-    "Fonctionnement central.md",
+    "Mécanismes de l'audition/Sélectivité sensorielle.md",
+    "Mécanismes de l'audition/Réflexes oculomoteurs.md",
+    "Cours/Audiologie/Fonctionnement central.md",
     "Dashboard.md",
-    "Cours/Audiologie.md",
-    "Mécanismes de l'audition.md",
-    "Cours/Réflexe stapédien.md",
-    "Cours/Trompe d'eustache.md",
-    "Cours/Sténose du conduit auditif.md",
-    "Cours/Perforation tympanique.md",
-    "Cours/Physiologie de l'audition.md",
-    "Cours/Poche de rétraction.md",
-    "Cours/Paracentèse.md",
-    "Cours/Otite fibro-ahésive.md",
+    "Mécanismes de l'audition/Mécanismes de l'audition.md",
+    "Mécanismes de l'audition/Réflexe stapédien.md",
+    "Pathologies/Sténose du conduit auditif.md",
     "Images/Pasted image 20231102152555.png",
     "Images/Pasted image 20231101191132.png",
     "Untitled.canvas",
     "Images/Pasted image 20231030191552.png",
-    "Images/Pasted image 20231029152935.png",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",

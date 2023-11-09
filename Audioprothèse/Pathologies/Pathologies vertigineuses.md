@@ -15,8 +15,16 @@
 >- facteurs déclenchants : positions médicaments
 >- symptômes associés : acouphènes, surdités, paralysies faciales, pb neuro
 >
->**Diagnostic**
+>**Examens cliniques**
+>
+>- [[Otoscopie]]
+>- Examens préliminaires afin de distinguer vertige périphérique ou central : 
+>	- Recherche de [[Nystagmus]] à l'aide de l'épreuve de Frenzel (lunettes obstruentes + observation  de l'œil lors de mouvements)
+>	- Recherches de [[Déviations posturale]] à l'aide de l'épreuve de Romberg, déviation des index et [[Manœuvre de Fukuda]]
+>	  
+>	  ![[Pasted image 20231109104923.png]]
+>- Examens audiométriques classiques ( [[Audiométrie tonale]], [[Audiométrie vocale]], [[Impédancemétrie]], [[Réflexe stapédien]])
 >
 >
 
->[!INFO] Examens cliniques
+>[!INFO] Diagnostic
