@@ -25,10 +25,10 @@
 
 
 >[!INFO]+ Maladies rare ayant un impact sur l'audition 
->[[Maladie de ménière]]
+>[[Maladie de Ménière]]
 
 
 
 pathologies externes a l'oreille ayant un impact sur l'audition
 
-ex(Schwannome du 8)
+ex [[Schwannome Vestibulaire]]
