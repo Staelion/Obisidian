@@ -23,7 +23,7 @@
 >[[Déviations posturale]]
 >[[Aplasie de Michel]]
 >[[Ossification cochléaire bilatérale]]
-
+>[[Agénésie du nerf cochléaire]]
 
 >[!INFO]+ Maladies rare ayant un impact sur l'audition 
 >[[Maladie de Ménière]]
