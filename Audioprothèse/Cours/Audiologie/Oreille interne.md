@@ -30,6 +30,9 @@ Profs : PARENT CODET JAOUEN
 
 >[!INFO] Pathologies
 >[[Oreille Geyser]]
+>[[Aplasie de Michel]]
+>[[Ossification cochléaire bilatérale]]
+>[[Agénésie du nerf cochléaire]]
 
 #### Organe de Corti
 

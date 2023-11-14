@@ -21,7 +21,8 @@
 >[[Pathologies vertigineuses]]
 >[[Nystagmus]]
 >[[Déviations posturale]]
->
+>[[Aplasie de Michel]]
+>[[Ossification cochléaire bilatérale]]
 
 
 >[!INFO]+ Maladies rare ayant un impact sur l'audition 

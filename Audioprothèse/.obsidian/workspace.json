@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathologies/Pathologies vertigineuses.md",
+                "file": "Pathologies/Pathologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pathologies/Pathologies vertigineuses.md",
+                "file": "Pathologies/Pathologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pathologies/Pathologies vertigineuses.md",
+                "file": "Pathologies/Pathologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pathologies/Pathologies vertigineuses.md"
+                "file": "Pathologies/Pathologies.md"
               }
             }
           }
@@ -162,6 +162,9 @@
     "Manœuvres et interventions/Manœuvre de Fukuda.md",
     "Untitled.md",
     "Cours/Audiologie/Oreille interne.md",
+    "Pathologies/Pathologies.md",
+    "Pathologies/Aplasie de Michel.md",
+    "Pathologies/Pathologies vertigineuses.md",
     "Cours/Audioprothèse.md",
     "Cours/Audiologie/Trompe d'eustache.md",
     "Cours/Physiologie de l'audition.md",
@@ -187,6 +190,11 @@
     "Images/Pasted image 20231107100827.png",
     "Images/Pasted image 20231107100551.png",
     "Mécanismes de l'audition/Sélectivité sensorielle.md",
+    "Mécanismes de l'audition/Réflexes oculomoteurs.md",
+    "Cours/Audiologie/Fonctionnement central.md",
+    "Dashboard.md",
+    "Mécanismes de l'audition/Mécanismes de l'audition.md",
+    "Mécanismes de l'audition/Réflexe stapédien.md",
     "Images/Pasted image 20231102152555.png",
     "Images/Pasted image 20231101191132.png",
     "Untitled.canvas",
