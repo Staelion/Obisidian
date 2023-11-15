@@ -1,10 +1,9 @@
 >[!WARNING] Définition 
 >
->La labyrinthite est une pathologie de l'[[Oreille interne]] caractérisée par une inflammation, une irritation ou une infection des structures internes de l'oreille, notamment le labyrinthe osseux qui contient les organes responsables de l'équilibre (système vestibulaire) et de l'audition (cochlée). 
-
+>La labyrinthite est une pathologie de l'[[Oreille interne]] caractérisée par une inflammation, une irritation ou une infection des structures internes de l'oreille, notamment le labyrinthe osseux qui contient les organes responsables de l'équilibre (système vestibulaire) et de l'audition (cochlée). Elle eut être infectieuse, bactérienne, virale, inflammatoire ou ototoxique. 
 
 >[!INFO] Symptômes 
->- vertiges
+>- grand vertige rotatoire
 >- perte d'équilibre
 >- nausées
 >- vomissements 

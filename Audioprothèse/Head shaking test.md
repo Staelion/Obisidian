@@ -1,0 +1,3 @@
+>[!INFO] 
+>
+>Test utilisé dans l'évaluation de la fonction vestibulaire. Lorsque le patient est allongé, s'il ne présente pas de nystagmus spontané, la tête du patient est ensuite déplacée dans toutes les directions pendant 20 secondes. Si un nystagmus est observé lorsque la tête est arrêtée, cela suggère la présence d'une pathologie vestibulaire. Le HST vise à déclencher des mouvements oculaires involontaires qui peuvent révéler des anomalies dans le système vestibulaire, fournissant ainsi des indications diagnostiques importantes.
