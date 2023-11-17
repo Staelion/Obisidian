@@ -24,9 +24,13 @@
 >[[Aplasie de Michel]]
 >[[Ossification cochléaire bilatérale]]
 >[[Agénésie du nerf cochléaire]]
+>[[Névrite Vestibulaire]]
+>[[Vertige Paroxystique Positionnel Bénin (VPPB)]]
 
 >[!INFO]+ Maladies rare ayant un impact sur l'audition 
 >[[Maladie de Ménière]]
+>
+>
 
 
 
