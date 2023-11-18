@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f115e53dfb8ce5cc",
+        "id": "4abef7e46282b722",
         "type": "tabs",
         "children": [
           {
-            "id": "84842b60a970101c",
+            "id": "e1a45df5fe5edc98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Réflexes stapédiens.md",
+                "file": "La surdité.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Réflexes stapédiens.md",
+                "file": "La surdité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Réflexes stapédiens.md",
+                "file": "La surdité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Réflexes stapédiens.md"
+                "file": "La surdité.md"
               }
             }
           }
@@ -148,36 +148,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84842b60a970101c",
+  "active": "e1a45df5fe5edc98",
   "lastOpenFiles": [
+    "Surdité mixte.md",
+    "La surdité.md",
+    "Cours/Audiologie/Surdité de perception.md",
+    "Cours/Audiologie/Surdité de transmission.md",
+    "Cours/Audioprothèse/Audioprothèse.md",
+    "Principe de l'audition.md",
+    "Pression acoustique.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Pasted image 20231118153055.png",
+    "Principe du son.md",
+    "Cours/Acoustique",
+    "Cours/Physiologie de l'audition.md",
+    "Cours/Audiologie/Fonctionnement central.md",
+    "Otoscopie.md",
+    "Pathologies/Pathologies vertigineuses.md",
+    "Cours/Audiologie/Oreille interne.md",
+    "Cours/COURS.md",
+    "Cours/Audioprothèse",
+    "Mécanismes de l'audition/Réflexes stapédiens.md",
     "Manœuvres et interventions/Impédancemétrie.md",
-    "Réflexes stapédiens.md",
     "Manœuvres et interventions/Tympanométrie.md",
     "Images/Pasted image 20231117162607.png",
     "Images/Pasted image 20231117162507.png",
-    "Pathologies/Pathologies vertigineuses.md",
     "Pathologies/Pathologies.md",
     "Pathologies/Vertige Paroxystique Positionnel Bénin (VPPB).md",
     "Pathologies/Névrite Vestibulaire.md",
     "Manœuvres et interventions/Manœuvres libératrices de Sémont ou Eppley.md",
-    "Cours/Audiologie/Oreille interne.md",
     "Pathologies/Labyrinthite.md",
     "Pathologies/Maladie de Ménière.md",
     "Manœuvres et interventions/Manœuvre de Dix et Hallpike.md",
     "manœuvres de Dix et Hallpike.md",
-    "Manœuvres et interventions/Head shaking test.md",
-    "Mécanismes de l'audition/Occultomotricité.md",
-    "Manœuvres et interventions/Tests vestibulaires rotatoires.md",
-    "Manœuvres et interventions/Epreuves vestibulaires caloriques.md",
-    "Pathologies/Otospongiose.md",
-    "Pathologies/Ossification cochléaire bilatérale.md",
-    "Pathologies/Aplasie de Michel.md",
-    "Pathologies/Schwannome Vestibulaire.md",
-    "Pathologies/Déviations posturale.md",
-    "Mécanismes de l'audition/Nystagmus.md",
-    "Manœuvres et interventions/Manœuvre de Fukuda.md",
-    "Cours/Audioprothèse.md",
-    "Untitled.md",
     "Mécanismes de l'audition",
     "Manœuvres et interventions",
     "Cours/Audiologie",
@@ -189,7 +192,6 @@
     "Images/Pasted image 20231107101251.png",
     "Images/Pasted image 20231107100827.png",
     "Images/Pasted image 20231107100551.png",
-    "Images/Pasted image 20231102152555.png",
     "Untitled.canvas",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
     "Untitled 1.canvas",
