@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La surdité.md",
+                "file": "Les appareils auditifs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La surdité.md",
+                "file": "Les appareils auditifs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La surdité.md",
+                "file": "Les appareils auditifs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La surdité.md"
+                "file": "Les appareils auditifs.md"
               }
             }
           }
@@ -150,15 +150,29 @@
   },
   "active": "e1a45df5fe5edc98",
   "lastOpenFiles": [
-    "Surdité mixte.md",
+    "Le Contour classique (BTE).md",
+    "Les appareils auditifs.md",
+    "Le contour tube fin.md",
+    "Pasted image 20231120232424.png",
+    "Plage d'adaptation.md",
+    "Rechargeabilité.md",
+    "Couplage acoustique et performances.md",
+    "Connectivité.md",
+    "Event.md",
+    "Pasted image 20231120225644.png",
+    "Cours/Audioprothèse/Audioprothèse.md",
     "La surdité.md",
+    "La presbyacousie.md",
+    "Pasted image 20231120215301.png",
+    "Pasted image 20231120213753.png",
+    "Images/Pasted image 20231120214306.png",
+    "Surdité mixte.md",
     "Cours/Audiologie/Surdité de perception.md",
     "Cours/Audiologie/Surdité de transmission.md",
-    "Cours/Audioprothèse/Audioprothèse.md",
     "Principe de l'audition.md",
     "Pression acoustique.md",
     "Cours/Audiologie/Audiologie.md",
-    "Pasted image 20231118153055.png",
+    "Images/Pasted image 20231118153055.png",
     "Principe du son.md",
     "Cours/Acoustique",
     "Cours/Physiologie de l'audition.md",
@@ -169,29 +183,14 @@
     "Cours/COURS.md",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition/Réflexes stapédiens.md",
-    "Manœuvres et interventions/Impédancemétrie.md",
-    "Manœuvres et interventions/Tympanométrie.md",
     "Images/Pasted image 20231117162607.png",
     "Images/Pasted image 20231117162507.png",
-    "Pathologies/Pathologies.md",
-    "Pathologies/Vertige Paroxystique Positionnel Bénin (VPPB).md",
-    "Pathologies/Névrite Vestibulaire.md",
-    "Manœuvres et interventions/Manœuvres libératrices de Sémont ou Eppley.md",
-    "Pathologies/Labyrinthite.md",
-    "Pathologies/Maladie de Ménière.md",
-    "Manœuvres et interventions/Manœuvre de Dix et Hallpike.md",
-    "manœuvres de Dix et Hallpike.md",
     "Mécanismes de l'audition",
     "Manœuvres et interventions",
     "Cours/Audiologie",
     "Pathologies",
     "Images/Pasted image 20231109104923.png",
     "Images/Pasted image 20231108112043.png",
-    "Images/Pasted image 20231107101833.png",
-    "Images/Pasted image 20231107101615.png",
-    "Images/Pasted image 20231107101251.png",
-    "Images/Pasted image 20231107100827.png",
-    "Images/Pasted image 20231107100551.png",
     "Untitled.canvas",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
     "Untitled 1.canvas",
