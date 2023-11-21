@@ -36,6 +36,8 @@ Les principaux critères à considérer dans le choix d'un appareil :
 >-[[Le contour a écouteur déporté (RITE)]]
 >-[[L'intra-auriculaire]]
 >
+>
+>![[Pasted image 20231121111128.png]]
 
 
 
