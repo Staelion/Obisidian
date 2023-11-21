@@ -33,6 +33,8 @@ Les principaux critères à considérer dans le choix d'un appareil :
 >
 >-[[Le Contour classique (BTE)]]
 >-[[Le contour tube fin]]
+>-[[Le contour a écouteur déporté (RITE)]]
+>-[[L'intra-auriculaire]]
 >
 
 
