@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Les appareils auditifs.md",
+                "file": "L'intra-auriculaire.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les appareils auditifs.md",
+                "file": "L'intra-auriculaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les appareils auditifs.md",
+                "file": "L'intra-auriculaire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les appareils auditifs.md"
+                "file": "L'intra-auriculaire.md"
               }
             }
           }
@@ -150,16 +150,18 @@
   },
   "active": "e1a45df5fe5edc98",
   "lastOpenFiles": [
-    "Pasted image 20231121111128.png",
-    "L'intra-auriculaire.md",
+    "Pasted image 20231127214935.png",
     "Les appareils auditifs.md",
+    "Couplage acoustique et performances.md",
+    "Pasted image 20231127213041.png",
+    "L'intra-auriculaire.md",
     "Le contour a écouteur déporté (RITE).md",
     "Le Contour classique (BTE).md",
     "Le contour tube fin.md",
+    "Pasted image 20231121111128.png",
     "Pasted image 20231120232424.png",
     "Plage d'adaptation.md",
     "Rechargeabilité.md",
-    "Couplage acoustique et performances.md",
     "Connectivité.md",
     "Event.md",
     "Pasted image 20231120225644.png",
@@ -190,8 +192,6 @@
     "Manœuvres et interventions",
     "Cours/Audiologie",
     "Pathologies",
-    "Images/Pasted image 20231109104923.png",
-    "Images/Pasted image 20231108112043.png",
     "Untitled.canvas",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
     "Untitled 1.canvas",

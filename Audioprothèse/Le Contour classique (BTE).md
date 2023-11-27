@@ -1,4 +1,4 @@
->[!WARNING]
+>[!INFO]
 >Le contour classique des appareils de correction auditive (ACA) comprend un amplificateur (boîtier), un micro, un coude, un écouteur (transformant l'énergie électrique en acoustique), un tube et un embout. Les modèles peuvent varier en fonction de la surdité du patient et des préférences individuelles.
 >Les différences entre les modèles incluent la localisation du micro, qui peut modifier les caractéristiques de l'appareil, et le cheminement du son à la sortie, y compris l'emplacement de l'écouteur. Les contours classiques présentent également des variations dans la forme du coude, pouvant être ajustées en les chauffant, et dans la méthode de démontage du coude, utilisant des goupilles ou des vis.
 >Un [[Event]] est souvent percé sur l'embout, généralement de petite taille, pour permettre une meilleure perception auditive.
