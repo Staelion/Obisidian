@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4abef7e46282b722",
+        "id": "15fbad34cd0cc2fb",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a45df5fe5edc98",
+            "id": "c8c4004ede47e5f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'intra-auriculaire.md",
+                "file": "Système CROS.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'intra-auriculaire.md",
+                "file": "Système CROS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'intra-auriculaire.md",
+                "file": "Système CROS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'intra-auriculaire.md"
+                "file": "Système CROS.md"
               }
             }
           }
@@ -148,46 +148,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1a45df5fe5edc98",
+  "active": "c8c4004ede47e5f8",
   "lastOpenFiles": [
-    "Pasted image 20231127214935.png",
-    "Les appareils auditifs.md",
-    "Couplage acoustique et performances.md",
-    "Pasted image 20231127213041.png",
-    "L'intra-auriculaire.md",
-    "Le contour a écouteur déporté (RITE).md",
-    "Le Contour classique (BTE).md",
-    "Le contour tube fin.md",
-    "Pasted image 20231121111128.png",
-    "Pasted image 20231120232424.png",
-    "Plage d'adaptation.md",
-    "Rechargeabilité.md",
-    "Connectivité.md",
-    "Event.md",
-    "Pasted image 20231120225644.png",
+    "Cours/Audioprothèse/Les appareils auditifs.md",
+    "Système CROS.md",
+    "Cours/Audioprothèse/L'intra-auriculaire.md",
+    "Pasted image 20231128221543.png",
+    "Pasted image 20231128221527.png",
     "Cours/Audioprothèse/Audioprothèse.md",
-    "La surdité.md",
-    "La presbyacousie.md",
-    "Pasted image 20231120215301.png",
-    "Pasted image 20231120213753.png",
-    "Images/Pasted image 20231120214306.png",
-    "Surdité mixte.md",
+    "Manœuvres et interventions/Otoscopie.md",
+    "Cours/Audioprothèse/Event.md",
+    "Cours/Audioprothèse/La presbyacousie.md",
+    "Cours/Audioprothèse/La surdité.md",
+    "Cours/Audioprothèse/Le Contour classique (BTE).md",
+    "Cours/Audioprothèse/Surdité mixte.md",
     "Cours/Audiologie/Surdité de perception.md",
     "Cours/Audiologie/Surdité de transmission.md",
-    "Principe de l'audition.md",
-    "Pression acoustique.md",
+    "Images/Pasted image 20231127214935.png",
+    "Cours/Audioprothèse/Couplage acoustique et performances.md",
+    "Images/Pasted image 20231127213041.png",
+    "Cours/Audioprothèse/Le contour a écouteur déporté (RITE).md",
+    "Cours/Audioprothèse/Le contour tube fin.md",
+    "Images/Pasted image 20231121111128.png",
+    "Images/Pasted image 20231120232424.png",
+    "Cours/Audioprothèse/Plage d'adaptation.md",
+    "Cours/Audioprothèse/Rechargeabilité.md",
+    "Cours/Audioprothèse/Connectivité.md",
+    "Images/Pasted image 20231120225644.png",
+    "Images/Pasted image 20231120215301.png",
+    "Pasted image 20231120213753.png",
+    "Images/Pasted image 20231120214306.png",
+    "Cours/Audioprothèse/Principe de l'audition.md",
+    "Cours/Audioprothèse/Pression acoustique.md",
     "Cours/Audiologie/Audiologie.md",
-    "Images/Pasted image 20231118153055.png",
-    "Principe du son.md",
+    "Cours/Audioprothèse/Principe du son.md",
     "Cours/Acoustique",
     "Cours/Physiologie de l'audition.md",
     "Cours/Audiologie/Fonctionnement central.md",
-    "Otoscopie.md",
     "Pathologies/Pathologies vertigineuses.md",
     "Cours/Audiologie/Oreille interne.md",
     "Cours/Audioprothèse",
-    "Images/Pasted image 20231117162607.png",
-    "Images/Pasted image 20231117162507.png",
     "Mécanismes de l'audition",
     "Manœuvres et interventions",
     "Cours/Audiologie",

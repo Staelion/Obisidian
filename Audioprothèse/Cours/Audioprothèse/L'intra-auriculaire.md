@@ -22,13 +22,27 @@
 
 >[!INFO] Avantages et Inconveniants
 >
->-avantages 
->discrétion ++
->position plus physiologique : permet de garder la directivité naturelle de l'[[Oreille externe]], meilleure position pour le téléphone.
->-
+>avantages 
 >
->-inconvénients
->Pas d'ajout de connectivité type bobine T
->entretient minutieux, changements de petites pièces
->sensible a l'humidité du conduit, cérumen etc
->petits modèles impossible si manque de dextérité
+>- discrétion ++
+>- position plus physiologique : permet de garder la directivité naturelle de l'[[Oreille externe]], meilleure position pour le téléphone.
+>- Certains patients viennent QUE pour ça, il faut savoir les adapter pour les fidéliser.
+>- Très bonne tenue dans l'oreille
+>
+>inconvénients
+>
+>- Pas d'ajout de connectivité type bobine T
+>- entretient minutieux, changements de petites pièces
+>- sensible a l'humidité du conduit, cérumen etc
+>- petits modèles impossible si manque de dextérité
+>- Pas de plage d'adaptation car aucun changement de [[Couplage acoustique et performances]] possible
+
+>[!INFO] Autre type d'intras
+>
+>Phonak Lyric
+>![[Pasted image 20231128221543.png]]
+>![[Pasted image 20231128221527.png]]
+>Très peu pratiqué en France
+
+
+

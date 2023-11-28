@@ -7,3 +7,10 @@
 >
 >Cet examen est souvent indolore, bien que certaines personnes puissent ressentir une légère gêne. L'otoscopie est un outil précieux pour évaluer la santé de l'oreille et est souvent utilisée pour suivre l'évolution des infections de l'oreille, établir un diagnostic précis et planifier le traitement approprié.
 
+>[!INFO] Tips de réalisation
+>
+>- incliner le spéculum vers le haut et l'avant pour suivre la physiologie du CAE.
+>- bien tirer l'oreille vers le haut et l'arrière pour ouvrir le CAE
+>- Ca sera pas forcément net comme un vidéo otoscope mais il faut reussir a voir le tympan, couleur, vascularisation, obstructions dans le conduit
+>
+>
