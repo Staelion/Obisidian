@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Système CROS.md",
+                "file": "Cours/Audiologie/Oreille interne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Système CROS.md",
+                "file": "Cours/Audiologie/Oreille interne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Système CROS.md",
+                "file": "Cours/Audiologie/Oreille interne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Système CROS.md"
+                "file": "Cours/Audiologie/Oreille interne.md"
               }
             }
           }
@@ -150,12 +150,17 @@
   },
   "active": "c8c4004ede47e5f8",
   "lastOpenFiles": [
-    "Cours/Audioprothèse/Les appareils auditifs.md",
+    "Pasted image 20231129215929.png",
     "Système CROS.md",
+    "Cours/Audiologie/Oreille interne.md",
+    "Cours/Audioprothèse/Audioprothèse.md",
+    "Cours/Audioprothèse/Principe de l'audition.md",
+    "Cours/Audioprothèse/Principe du son.md",
+    "Pasted image 20231129215325.png",
+    "Cours/Audioprothèse/Les appareils auditifs.md",
     "Cours/Audioprothèse/L'intra-auriculaire.md",
     "Pasted image 20231128221543.png",
     "Pasted image 20231128221527.png",
-    "Cours/Audioprothèse/Audioprothèse.md",
     "Manœuvres et interventions/Otoscopie.md",
     "Cours/Audioprothèse/Event.md",
     "Cours/Audioprothèse/La presbyacousie.md",
@@ -177,16 +182,11 @@
     "Images/Pasted image 20231120225644.png",
     "Images/Pasted image 20231120215301.png",
     "Pasted image 20231120213753.png",
-    "Images/Pasted image 20231120214306.png",
-    "Cours/Audioprothèse/Principe de l'audition.md",
     "Cours/Audioprothèse/Pression acoustique.md",
     "Cours/Audiologie/Audiologie.md",
-    "Cours/Audioprothèse/Principe du son.md",
     "Cours/Acoustique",
     "Cours/Physiologie de l'audition.md",
     "Cours/Audiologie/Fonctionnement central.md",
-    "Pathologies/Pathologies vertigineuses.md",
-    "Cours/Audiologie/Oreille interne.md",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",
     "Manœuvres et interventions",
