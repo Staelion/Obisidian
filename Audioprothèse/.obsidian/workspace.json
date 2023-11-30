@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
+                "file": "Chaine de mesure.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
+                "file": "Chaine de mesure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
+                "file": "Chaine de mesure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md"
+                "file": "Chaine de mesure.md"
               }
             }
           }
@@ -150,22 +150,31 @@
   },
   "active": "c8c4004ede47e5f8",
   "lastOpenFiles": [
-    "Cours/Audioprothèse/Principe de l'audition.md",
+    "Pasted image 20231130230245.png",
+    "Pasted image 20231130230212.png",
+    "Ondes stationnaires.md",
+    "Chaine de mesure.md",
+    "Coupleurs acoustiques.md",
+    "Images/Pasted image 20231130220848.png",
+    "Images/Pasted image 20231130220739.png",
+    "Images/Pasted image 20231130220254.png",
+    "Images/Le mesurage des ACA.md",
     "Cours/Audioprothèse/Audioprothèse.md",
+    "Cours/Audioprothèse/Principe de l'audition.md",
     "Cours/Audioprothèse/La surdité.md",
     "Surdité unilatérale.md",
     "Cours/Audioprothèse/Les appareils auditifs.md",
     "Systèmes BAHA.md",
     "Système CROS.md",
-    "Pasted image 20231130133309.png",
-    "Pasted image 20231130133304.png",
+    "Images/Pasted image 20231130133309.png",
+    "Images/Pasted image 20231130133304.png",
     "Cours/Audiologie/Oreille interne.md",
-    "Pasted image 20231129215929.png",
+    "Images/Pasted image 20231129215929.png",
     "Cours/Audioprothèse/Principe du son.md",
-    "Pasted image 20231129215325.png",
+    "Images/Pasted image 20231129215325.png",
     "Cours/Audioprothèse/L'intra-auriculaire.md",
-    "Pasted image 20231128221543.png",
-    "Pasted image 20231128221527.png",
+    "Images/Pasted image 20231128221543.png",
+    "Images/Pasted image 20231128221527.png",
     "Manœuvres et interventions/Otoscopie.md",
     "Cours/Audioprothèse/Event.md",
     "Cours/Audioprothèse/La presbyacousie.md",
@@ -173,20 +182,11 @@
     "Cours/Audioprothèse/Surdité mixte.md",
     "Cours/Audiologie/Surdité de perception.md",
     "Cours/Audiologie/Surdité de transmission.md",
-    "Images/Pasted image 20231127214935.png",
     "Cours/Audioprothèse/Couplage acoustique et performances.md",
-    "Images/Pasted image 20231127213041.png",
     "Cours/Audioprothèse/Le contour a écouteur déporté (RITE).md",
     "Cours/Audioprothèse/Le contour tube fin.md",
-    "Images/Pasted image 20231121111128.png",
-    "Images/Pasted image 20231120232424.png",
     "Cours/Audioprothèse/Plage d'adaptation.md",
-    "Cours/Audioprothèse/Rechargeabilité.md",
-    "Cours/Audioprothèse/Connectivité.md",
-    "Cours/Audioprothèse/Pression acoustique.md",
-    "Cours/Audiologie/Audiologie.md",
     "Cours/Acoustique",
-    "Cours/Physiologie de l'audition.md",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",
     "Manœuvres et interventions",

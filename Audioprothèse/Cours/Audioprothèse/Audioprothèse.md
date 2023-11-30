@@ -5,7 +5,6 @@
 >Enseigné sur : 3 années
 >Professeurs : STEPHOU GUEMAS LEMOINE
 
-
 >[!INFO]
 >Voici les grands thèmes qui sont abordés en audioprothèse
 >
@@ -13,5 +12,6 @@
 >- [[Pression acoustique]]
 >- [[La surdité]]
 >- [[Les appareils auditifs]]
->
+>- [[Le mesurage des ACA]]
+>- 
 
