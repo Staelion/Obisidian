@@ -8,7 +8,9 @@
 
 >[!INFO]
 >Voici les grands thèmes qui sont abordés en audioprothèse
->- [[Principe de l'audition]]
+>
+>- [[Principe du son]]
+>- [[Pression acoustique]]
 >- [[La surdité]]
 >- [[Les appareils auditifs]]
 >

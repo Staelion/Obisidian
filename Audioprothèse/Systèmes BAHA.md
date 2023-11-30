@@ -1,0 +1,6 @@
+>[!WARNING]
+>Le système vibrant a ancrage osseux ou BAHA (Bone Anchored Hearing Aid) est un implant en titane visé dans la mastoide du coté de l'oreille cophosée afin que le son capté par l'appareil soit transmis par transmission osseuse.
+
+>[!INFO]
+>Ces systèmes a encrage osseux ne sont utiles que dans le cas ou le patient souffre d'une [[Surdité de transmission]], car le son qui est transmis par voix osseuse doit quand même être traité par l'[[Oreille interne]]. Ce n'est donc pas la même utilité qu'un implant cochléaire.
+>Le niveau auditif de cette technique est formidable, fonctionnant très bien. On implante une vis en titane dans le crâne du patient et on ajoute une plaque pour capter les vibrations. Cependant, le principal problème réside dans le risque élevé d'infections, rendant complexe l'hygiène autour du pilier en titane. Les conséquences d'une surinfection de la mastoïde sont graves, pouvant entraîner une mastoïdite ou une méningite, et l'infection se propage rapidement. Bien que l'intervention chirurgicale soit effectuée par le chirurgien, c'est l'audioprothésiste qui se charge de l'adaptation.
