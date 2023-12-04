@@ -1,10 +1,9 @@
 >[!INFO]
 >- [[La directivité]]
 >- [[Le filtrage]]
->- [[La compression dynamique]]
->- [[Les constantes de temps]]
+>- [[Dynamique auditive]]
+>- [[Compression dynamique]]
+>- [[Constantes de temps]]
 >- [[L'anti larsen]]
->- [[Les Réducteurs de bruits]]
+>- [[Réducteurs de bruits]]
 >- [[Programmes d'écoute]]
-
->

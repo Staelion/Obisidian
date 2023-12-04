@@ -42,5 +42,20 @@ Les principaux critères à considérer dans le choix d'un appareil :
 >
 >![[Pasted image 20231121111128.png]]
 
-
-
+>[!INFO] Les fabricants
+>Ici je vais lister les fabricants les plus représentés en France et leur spécificités selon les infos que je peut obtenir (mostly du bouche a oreille)
+>- Phonak
+>- Oticon
+>- Signia
+>- GN resound
+>- Widex
+>Beaucoup choisis pour leur intras
+>- Siemens
+>- Bernafon
+>- Starkey
+>- Philips
+>- Hansaton
+>  
+>  Moins utilisés en france
+>  - Rexton
+>  - Unitorn

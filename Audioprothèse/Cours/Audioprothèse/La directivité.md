@@ -62,5 +62,10 @@ Pour la deuxième mesure, tous les haut-parleurs sont allumés, émettant le mê
 Cependant, si le microphone est directionnel, le niveau de sortie mesuré dans le coupleur 2cc (L2) sera inférieur à 105 dB SPL, indiquant une zone d'ombre de captation d'énergie. L'Index de Directivité (ID) en dB est calculé comme ID = L1 - L2. Un ID plus élevé suggère une réduction plus importante du bruit environnant, tandis qu'un ID négatif indique une sensibilité réduite aux sons provenant de l'avant par rapport à ceux provenant de toutes les directions.
 
 >[!INFO]+ Diagrammes polaires
+>Les diagrammes polaires sont une deuxième façon de représenter la directivité d'un ACA avec l'ID.
+>![[Pasted image 20231204151418.png]]
+>A partir de l'implémentation du double microphone adaptatif, différents diagrammes polaires ont émergés en fonctions des modifications effectuées par l'ACA des suites de son analyse de l'environnement sonore.
+>![[Pasted image 20231204151644.png]]
+
 
 

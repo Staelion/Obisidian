@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "015b1e9b7b6bad47",
+        "id": "fdccff55b1266e52",
         "type": "tabs",
         "children": [
           {
-            "id": "6be6effff66120b8",
+            "id": "0e4dbecd16228adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audioprothèse/La directivité.md",
+                "file": "Dynamique auditive.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "960edbd81f4e6a07",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/La directivité.md",
+                "file": "Dynamique auditive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/La directivité.md",
+                "file": "Dynamique auditive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/La directivité.md"
+                "file": "Dynamique auditive.md"
               }
             }
           }
@@ -149,17 +148,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6be6effff66120b8",
+  "active": "0e4dbecd16228adb",
   "lastOpenFiles": [
-    "Pasted image 20231204114312.png",
-    "Pasted image 20231204111739.png",
-    "Pasted image 20231204110333.png",
     "Cours/Audioprothèse/Les fonctions des ACA.md",
+    "Dynamique auditive.md",
+    "Le filtrage.md",
     "Cours/Audioprothèse/Audioprothèse.md",
-    "Cours/Audioprothèse/Principe du son.md",
-    "Images/Pasted image 20231204094423.png",
+    "Cours/Audioprothèse/Les appareils auditifs.md",
+    "Les constantes de temps.md",
     "Cours/Physiologie de l'audition.md",
     "Cours/Audioprothèse/La directivité.md",
+    "Images/Pasted image 20231204151644.png",
+    "Images/Pasted image 20231204151418.png",
+    "Images/Pasted image 20231204151354.png",
+    "Images/Pasted image 20231204114312.png",
+    "Images/Pasted image 20231204111739.png",
+    "Images/Pasted image 20231204110333.png",
+    "Cours/Audioprothèse/Principe du son.md",
+    "Images/Pasted image 20231204094423.png",
     "Images/Pasted image 20231203214649.png",
     "Cours/Audioprothèse/Surdité unilatérale.md",
     "Cours/Audioprothèse/Chaine de mesure.md",
@@ -167,14 +173,9 @@
     "Images/Pasted image 20231130230245.png",
     "Images/Pasted image 20231130230212.png",
     "Cours/Audioprothèse/Ondes stationnaires.md",
-    "Images/Pasted image 20231130220848.png",
-    "Images/Pasted image 20231130220739.png",
-    "Images/Pasted image 20231130220254.png",
-    "Images/Pasted image 20231130133309.png",
     "Cours/Audioprothèse/Coupleurs acoustiques.md",
     "Cours/Audioprothèse/Principe de l'audition.md",
     "Cours/Audioprothèse/La surdité.md",
-    "Cours/Audioprothèse/Les appareils auditifs.md",
     "Cours/Audioprothèse/Systèmes BAHA.md",
     "Cours/Audioprothèse/Système CROS.md",
     "Cours/Audiologie/Oreille interne.md",
@@ -185,8 +186,6 @@
     "Cours/Audioprothèse/Le Contour classique (BTE).md",
     "Cours/Audioprothèse/Surdité mixte.md",
     "Cours/Audiologie/Surdité de perception.md",
-    "Cours/Audiologie/Surdité de transmission.md",
-    "Cours/Audioprothèse/Couplage acoustique et performances.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",
