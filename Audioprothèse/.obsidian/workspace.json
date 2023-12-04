@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15fbad34cd0cc2fb",
+        "id": "015b1e9b7b6bad47",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c4004ede47e5f8",
+            "id": "6be6effff66120b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La directivité.md",
+                "file": "Cours/Audioprothèse/La directivité.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "La directivité.md",
+                "file": "Cours/Audioprothèse/La directivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "La directivité.md",
+                "file": "Cours/Audioprothèse/La directivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "La directivité.md"
+                "file": "Cours/Audioprothèse/La directivité.md"
               }
             }
           }
@@ -149,13 +149,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8c4004ede47e5f8",
+  "active": "6be6effff66120b8",
   "lastOpenFiles": [
-    "Pasted image 20231203214649.png",
-    "Les fonctions des ACA.md",
-    "La directivité.md",
+    "Pasted image 20231204114312.png",
+    "Pasted image 20231204111739.png",
+    "Pasted image 20231204110333.png",
+    "Cours/Audioprothèse/Les fonctions des ACA.md",
     "Cours/Audioprothèse/Audioprothèse.md",
-    "Surdité unilatérale.md",
+    "Cours/Audioprothèse/Principe du son.md",
+    "Images/Pasted image 20231204094423.png",
+    "Cours/Physiologie de l'audition.md",
+    "Cours/Audioprothèse/La directivité.md",
+    "Images/Pasted image 20231203214649.png",
+    "Cours/Audioprothèse/Surdité unilatérale.md",
     "Cours/Audioprothèse/Chaine de mesure.md",
     "Images/Le mesurage des ACA.md",
     "Images/Pasted image 20231130230245.png",
@@ -165,10 +171,6 @@
     "Images/Pasted image 20231130220739.png",
     "Images/Pasted image 20231130220254.png",
     "Images/Pasted image 20231130133309.png",
-    "Images/Pasted image 20231130133304.png",
-    "Images/Pasted image 20231129215929.png",
-    "Images/Pasted image 20231129215325.png",
-    "Images/Pasted image 20231128221543.png",
     "Cours/Audioprothèse/Coupleurs acoustiques.md",
     "Cours/Audioprothèse/Principe de l'audition.md",
     "Cours/Audioprothèse/La surdité.md",
@@ -176,7 +178,6 @@
     "Cours/Audioprothèse/Systèmes BAHA.md",
     "Cours/Audioprothèse/Système CROS.md",
     "Cours/Audiologie/Oreille interne.md",
-    "Cours/Audioprothèse/Principe du son.md",
     "Cours/Audioprothèse/L'intra-auriculaire.md",
     "Manœuvres et interventions/Otoscopie.md",
     "Cours/Audioprothèse/Event.md",
@@ -186,7 +187,6 @@
     "Cours/Audiologie/Surdité de perception.md",
     "Cours/Audiologie/Surdité de transmission.md",
     "Cours/Audioprothèse/Couplage acoustique et performances.md",
-    "Cours/Audioprothèse/Le contour a écouteur déporté (RITE).md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",

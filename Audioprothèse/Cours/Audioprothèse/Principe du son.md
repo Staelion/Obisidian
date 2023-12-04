@@ -6,3 +6,5 @@
 >
 >La longueur d'onde influence les phénomènes sonores, en fonction de la fréquence et du nombre de longueurs d'onde en hertz. Pour produire un son, il faut un émetteur et un milieu matériel de propagation. Le son est défini comme la propagation d'énergie dans la matière (l'air), résultant de la compression des molécules d'air. Cette compression crée des oscillations, déplaçant l'énergie de proche en proche, c'est-à-dire de tranche en tranche de molécules d'air.
 
+>[!INFO] La transformée de Fourier
+>![[Pasted image 20231204094423.png]]
