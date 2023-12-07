@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamique auditive.md",
+                "file": "Dynamique sonore.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamique auditive.md",
+                "file": "Dynamique sonore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamique auditive.md",
+                "file": "Dynamique sonore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamique auditive.md"
+                "file": "Dynamique sonore.md"
               }
             }
           }
@@ -152,7 +152,7 @@
   "active": "0e4dbecd16228adb",
   "lastOpenFiles": [
     "Cours/Audioprothèse/Les fonctions des ACA.md",
-    "Dynamique auditive.md",
+    "Dynamique sonore.md",
     "Le filtrage.md",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Les appareils auditifs.md",

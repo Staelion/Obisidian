@@ -1,7 +1,7 @@
 >[!INFO]
 >- [[La directivité]]
 >- [[Le filtrage]]
->- [[Dynamique auditive]]
+>- [[Dynamique sonore]]
 >- [[Compression dynamique]]
 >- [[Constantes de temps]]
 >- [[L'anti larsen]]
