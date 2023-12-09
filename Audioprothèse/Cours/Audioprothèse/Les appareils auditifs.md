@@ -27,7 +27,7 @@ Les principaux critères à considérer dans le choix d'un appareil :
 >- connexions, Bluetooth, streaming)
 >- Position du micro
 >- Évolutivité 
->- [[Couplage acoustique et performances]]
+>- [[Couplage acoustique]]
 >
 >Les types d'ACA
 >

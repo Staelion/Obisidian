@@ -4,5 +4,5 @@
 >
 >Pas de compatibilité des dômes entre marques et parfois même entre générations au sein d’une même marque
 >Attention aux changements de dômes et à leurs conséquences sur l’audition
->CF [[Couplage acoustique et performances]]
+>CF [[Couplage acoustique]]
 

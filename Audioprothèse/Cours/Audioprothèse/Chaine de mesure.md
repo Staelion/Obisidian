@@ -10,7 +10,6 @@
 >l'étalonnage est à réaliser toute les semaines afin de s'assurer que les mesures reste toujours cohérentes. On place le micro de référence a coté du micro de mesure sans mettre de coupleur et on lance une mesure. On doit obtenir une droite horizontale qui confirme le bon fonctionnement des micros 
 >![[Pasted image 20231130230245.png]]
 
-
 >[!INFO] Mesures réalisables 
 >
 -OSPL 90 (MPO)

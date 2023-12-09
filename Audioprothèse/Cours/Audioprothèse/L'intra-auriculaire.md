@@ -35,7 +35,7 @@
 >- entretient minutieux, changements de petites pièces
 >- sensible a l'humidité du conduit, cérumen etc
 >- petits modèles impossible si manque de dextérité
->- Pas de plage d'adaptation car aucun changement de [[Couplage acoustique et performances]] possible
+>- Pas de plage d'adaptation car aucun changement de [[Couplage acoustique]] possible
 
 >[!INFO] Autre type d'intras
 >
