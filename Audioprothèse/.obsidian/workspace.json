@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data logging.md",
+                "file": "Cours/Audioprothèse/Data logging.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data logging.md",
+                "file": "Cours/Audioprothèse/Data logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data logging.md",
+                "file": "Cours/Audioprothèse/Data logging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data logging.md"
+                "file": "Cours/Audioprothèse/Data logging.md"
               }
             }
           }
@@ -150,12 +150,15 @@
   },
   "active": "0e4dbecd16228adb",
   "lastOpenFiles": [
+    "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Les fonctions des ACA.md",
-    "Data logging.md",
+    "Cours/Audiologie/Oreille interne.md",
+    "Cours/Audioprothèse/L'anti larsen.md",
+    "Pasted image 20231209213625.png",
+    "Cours/Audioprothèse/Data logging.md",
     "Cours/Audioprothèse/Constantes de temps.md",
     "Cours/Audioprothèse/Les constantes de temps.md",
     "Cours/Audioprothèse/Réducteurs de bruits.md",
-    "Cours/Audioprothèse/L'anti larsen.md",
     "Cours/Audioprothèse/Couplage acoustique.md",
     "Images/Pasted image 20231209142057.png",
     "Cours/Audioprothèse/Compression dynamique.md",
@@ -163,7 +166,6 @@
     "Cours/Audioprothèse/La directivité.md",
     "Images/Pasted image 20231209141458.png",
     "Cours/Audioprothèse/Le filtrage.md",
-    "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Chaine de mesure.md",
     "Dynamique auditive.md",
     "Cours/Audioprothèse/Les appareils auditifs.md",
@@ -176,7 +178,6 @@
     "Images/Pasted image 20231204110333.png",
     "Cours/Audioprothèse/Principe du son.md",
     "Images/Pasted image 20231204094423.png",
-    "Images/Pasted image 20231203214649.png",
     "Cours/Audioprothèse/Surdité unilatérale.md",
     "Cours/Audioprothèse/Le mesurage des ACA.md",
     "Cours/Audioprothèse/Ondes stationnaires.md",
@@ -185,7 +186,6 @@
     "Cours/Audioprothèse/La surdité.md",
     "Cours/Audioprothèse/Systèmes BAHA.md",
     "Cours/Audioprothèse/Système CROS.md",
-    "Cours/Audiologie/Oreille interne.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",

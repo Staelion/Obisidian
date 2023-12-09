@@ -1,4 +1,4 @@
->[!INFO]
+>[!INFO] Principales fonctions
 >- [[La directivité]]
 >- [[Le filtrage]]
 >- [[Dynamique sonore]]

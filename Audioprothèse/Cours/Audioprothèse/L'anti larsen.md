@@ -1,6 +1,16 @@
 >[!WARNING] Définition
 >L'effet Larsen apparait lorsqu'une partie du son émis en sortie de l'ACA fuit vers l'extérieur et est recapté par les microphones, et donc est ensuite réamplifié à l'infini dans une boucle. Cela crée un sifflement désagréable pour le patient et dans certains cas entendu de l'extérieur.
 >Cela est plus susceptible d'arriver si l'ACA possède un [[Couplage acoustique]] très ouvert contrairement à un couplage obstruant tel un embout sur mesure.
+>
+Quand l’ACA siffle, il fonctionne mal, c’est désagréable pour le patient et ses proches et la pile consomme bien plus.
+>![[Pasted image 20231209213625.png]]
+>Différentes causes possibles :
+>
+>- Un tube percé/fissuré.
+>- Bouchon de cérumen qui modifie l’acoustique du CAE.  
+>- Problème de manipulation, un appareil mal mis, mal positionné. 
+>- Perte de poids 🡪 modification anatomique de la partie cartilagineuse de l’oreille externe entrainant des fuites d’air.
+>
 
 >[!INFO] Solutions possibles
 >Plusieurs solutions pour arrêter cet effet de larsen et cette fuite acoustique :
