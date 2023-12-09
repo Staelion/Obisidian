@@ -11,13 +11,8 @@
             "id": "0e4dbecd16228adb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamique sonore.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -71,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "960edbd81f4e6a07",
@@ -88,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamique sonore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamique sonore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dynamique sonore.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,8 +141,9 @@
   },
   "active": "0e4dbecd16228adb",
   "lastOpenFiles": [
-    "Cours/Audioprothèse/Les fonctions des ACA.md",
+    "Dynamique auditive.md",
     "Dynamique sonore.md",
+    "Cours/Audioprothèse/Les fonctions des ACA.md",
     "Le filtrage.md",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Les appareils auditifs.md",
@@ -186,7 +177,6 @@
     "Cours/Audioprothèse/La presbyacousie.md",
     "Cours/Audioprothèse/Le Contour classique (BTE).md",
     "Cours/Audioprothèse/Surdité mixte.md",
-    "Cours/Audiologie/Surdité de perception.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",
