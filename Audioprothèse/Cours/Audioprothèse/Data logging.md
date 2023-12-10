@@ -12,9 +12,14 @@
 >[!INFO] Environnement
 >L'analyse des environnements sonore enregistre les différents environnements(calme, fête, voiture, musique, etc), ceux ou le patient se trouve le plus etc afin d'affiner les réglages aux fil du temps.
 
->[!INFO] Self-learning
+>[!INFO] Data-learning
 >
->C’est un auto-réglage
+>Tout système intelligent qui va proposer des modifications ou modifier les caractéristiques de l'appareil
+auditif en utilisant :
+>- les données data-logging
+>- les modifications (utilisation du potentiomètre ou changement de programme) effectuées par le patient
+L'algorithme est donc alimenté par l'analyse des environnements sonores et les actions de l'utilisateur
+>
 >- Boutons de réglage du volume : plus fort / moins fort
 >- Dans quel type d’ambiance le patient à diminué ou augmenté le son
 >- Compte rendu fait à l’audio: le patient a augmenté dans le calme et/ou baissé en ville. L’audio peut alors faire les réglages nécessaires.
