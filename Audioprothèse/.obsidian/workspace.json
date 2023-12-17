@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fdccff55b1266e52",
+        "id": "a6e0527d4f8395c0",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4dbecd16228adb",
+            "id": "dc8c1b42bc19d0a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audioprothèse/Data logging.md",
+                "file": "Accessoires.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "960edbd81f4e6a07",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/Data logging.md",
+                "file": "Accessoires.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/Data logging.md",
+                "file": "Accessoires.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/Data logging.md"
+                "file": "Accessoires.md"
               }
             }
           }
@@ -148,14 +149,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e4dbecd16228adb",
+  "active": "dc8c1b42bc19d0a9",
   "lastOpenFiles": [
-    "Cours/Audioprothèse/Les fonctions des ACA.md",
-    "Cours/Audioprothèse/Limitations du niveau de sortie.md",
+    "Accessoires et connectivité.md",
+    "Accessoires.md",
+    "Cours/Audioprothèse/Connectivité.md",
+    "Pasted image 20231217185833.png",
     "Cours/Audioprothèse/Audioprothèse.md",
+    "Cours/Audioprothèse/Les fonctions des ACA.md",
+    "Cours/Audioprothèse/Data logging.md",
+    "Cours/Audioprothèse/Limitations du niveau de sortie.md",
     "Cours/Audioprothèse/Chaine de mesure.md",
     "Cours/Audioprothèse/Programmes d'écoute.md",
-    "Cours/Audioprothèse/Data logging.md",
     "Cours/Audiologie/Oreille interne.md",
     "Cours/Audioprothèse/L'anti larsen.md",
     "Images/Pasted image 20231209213625.png",
@@ -179,13 +184,9 @@
     "Images/Pasted image 20231204111739.png",
     "Images/Pasted image 20231204110333.png",
     "Cours/Audioprothèse/Principe du son.md",
-    "Images/Pasted image 20231204094423.png",
     "Cours/Audioprothèse/Surdité unilatérale.md",
     "Cours/Audioprothèse/Le mesurage des ACA.md",
     "Cours/Audioprothèse/Ondes stationnaires.md",
-    "Cours/Audioprothèse/Coupleurs acoustiques.md",
-    "Cours/Audioprothèse/Principe de l'audition.md",
-    "Cours/Audioprothèse/La surdité.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",
