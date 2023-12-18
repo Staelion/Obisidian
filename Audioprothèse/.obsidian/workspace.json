@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
+                "file": "L'audiométrie à visée prothétique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
+                "file": "L'audiométrie à visée prothétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
+                "file": "L'audiométrie à visée prothétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md"
+                "file": "L'audiométrie à visée prothétique.md"
               }
             }
           }
@@ -150,8 +150,12 @@
   },
   "active": "954ebd0aeb0fc13e",
   "lastOpenFiles": [
-    "Cours/Audioprothèse/Accessoires.md",
+    "Pasted image 20231218211504.png",
+    "Pasted image 20231218211358.png",
+    "Pasted image 20231218211343.png",
     "Cours/Audioprothèse/Audioprothèse.md",
+    "L'audiométrie à visée prothétique.md",
+    "Cours/Audioprothèse/Accessoires.md",
     "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/Physiologie de l'audition.md",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
@@ -181,11 +185,7 @@
     "Images/Pasted image 20231204151418.png",
     "Images/Pasted image 20231204151354.png",
     "Images/Pasted image 20231204114312.png",
-    "Images/Pasted image 20231204111739.png",
-    "Images/Pasted image 20231204110333.png",
     "Cours/Audioprothèse/Principe du son.md",
-    "Cours/Audioprothèse/Surdité unilatérale.md",
-    "Cours/Audioprothèse/Le mesurage des ACA.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",

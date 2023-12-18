@@ -15,4 +15,4 @@
 >- [[Le mesurage des ACA]]
 >- [[Les fonctions des ACA]]
 >- [[Accessoires et connectivité]]
->- [[L'audiométrie pratique]]
+>- [[L'audiométrie à visée prothétique]]
