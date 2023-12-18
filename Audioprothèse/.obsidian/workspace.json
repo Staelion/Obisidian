@@ -11,8 +11,13 @@
             "id": "954ebd0aeb0fc13e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audioprothèse/Audioprothèse.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cours/Audioprothèse/Audioprothèse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cours/Audioprothèse/Audioprothèse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cours/Audioprothèse/Audioprothèse.md"
+              }
             }
           }
         ]
@@ -141,12 +150,12 @@
   },
   "active": "954ebd0aeb0fc13e",
   "lastOpenFiles": [
+    "Cours/Audioprothèse/Accessoires.md",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/Physiologie de l'audition.md",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
     "Cours/Audioprothèse/Connectivité.md",
-    "Cours/Audioprothèse/Accessoires.md",
     "Cours/Audioprothèse/Data logging.md",
     "Images/Pasted image 20231217185833.png",
     "Cours/Audioprothèse/Les fonctions des ACA.md",
