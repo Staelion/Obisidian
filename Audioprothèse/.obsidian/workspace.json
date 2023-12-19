@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L'audiométrie à visée prothétique.md",
+                "file": "Protocoles de tests audiométriques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L'audiométrie à visée prothétique.md",
+                "file": "Protocoles de tests audiométriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L'audiométrie à visée prothétique.md",
+                "file": "Protocoles de tests audiométriques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L'audiométrie à visée prothétique.md"
+                "file": "Protocoles de tests audiométriques.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,11 +151,16 @@
   },
   "active": "954ebd0aeb0fc13e",
   "lastOpenFiles": [
-    "Pasted image 20231218211504.png",
-    "Pasted image 20231218211358.png",
-    "Pasted image 20231218211343.png",
-    "Cours/Audioprothèse/Audioprothèse.md",
     "L'audiométrie à visée prothétique.md",
+    "Protocoles de tests audiométriques.md",
+    "Pasted image 20231219182329.png",
+    "Images/Pasted image 20231219180527.png",
+    "Images/Pasted image 20231219180456.png",
+    "Images/Pasted image 20231219180421.png",
+    "Images/Pasted image 20231218211504.png",
+    "Images/Pasted image 20231218211358.png",
+    "Images/Pasted image 20231218211343.png",
+    "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Accessoires.md",
     "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/Physiologie de l'audition.md",
@@ -177,15 +183,9 @@
     "Cours/Audioprothèse/Compression dynamique.md",
     "Cours/Audioprothèse/Dynamique sonore.md",
     "Cours/Audioprothèse/La directivité.md",
-    "Images/Pasted image 20231209141458.png",
     "Cours/Audioprothèse/Le filtrage.md",
     "Dynamique auditive.md",
     "Cours/Audioprothèse/Les appareils auditifs.md",
-    "Images/Pasted image 20231204151644.png",
-    "Images/Pasted image 20231204151418.png",
-    "Images/Pasted image 20231204151354.png",
-    "Images/Pasted image 20231204114312.png",
-    "Cours/Audioprothèse/Principe du son.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Mécanismes de l'audition",
