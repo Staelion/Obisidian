@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocoles de tests audiométriques.md",
+                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocoles de tests audiométriques.md",
+                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocoles de tests audiométriques.md",
+                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocoles de tests audiométriques.md"
+                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md"
               }
             }
           }
@@ -151,19 +151,25 @@
   },
   "active": "954ebd0aeb0fc13e",
   "lastOpenFiles": [
-    "L'audiométrie à visée prothétique.md",
-    "Protocoles de tests audiométriques.md",
-    "Pasted image 20231219182329.png",
+    "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
+    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+    "Cours/Audioprothèse/Audioprothèse.md",
+    "Cours/Audiologie/Fonctionnement central.md",
+    "Cours/Audiologie/Oreille externe.md",
+    "Cours/Audiologie/Oreille moyenne.md",
+    "Cours/Audiologie/Physiologie de l'audition.md",
+    "Cours/Audiologie/Surdité de perception.md",
+    "Cours/Audiologie/Surdité de transmission.md",
+    "Cours/Audiologie/Trompe d'eustache.md",
+    "Images/Pasted image 20231219182329.png",
     "Images/Pasted image 20231219180527.png",
     "Images/Pasted image 20231219180456.png",
     "Images/Pasted image 20231219180421.png",
     "Images/Pasted image 20231218211504.png",
     "Images/Pasted image 20231218211358.png",
     "Images/Pasted image 20231218211343.png",
-    "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Accessoires.md",
     "Cours/Audiologie/Audiologie.md",
-    "Cours/Audiologie/Physiologie de l'audition.md",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
     "Cours/Audioprothèse/Connectivité.md",
     "Cours/Audioprothèse/Data logging.md",
@@ -181,17 +187,12 @@
     "Cours/Audioprothèse/Couplage acoustique.md",
     "Images/Pasted image 20231209142057.png",
     "Cours/Audioprothèse/Compression dynamique.md",
-    "Cours/Audioprothèse/Dynamique sonore.md",
-    "Cours/Audioprothèse/La directivité.md",
-    "Cours/Audioprothèse/Le filtrage.md",
-    "Dynamique auditive.md",
-    "Cours/Audioprothèse/Les appareils auditifs.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
-    "Mécanismes de l'audition",
-    "Manœuvres et interventions",
+    "Cours/Audiologie/Mécanismes de l'audition",
+    "Cours/Audiologie/Manœuvres et interventions",
     "Cours/Audiologie",
-    "Pathologies",
+    "Cours/Audiologie/Pathologies",
     "Untitled.canvas",
     "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
     "Untitled 1.canvas",

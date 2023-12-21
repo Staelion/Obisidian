@@ -41,9 +41,6 @@ Si on ne doit faire qu’un seul examen, ce serait celui-là, il faut qu’il so
 >L'audiométrie tonale suit une convention de symboles pour la présentation et la lecture des résultats du test, d'après ce tableau :
 >![[Pasted image 20231219182329.png]]
 
-
-
-
 >[!WARNING] Audiométrie vocale
 
 >[!WARNING] Audiométrie supraliminaire
