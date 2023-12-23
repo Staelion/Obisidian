@@ -6,7 +6,7 @@
 >L'électromagnétisme, exprimé en Tesla (T), est crucial dans le contexte de l'audioprothèse. Les champs magnétiques résultent des courants électriques, et leur intensité (B) est proportionnelle à l'intensité du courant (I). Les antennes électromagnétiques, présentes dans les aides auditives (ACA), fonctionnent comme des émetteurs et récepteurs. La "position T" d'une ACA, représentée par une bobine, permet de basculer entre la captation des variations de pression acoustique et la réception d'un champ électromagnétique.
 >
 >Dans l'exemple d'une boucle magnétique en salle équipée, le signal sonore capté par un microphone est converti en champ magnétique via un circuit amplifié. Ce champ est ensuite reçu par la bobine de l'utilisateur, générant un courant et une force électromotrice. L'ACA, en position T, transforme cette tension en pression acoustique via le haut-parleur, délivrant le message sonore initial au patient.
->
+>![[Pasted image 20231223140326.png]]
 >Ce système universel, idéal pour les espaces publics, présente des avantages, mais aussi des inconvénients tels que la simple transmission du signal sans traitement pour améliorer le rapport signal/bruit (RSB). De plus, des bruits magnétiques de fond peuvent être captés en présence de câbles et d'installations électriques, nécessitant que le patient se trouve à l'intérieur du champ magnétique, ce qui peut poser des défis dans certaines situations, comme en pédiatrie.
 
 >[!INFO] La transmission FM (Frequency modulation)

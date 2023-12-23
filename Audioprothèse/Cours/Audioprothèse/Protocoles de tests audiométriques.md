@@ -81,18 +81,21 @@ Si latéralisé au milieu : RAS ou surdité mixte
 >2) Critère de non-retentissement : seuil CO oreille testée + 50 + VM (toujours 15dB)
 >   
 >   Limites : problème technique, incompréhension des consignes, mauvaise valeur de masque,
+>   
+>En audiométrie vocale :
+>Il faut masquer l’oreille controlatérale chaque fois qu’il reste une différence de plus de 45 dB entre l’intensité de la vocale et la moyenne des f conversationnelles en CO de l’autre oreille. 
+>
+>Le masquage est inutile quand les seuils aériens ne dépassent pas 50 dB de perte.
 
 >[!INFO]+ Audiométrie Vocale
 >
->L'audiométrie vocale évalue la compréhension de la parole et peut utiliser divers éléments comme des logatomes, des syllabes, des mots ou des phrases, dans des environnements calmes ou bruyants. Cet examen évalue non seulement la fonction auditive, mais aussi les capacités de communication, la connaissance linguistique, la culture et la capacité mentale de suppléance dans des situations bruyantes.
 >
->Il complète l'audiométrie tonale en confirmant les seuils auditifs et en évaluant la capacité de compréhension de la parole. De plus, il aide à distinguer les problèmes provenant de l'oreille interne de ceux liés au système auditif central. Enfin, l'audiométrie vocale est cruciale pour choisir les meilleures méthodes de réhabilitation pour les personnes malentendantes.
->
->La valeur importante est le seuil de 50% de compréhension 🡪 seuil important pour savoir si le patient peut suivre une conversation
 >
 >Consignes :
 >Le patient doit répéter les sons/mots qu'il entend. Il faut prévenir qu'il n'entendra pas tout car on descend jusqu'au seuil.
 >Eventuellement liste d'adaptation a un niveau supra liminaire
+>
+>
 >
 >Matériel vocal : 
 >
@@ -119,6 +122,8 @@ Si latéralisé au milieu : RAS ou surdité mixte
 >- utilisé pour les enfant (en fonction de leur niveau de développement) et les personnes ne maîtrisant pas bien la langue.
 >
 >  Listes de F. Lefèvre (moins utilisés)
-
+>  
+>  
+>  Vocale dans le bruit :
 
 

@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Cours/Audioprothèse/Connectivité.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1378f289dd69eedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
                 "mode": "source",
                 "backlinks": false,
@@ -71,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 228.5,
+    "collapsed": true
   },
   "right": {
     "id": "960edbd81f4e6a07",
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+                "file": "Cours/Audioprothèse/Connectivité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+                "file": "Cours/Audioprothèse/Connectivité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md"
+                "file": "Cours/Audioprothèse/Connectivité.md"
               }
             }
           }
@@ -151,9 +165,11 @@
   },
   "active": "954ebd0aeb0fc13e",
   "lastOpenFiles": [
+    "Pasted image 20231223140326.png",
+    "Cours/Audioprothèse/Accessoires et connectivité.md",
+    "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
     "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
-    "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audiologie/Fonctionnement central.md",
     "Cours/Audiologie/Oreille externe.md",
     "Cours/Audiologie/Oreille moyenne.md",
@@ -170,7 +186,6 @@
     "Images/Pasted image 20231218211343.png",
     "Cours/Audioprothèse/Accessoires.md",
     "Cours/Audiologie/Audiologie.md",
-    "Cours/Audioprothèse/Accessoires et connectivité.md",
     "Cours/Audioprothèse/Connectivité.md",
     "Cours/Audioprothèse/Data logging.md",
     "Images/Pasted image 20231217185833.png",
@@ -186,7 +201,6 @@
     "Cours/Audioprothèse/Réducteurs de bruits.md",
     "Cours/Audioprothèse/Couplage acoustique.md",
     "Images/Pasted image 20231209142057.png",
-    "Cours/Audioprothèse/Compression dynamique.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Cours/Audiologie/Mécanismes de l'audition",
