@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b10103ed98f4d7b2",
+        "id": "098b9a95f756d836",
         "type": "tabs",
         "children": [
           {
-            "id": "826f2105cd765928",
+            "id": "fe1857caa184c5af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neurinome de l'acoustique.md",
+                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neurinome de l'acoustique.md",
+                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neurinome de l'acoustique.md",
+                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Neurinome de l'acoustique.md"
+                "file": "Cours/Audiologie/Pathologies/Pathologies.md"
               }
             }
           }
@@ -149,24 +149,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "826f2105cd765928",
+  "active": "5e1018c5828fc81f",
   "lastOpenFiles": [
-    "Nerf cochléo-vestibulaire.md",
-    "Neurinome de l'acoustique.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
+    "Cours/Audiologie/Pathologies/Pathologies vertigineuses.md",
+    "Partiels 2A.md",
+    "Cours/Audiologie/Pathologies/Pathologies.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
+    "Cours/Audiologie/Oreille externe.md",
+    "Cours/Audiologie/Pathologies/Paragangliomes.md",
+    "Cours/Audiologie/Pathologies/Neurinome de l'acoustique.md",
+    "Cours/Audiologie/Nerf cochléo-vestibulaire.md",
     "Cours/Audiologie/Pathologies/Névrite Vestibulaire.md",
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
     "Cours/Audiologie/Physiologie de l'audition.md",
     "Cours/Audiologie/Oreille interne.md",
-    "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/Trompe d'eustache.md",
     "Cours/Audiologie/Surdité de transmission.md",
     "Cours/Audiologie/Surdité de perception.md",
-    "Cours/Audiologie/Oreille externe.md",
     "Cours/Audiologie/Oreille moyenne.md",
     "Cours/Audiologie/Fonctionnement central.md",
     "Cours/Audioprothèse/Connectivité.md",
     "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
-    "Pasted image 20231223140326.png",
+    "Images/Pasted image 20231223140326.png",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
@@ -180,13 +186,7 @@
     "Cours/Audioprothèse/Accessoires.md",
     "Cours/Audioprothèse/Data logging.md",
     "Images/Pasted image 20231217185833.png",
-    "Cours/Audioprothèse/Les fonctions des ACA.md",
-    "Cours/Audioprothèse/Limitations du niveau de sortie.md",
-    "Cours/Audioprothèse/Chaine de mesure.md",
-    "Cours/Audioprothèse/Programmes d'écoute.md",
-    "Cours/Audioprothèse/L'anti larsen.md",
     "Images/Pasted image 20231209213625.png",
-    "Cours/Audioprothèse/Constantes de temps.md",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Cours/Audiologie/Mécanismes de l'audition",

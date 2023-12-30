@@ -1,4 +1,4 @@
-Profs : PEIGNE JAOUEN PLAINFOSSÉ
+Profs : PEIGNE JAOUEN PLAINFOSSÉ LE BIHAN
 ## Anatomie
 
 >[!INFO] 
@@ -87,6 +87,7 @@ Chez le jeune enfant, le conduit est rectiligne, court et relativement large.
 >- [[Sténose du conduit auditif]]
 >- [[Agénésie du conduit auditif]] 
 >- [[Pathologies traumatiques du CAE]]
+>- [[Tumeurs de l'oreille externe]]
 ### Autres informations 
 
 Impact des parties de l'oreille externe sur l'amplification des sons

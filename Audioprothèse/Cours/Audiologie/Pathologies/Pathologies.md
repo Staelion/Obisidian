@@ -1,4 +1,4 @@
-## __Ici seront regroupés toutes les différentes pathologies qui seront expliqués à travers les différents cours__
+## __Ici seront regroupés toutes les différentes pathologies qui seront expliquées à travers les différents cours__
 
 
 >[!INFO]+ Pathologies externes
@@ -13,7 +13,7 @@
 >[[Pathologies traumatiques du CAE]]
 >[[Otospongiose]]
 >[[Oreille Geyser]]
->
+>[[Tumeurs de l'oreille externe]]
 
 >[!INFO]+ Pathologies internes 
 >
@@ -26,14 +26,20 @@
 >[[Agénésie du nerf cochléaire]]
 >[[Névrite Vestibulaire]]
 >[[Vertige Paroxystique Positionnel Bénin (VPPB)]]
+>[[Tumeurs de l'oreille moyenne]]
 
 >[!INFO]+ Maladies rare ayant un impact sur l'audition 
 >[[Maladie de Ménière]]
 >
 >
 
+>[!INFO]+ Pathologies du nerf cochléo-vestibulaire
+>
+>[[Schwannome Vestibulaire]]
+
+>[!INFO]+ Pathologies externes a l'oreille ayant un impact sur l'audition
+>
+>[[Paragangliomes]]
 
 
-pathologies externes a l'oreille ayant un impact sur l'audition
 
-ex [[Schwannome Vestibulaire]]

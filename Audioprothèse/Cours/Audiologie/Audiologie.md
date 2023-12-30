@@ -4,7 +4,7 @@
 >Niveau d'importance : 5/5
 >examen : Partiel écrit
 >Enseigné sur : 3 années
->Professeurs : RUAUX PEIGNE PARENT JAOUEN CODET CHENEBAUX GODEY
+>Professeurs : RUAUX PEIGNE PARENT JAOUEN CODET CHENEBAUX GODEY LE BIHAN
 
 
 

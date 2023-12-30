@@ -42,7 +42,7 @@
 >
 >Le [[Schwannome Vestibulaire]], une tumeur bénigne développée à partir de la gaine de Schwann, affecte souvent le nerf vestibulaire inférieur. Son diagnostic repose sur l'IRM et le PEA, et le traitement varie en fonction de la taille de la tumeur, allant de la surveillance à la chirurgie, en passant par la radiothérapie stéréotaxique.
 >
->Enfin, certaines circonstances particulières, telles que les traumatismes (fracture du rocher, blast auriculaire, barotraumatisme), la fistule endolymphatique, la déhiscence du CSC antérieur avec le phénomène de Tullio, nécessitent une prise en charge adaptée.
+>Enfin, certaines circonstances particulières, telles que les traumatismes (fracture du rocher, blast auriculaire, barotraumatisme), les [[Tumeurs de l'oreille moyenne]], la fistule endolymphatique, la déhiscence du CSC antérieur avec le phénomène de Tullio, nécessitent une prise en charge adaptée.
 >
 >Chez les adultes ayant subi une implantation cochléaire, une perte complète de la fonction vestibulaire est observée dans environ 50% des cas. Dans 10% des cas, il peut induire une perte complète de la fonction vestibulaire du côté de l'implant cochléaire. Lorsque l'implantation cochléaire est réalisée simultanément des deux côtés, la probabilité de perte de la fonction vestibulaire des deux côtés est estimée à 1-2%.
 > Cependant, il est noté que les enfants ont une meilleure récupération en termes d'équilibre par rapport aux personnes âgées après une telle procédure. 
