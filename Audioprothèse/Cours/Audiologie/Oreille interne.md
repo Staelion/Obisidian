@@ -2,7 +2,7 @@ Profs : PARENT CODET JAOUEN
 
 ## Anatomie
 
->[!WARNING]
+>[!WARNING] Définition
 > L’oreille interne transforme les ondes mécaniques reçues de l'[[Oreille moyenne]]en stimulation électrique qu'elle transmet au [[Nerf auditif]]. Elle joue aussi un rôle dans la gestion de l'équilibre à l'aide des canaux semi-circulaires. On l'appelle aussi le labyrinthe osseux.
 
 ![[Pasted image 20231024120200.png]]
@@ -29,7 +29,6 @@ Profs : PARENT CODET JAOUEN
 > Ce nom correspond au principe de fonctionnement de la cochlée : grâce a sa forme de limaçon possédant une base (coté OM) et un Apex (coté cerveau) , un son aigu et un son grave ne propageront pas pareil dans cette dernière et s'arrêtera donc en un point précis. Ce qui permettra ensuite aux CCE, CCI et membrane basilaire de transformer l'information qu'elle recoit en information électromagnétique qui sera envoyé au cerveau via le [[Nerf auditif]]. Cette tonotopie cochléaire fonctionne au niveau des fréquences sur le même principe que le Log10.  apex 20Hz 1.3 / base 20k Hz 4.3
 > ![[Pasted image 20231129215929.png]]
 > 
-
 
 >[!INFO]+ Fonctions
 >La membrane basilaire entre en résonance en réponse à une fréquence sonore spécifique, avec une déformation qui varie en fonction de la fréquence. Cette déformation stimule l'organe de Corti, créant ainsi la tonotopie, où les fréquences graves sont détectées à l'apex et les fréquences aiguës à la base.

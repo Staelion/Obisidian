@@ -5,15 +5,12 @@
 >
 >C'est une des pathologies de l'audition les plus dangereuses pour le pronostic vital du patient si elle n'est pas découverte et traitée à temps
 
-
-
 >[!INFO] Cholestéatome primitif du CAE
 >- Accumulation kératinique en regard d’une érosion ostéitique du CAE 
 >- Personnes âgées
 >- Atteinte unilatérale
 >- Otalgie + otorrhée
 >- Pas d’atteinte de l’oreille moyenne
-
 
 >[!INFO] Cholestéatome de l'oreille moyenne
 >

@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5c900ae9ba039c",
+        "id": "b10103ed98f4d7b2",
         "type": "tabs",
         "children": [
           {
-            "id": "954ebd0aeb0fc13e",
+            "id": "826f2105cd765928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audioprothèse/Connectivité.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1378f289dd69eedb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+                "file": "Neurinome de l'acoustique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -84,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5,
-    "collapsed": true
+    "width": 228.5
   },
   "right": {
     "id": "960edbd81f4e6a07",
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/Connectivité.md",
+                "file": "Neurinome de l'acoustique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/Connectivité.md",
+                "file": "Neurinome de l'acoustique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/Connectivité.md"
+                "file": "Neurinome de l'acoustique.md"
               }
             }
           }
@@ -163,20 +149,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "954ebd0aeb0fc13e",
+  "active": "826f2105cd765928",
   "lastOpenFiles": [
+    "Nerf cochléo-vestibulaire.md",
+    "Neurinome de l'acoustique.md",
+    "Cours/Audiologie/Pathologies/Névrite Vestibulaire.md",
+    "Cours/Audiologie/Pathologies/Cholestéatome.md",
+    "Cours/Audiologie/Physiologie de l'audition.md",
+    "Cours/Audiologie/Oreille interne.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Cours/Audiologie/Trompe d'eustache.md",
+    "Cours/Audiologie/Surdité de transmission.md",
+    "Cours/Audiologie/Surdité de perception.md",
+    "Cours/Audiologie/Oreille externe.md",
+    "Cours/Audiologie/Oreille moyenne.md",
+    "Cours/Audiologie/Fonctionnement central.md",
+    "Cours/Audioprothèse/Connectivité.md",
+    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
     "Pasted image 20231223140326.png",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
-    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
-    "Cours/Audiologie/Fonctionnement central.md",
-    "Cours/Audiologie/Oreille externe.md",
-    "Cours/Audiologie/Oreille moyenne.md",
-    "Cours/Audiologie/Physiologie de l'audition.md",
-    "Cours/Audiologie/Surdité de perception.md",
-    "Cours/Audiologie/Surdité de transmission.md",
-    "Cours/Audiologie/Trompe d'eustache.md",
     "Images/Pasted image 20231219182329.png",
     "Images/Pasted image 20231219180527.png",
     "Images/Pasted image 20231219180456.png",
@@ -185,22 +178,15 @@
     "Images/Pasted image 20231218211358.png",
     "Images/Pasted image 20231218211343.png",
     "Cours/Audioprothèse/Accessoires.md",
-    "Cours/Audiologie/Audiologie.md",
-    "Cours/Audioprothèse/Connectivité.md",
     "Cours/Audioprothèse/Data logging.md",
     "Images/Pasted image 20231217185833.png",
     "Cours/Audioprothèse/Les fonctions des ACA.md",
     "Cours/Audioprothèse/Limitations du niveau de sortie.md",
     "Cours/Audioprothèse/Chaine de mesure.md",
     "Cours/Audioprothèse/Programmes d'écoute.md",
-    "Cours/Audiologie/Oreille interne.md",
     "Cours/Audioprothèse/L'anti larsen.md",
     "Images/Pasted image 20231209213625.png",
     "Cours/Audioprothèse/Constantes de temps.md",
-    "Cours/Audioprothèse/Les constantes de temps.md",
-    "Cours/Audioprothèse/Réducteurs de bruits.md",
-    "Cours/Audioprothèse/Couplage acoustique.md",
-    "Images/Pasted image 20231209142057.png",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Cours/Audiologie/Mécanismes de l'audition",
