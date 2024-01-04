@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
+                "file": "Surdités professionnelles.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
+                "file": "Surdités professionnelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
+                "file": "Surdités professionnelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audiologie/Pathologies/Pathologies.md"
+                "file": "Surdités professionnelles.md"
               }
             }
           }
@@ -149,12 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e1018c5828fc81f",
+  "active": "fe1857caa184c5af",
   "lastOpenFiles": [
+    "Cours/Audiologie/Pathologies/Pathologies.md",
+    "Surdités professionnelles.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
     "Cours/Audiologie/Pathologies/Pathologies vertigineuses.md",
     "Partiels 2A.md",
-    "Cours/Audiologie/Pathologies/Pathologies.md",
     "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
     "Cours/Audiologie/Oreille externe.md",
@@ -184,7 +185,6 @@
     "Images/Pasted image 20231218211358.png",
     "Images/Pasted image 20231218211343.png",
     "Cours/Audioprothèse/Accessoires.md",
-    "Cours/Audioprothèse/Data logging.md",
     "Images/Pasted image 20231217185833.png",
     "Images/Pasted image 20231209213625.png",
     "Cours/Acoustique",

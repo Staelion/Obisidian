@@ -40,6 +40,7 @@
 >[!INFO]+ Pathologies externes a l'oreille ayant un impact sur l'audition
 >
 >[[Paragangliomes]]
+>[[Surdités professionnelles]]
 
 
 
