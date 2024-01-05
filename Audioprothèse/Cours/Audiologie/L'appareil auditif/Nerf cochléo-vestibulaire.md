@@ -5,7 +5,7 @@ Le nerf cochléo-vestibulaire, également connu sous le nom de nerf vestibulo-co
 >
 **Branche Cochléaire :**
 >
->- La branche cochléaire est dédiée à la fonction auditive. Elle prend son origine dans la cochlée, la partie de l'[[oreille interne]] responsable de la transduction des vibrations sonores en signaux électriques. Les cellules ciliées de la cochlée convertissent les ondes sonores en impulsions électriques, qui sont ensuite transmises via la branche cochléaire du nerf.  
+>- La branche cochléaire est dédiée à la fonction auditive. Elle prend son origine dans la cochlée, la partie de l'[[Oreille interne]] responsable de la transduction des vibrations sonores en signaux électriques. Les cellules ciliées de la cochlée convertissent les ondes sonores en impulsions électriques, qui sont ensuite transmises via la branche cochléaire du nerf.  
 >
 >**Branche Vestibulaire :**  
 >

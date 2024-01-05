@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surdités professionnelles.md",
+                "file": "Cours/Audiologie/Audiologie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surdités professionnelles.md",
+                "file": "Cours/Audiologie/Audiologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surdités professionnelles.md",
+                "file": "Cours/Audiologie/Audiologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surdités professionnelles.md"
+                "file": "Cours/Audiologie/Audiologie.md"
               }
             }
           }
@@ -149,28 +149,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe1857caa184c5af",
+  "active": "5e1018c5828fc81f",
   "lastOpenFiles": [
+    "Cours/Audiologie/L'appareil auditif/Physiologie de l'audition.md",
+    "Cours/Audiologie/Types de surdités",
+    "Cours/Audiologie/Audiologie.md",
+    "Cours/Audiologie/L'appareil auditif/Nerf cochléo-vestibulaire.md",
+    "Cours/Audiologie/L'appareil auditif/Fonctionnement central.md",
+    "Cours/Audiologie/Types de surdités/Surdités professionnelles.md",
+    "Cours/Audiologie/L'appareil auditif",
     "Cours/Audiologie/Pathologies/Pathologies.md",
-    "Surdités professionnelles.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
     "Cours/Audiologie/Pathologies/Pathologies vertigineuses.md",
     "Partiels 2A.md",
-    "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
-    "Cours/Audiologie/Oreille externe.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille externe.md",
     "Cours/Audiologie/Pathologies/Paragangliomes.md",
     "Cours/Audiologie/Pathologies/Neurinome de l'acoustique.md",
-    "Cours/Audiologie/Nerf cochléo-vestibulaire.md",
     "Cours/Audiologie/Pathologies/Névrite Vestibulaire.md",
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
-    "Cours/Audiologie/Physiologie de l'audition.md",
-    "Cours/Audiologie/Oreille interne.md",
-    "Cours/Audiologie/Trompe d'eustache.md",
-    "Cours/Audiologie/Surdité de transmission.md",
-    "Cours/Audiologie/Surdité de perception.md",
-    "Cours/Audiologie/Oreille moyenne.md",
-    "Cours/Audiologie/Fonctionnement central.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+    "Cours/Audiologie/L'appareil auditif/Trompe d'eustache.md",
+    "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
+    "Cours/Audiologie/Types de surdités/Surdité de perception.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille moyenne.md",
     "Cours/Audioprothèse/Connectivité.md",
     "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
     "Images/Pasted image 20231223140326.png",
@@ -184,7 +186,6 @@
     "Images/Pasted image 20231218211504.png",
     "Images/Pasted image 20231218211358.png",
     "Images/Pasted image 20231218211343.png",
-    "Cours/Audioprothèse/Accessoires.md",
     "Images/Pasted image 20231217185833.png",
     "Images/Pasted image 20231209213625.png",
     "Cours/Acoustique",
@@ -198,8 +199,6 @@
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Organisation et annexes",
-    "Images",
-    "Cours",
-    "Templates"
+    "Images"
   ]
 }
