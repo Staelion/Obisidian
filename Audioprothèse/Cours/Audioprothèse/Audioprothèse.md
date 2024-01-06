@@ -12,6 +12,7 @@
 >- [[Pression acoustique]]
 >- [[La surdité]]
 >- [[Les appareils auditifs]]
+>- [[L'implant cochléaire]]
 >- [[Le mesurage des ACA]]
 >- [[Les fonctions des ACA]]
 >- [[Accessoires et connectivité]]

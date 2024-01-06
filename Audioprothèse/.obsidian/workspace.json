@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audiologie/Audiologie.md",
+                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audiologie/Audiologie.md",
+                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audiologie/Audiologie.md",
+                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audiologie/Audiologie.md"
+                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md"
               }
             }
           }
@@ -149,45 +149,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e1018c5828fc81f",
+  "active": "fe1857caa184c5af",
   "lastOpenFiles": [
-    "Cours/Audiologie/L'appareil auditif/Physiologie de l'audition.md",
-    "Cours/Audiologie/Types de surdités",
-    "Cours/Audiologie/Audiologie.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille externe.md",
     "Cours/Audiologie/L'appareil auditif/Nerf cochléo-vestibulaire.md",
     "Cours/Audiologie/L'appareil auditif/Fonctionnement central.md",
-    "Cours/Audiologie/Types de surdités/Surdités professionnelles.md",
-    "Cours/Audiologie/L'appareil auditif",
+    "Cours/Audioprothèse/Audioprothèse.md",
+    "Cours/Audioprothèse/L'implant cochléaire.md",
+    "Images/Pasted image 20240106152644.png",
+    "Pasted image 20240106152644.md",
+    "Pasted image 20240106152644 1.png",
+    "Images/Pasted image 20240106152602.png",
+    "Images/Pasted image 20240106152556.png",
+    "Cours/Audiologie/Pathologies/Otospongiose.md",
     "Cours/Audiologie/Pathologies/Pathologies.md",
+    "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
+    "Cours/Audiologie/Types de surdités/Surdités professionnelles.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Cours/Audiologie/L'appareil auditif/Physiologie de l'audition.md",
+    "Cours/Audiologie/Types de surdités",
+    "Cours/Audiologie/L'appareil auditif",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
     "Cours/Audiologie/Pathologies/Pathologies vertigineuses.md",
     "Partiels 2A.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille externe.md",
     "Cours/Audiologie/Pathologies/Paragangliomes.md",
     "Cours/Audiologie/Pathologies/Neurinome de l'acoustique.md",
     "Cours/Audiologie/Pathologies/Névrite Vestibulaire.md",
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
     "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
     "Cours/Audiologie/L'appareil auditif/Trompe d'eustache.md",
-    "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
     "Cours/Audiologie/Types de surdités/Surdité de perception.md",
     "Cours/Audiologie/L'appareil auditif/Oreille moyenne.md",
     "Cours/Audioprothèse/Connectivité.md",
-    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
     "Images/Pasted image 20231223140326.png",
-    "Cours/Audioprothèse/Accessoires et connectivité.md",
-    "Cours/Audioprothèse/Audioprothèse.md",
-    "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
     "Images/Pasted image 20231219182329.png",
     "Images/Pasted image 20231219180527.png",
     "Images/Pasted image 20231219180456.png",
     "Images/Pasted image 20231219180421.png",
     "Images/Pasted image 20231218211504.png",
-    "Images/Pasted image 20231218211358.png",
-    "Images/Pasted image 20231218211343.png",
-    "Images/Pasted image 20231217185833.png",
-    "Images/Pasted image 20231209213625.png",
     "Cours/Acoustique",
     "Cours/Audioprothèse",
     "Cours/Audiologie/Mécanismes de l'audition",
