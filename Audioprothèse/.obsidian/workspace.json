@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Surdités brusques.md",
+                "file": "Cours/Audiologie/Types de surdités/Surdités brusques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Surdités brusques.md",
+                "file": "Cours/Audiologie/Types de surdités/Surdités brusques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Surdités brusques.md",
+                "file": "Cours/Audiologie/Types de surdités/Surdités brusques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Surdités brusques.md"
+                "file": "Cours/Audiologie/Types de surdités/Surdités brusques.md"
               }
             }
           }
@@ -149,10 +149,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe1857caa184c5af",
+  "active": "5e1018c5828fc81f",
   "lastOpenFiles": [
     "Cours/Audiologie/Types de surdités/Surdités professionnelles.md",
-    "Surdités brusques.md",
+    "Cours/Audiologie/Types de surdités/Surdités brusques.md",
     "Cours/Audiologie/Pathologies/Pathologies.md",
     "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
     "Cours/Audioprothèse/L'implant cochléaire.md",
