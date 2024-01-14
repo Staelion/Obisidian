@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe1857caa184c5af",
+            "id": "c3876c26291c5066",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,9 +149,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e1018c5828fc81f",
+  "active": "c3876c26291c5066",
   "lastOpenFiles": [
-    "Cours/Audiologie/Types de surdités/Surdités professionnelles.md",
+    "Cours/Audiologie/Types de surdités/Surdité professionnelle.md",
+    "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
+    "Cours/Audioprothèse/La surdité.md",
+    "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audiologie/Types de surdités/Surdités brusques.md",
     "Cours/Audiologie/Pathologies/Pathologies.md",
     "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
@@ -159,7 +162,6 @@
     "Cours/Audiologie/L'appareil auditif/Oreille externe.md",
     "Cours/Audiologie/L'appareil auditif/Nerf cochléo-vestibulaire.md",
     "Cours/Audiologie/L'appareil auditif/Fonctionnement central.md",
-    "Cours/Audioprothèse/Audioprothèse.md",
     "Images/Pasted image 20240106152644.png",
     "Pasted image 20240106152644.md",
     "Pasted image 20240106152644 1.png",
@@ -181,8 +183,6 @@
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
     "Cours/Audiologie/L'appareil auditif/Trompe d'eustache.md",
     "Cours/Audiologie/Types de surdités/Surdité de perception.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille moyenne.md",
-    "Cours/Audioprothèse/Connectivité.md",
     "Images/Pasted image 20231223140326.png",
     "Images/Pasted image 20231219182329.png",
     "Images/Pasted image 20231219180527.png",

@@ -4,7 +4,7 @@
 • Surdité d’apparition soudaine ou rapide, par atteinte cochléaire pure, idiopathique (dont on ne
 connait pas la cause), pouvant régresser, s’aggraver ou récidiver => Surdités fluctuantes
 • Elle doit s’installer dans un délai < à 72h (3 jours), le plus souvent c’est quelques secondes
-• C’est une surdité de perception pure > 30dB sur 3 fréquences contigües = consécutives.
+• C’est une [[surdité de perception]] pure > 30dB sur 3 fréquences contigües = consécutives.
 
 >[!INFO]
 > 
@@ -18,7 +18,7 @@ connait pas la cause), pouvant régresser, s’aggraver ou récidiver => Surdit�
 >   - Collapsus de la membrane de Reissner
 >   - Altération des neurones cochléaires
 > - Contexte clinique viral, sujet jeune, légère hausse automnale
-> - Surdité sévère, unilatérale, non régressive => Névrite, neurolabyrinthite
+> - Surdité sévère, [[surdité unilatérale]], non régressive => Névrite, neurolabyrinthite
 > - Surdité moins sévère, régressive => Vasculaire
 > - Hypothèse de l’hydrops labyrinthique
 > - Infection à spirochètes = Bactérienne (Syphilis, Maladie de Lyme)
@@ -72,7 +72,6 @@ connait pas la cause), pouvant régresser, s’aggraver ou récidiver => Surdit�
 > ## III. Etude clinique
 >
 > ### A) Symptômes
-> - **"Coup de tonnerre dans un ciel bleu"**
 > - Baisse brutale de l’audition, généralement unilatérale
 > - Acouphène, plénitude d’oreille, diplacousie, hyperacousie, rémanence
 > - ATCD => négatif

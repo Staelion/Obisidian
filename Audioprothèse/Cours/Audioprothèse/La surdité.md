@@ -17,4 +17,6 @@
 >- [[La presbyacousie]]
 >- [[Surdité plate]]
 >- [[Surdité unilatérale]]
+>- [[Surdité professionnelle]]
+>- [[Surdité unilatérale]]
 
