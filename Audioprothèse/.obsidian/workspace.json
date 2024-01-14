@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+                "file": "Surdités brusques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+                "file": "Surdités brusques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+                "file": "Surdités brusques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md"
+                "file": "Surdités brusques.md"
               }
             }
           }
@@ -151,20 +151,22 @@
   },
   "active": "fe1857caa184c5af",
   "lastOpenFiles": [
+    "Cours/Audiologie/Types de surdités/Surdités professionnelles.md",
+    "Surdités brusques.md",
+    "Cours/Audiologie/Pathologies/Pathologies.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+    "Cours/Audioprothèse/L'implant cochléaire.md",
     "Cours/Audiologie/L'appareil auditif/Oreille externe.md",
     "Cours/Audiologie/L'appareil auditif/Nerf cochléo-vestibulaire.md",
     "Cours/Audiologie/L'appareil auditif/Fonctionnement central.md",
     "Cours/Audioprothèse/Audioprothèse.md",
-    "Cours/Audioprothèse/L'implant cochléaire.md",
     "Images/Pasted image 20240106152644.png",
     "Pasted image 20240106152644.md",
     "Pasted image 20240106152644 1.png",
     "Images/Pasted image 20240106152602.png",
     "Images/Pasted image 20240106152556.png",
     "Cours/Audiologie/Pathologies/Otospongiose.md",
-    "Cours/Audiologie/Pathologies/Pathologies.md",
     "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
-    "Cours/Audiologie/Types de surdités/Surdités professionnelles.md",
     "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/L'appareil auditif/Physiologie de l'audition.md",
     "Cours/Audiologie/Types de surdités",
@@ -177,7 +179,6 @@
     "Cours/Audiologie/Pathologies/Neurinome de l'acoustique.md",
     "Cours/Audiologie/Pathologies/Névrite Vestibulaire.md",
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
     "Cours/Audiologie/L'appareil auditif/Trompe d'eustache.md",
     "Cours/Audiologie/Types de surdités/Surdité de perception.md",
     "Cours/Audiologie/L'appareil auditif/Oreille moyenne.md",

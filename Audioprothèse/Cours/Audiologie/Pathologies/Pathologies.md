@@ -41,6 +41,7 @@
 >
 >[[Paragangliomes]]
 >[[Surdités professionnelles]]
+>[[Surdités brusques]]
 
 
 

@@ -255,4 +255,3 @@
 > - Petites séries.
 > - Utilisation réelle variable.
 
-
