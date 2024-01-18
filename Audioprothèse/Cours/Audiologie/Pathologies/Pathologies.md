@@ -42,6 +42,7 @@
 >[[Paragangliomes]]
 >[[Surdité professionnelle]]
 >[[Surdités brusques]]
+>[[Ototoxicité médicamenteuse]]
 
 
 

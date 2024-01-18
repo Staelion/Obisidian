@@ -1,58 +1,40 @@
 {
   "main": {
-    "id": "be873ae66e0b3e26",
+    "id": "ea810ea634ece087",
     "type": "split",
     "children": [
       {
-        "id": "098b9a95f756d836",
+        "id": "99f85c5d804f862b",
         "type": "tabs",
         "children": [
           {
-            "id": "c3876c26291c5066",
+            "id": "52b79c670b5ffe39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
-<<<<<<< HEAD
-=======
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b7e01bd47776ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stimulation par voie osseuse et implant d'oreille moyenne.md",
->>>>>>> df2c62ed08e075c656ccf160e3b284bf86228e9a
+                "file": "Ototoxicité médicamenteuse.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4cd0ef4d45b2c9ac",
+    "id": "ebf2da475c55fbac",
     "type": "split",
     "children": [
       {
-        "id": "254acabde74f4bbd",
+        "id": "bfabad7cc7f949ae",
         "type": "tabs",
         "children": [
           {
-            "id": "5e1018c5828fc81f",
+            "id": "1c661abd2fcdc96e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +44,7 @@
             }
           },
           {
-            "id": "2b48d3520d280485",
+            "id": "412e85b6b4bdfc2d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +59,7 @@
             }
           },
           {
-            "id": "2c9ceedc00b5a814",
+            "id": "bbaf92f0b35840a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,27 +70,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 300
   },
   "right": {
-    "id": "960edbd81f4e6a07",
+    "id": "31993b4376b00354",
     "type": "split",
     "children": [
       {
-        "id": "30b219c91b6d7ebb",
+        "id": "cfc7b0cd2d560448",
         "type": "tabs",
         "children": [
           {
-            "id": "32b4c46969224c0b",
+            "id": "69df647267340345",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
-=======
-                "file": "Stimulation par voie osseuse et implant d'oreille moyenne.md",
->>>>>>> df2c62ed08e075c656ccf160e3b284bf86228e9a
+                "file": "Ototoxicité médicamenteuse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,23 +98,19 @@
             }
           },
           {
-            "id": "bd8bf688dffde3cd",
+            "id": "aea8f3e8e2a064c5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
-=======
-                "file": "Stimulation par voie osseuse et implant d'oreille moyenne.md",
->>>>>>> df2c62ed08e075c656ccf160e3b284bf86228e9a
+                "file": "Ototoxicité médicamenteuse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c95d56dc5d0ba61f",
+            "id": "ed120e003cc0a2e7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,21 +121,16 @@
             }
           },
           {
-            "id": "6708c4ac9ee77375",
+            "id": "be64cc041a32c65c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Cours/Audioprothèse/Audioprothèse.md"
-=======
-                "file": "Stimulation par voie osseuse et implant d'oreille moyenne.md"
->>>>>>> df2c62ed08e075c656ccf160e3b284bf86228e9a
+                "file": "Ototoxicité médicamenteuse.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,69 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "c3876c26291c5066",
+  "active": "52b79c670b5ffe39",
   "lastOpenFiles": [
-    "Stimulation par voie osseuse et implant d'oreille moyenne.md",
-    "Cours/Audioprothèse/Surdité unilatérale.md",
-    "Cours/Audiologie/Types de surdités/Surdités professionnelles.md",
-    "Cours/Audioprothèse/Audioprothèse.md",
-=======
-  "active": "1b7e01bd47776ef1",
-  "lastOpenFiles": [
-    "Cours/Audioprothèse/Audioprothèse.md",
-    "Stimulation par voie osseuse et implant d'oreille moyenne.md",
->>>>>>> df2c62ed08e075c656ccf160e3b284bf86228e9a
-    "Cours/Audioprothèse/La surdité.md",
-    "Cours/Audiologie/Types de surdités/Surdité professionnelle.md",
-    "Cours/Audiologie/Types de surdités/Surdités brusques.md",
-    "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
     "Cours/Audiologie/Pathologies/Pathologies.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
-    "Cours/Audioprothèse/L'implant cochléaire.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille externe.md",
-    "Cours/Audiologie/L'appareil auditif/Nerf cochléo-vestibulaire.md",
-    "Cours/Audiologie/L'appareil auditif/Fonctionnement central.md",
-    "Images/Pasted image 20240106152644.png",
-    "Pasted image 20240106152644.md",
-    "Pasted image 20240106152644 1.png",
-    "Images/Pasted image 20240106152602.png",
-    "Images/Pasted image 20240106152556.png",
-    "Cours/Audiologie/Pathologies/Otospongiose.md",
-    "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
-    "Cours/Audiologie/Audiologie.md",
-    "Cours/Audiologie/L'appareil auditif/Physiologie de l'audition.md",
-    "Cours/Audiologie/Types de surdités",
-    "Cours/Audiologie/L'appareil auditif",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
-    "Cours/Audiologie/Pathologies/Pathologies vertigineuses.md",
-    "Partiels 2A.md",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
-    "Cours/Audiologie/Pathologies/Paragangliomes.md",
-    "Cours/Audiologie/Pathologies/Neurinome de l'acoustique.md",
-    "Cours/Audiologie/Pathologies/Névrite Vestibulaire.md",
-<<<<<<< HEAD
-=======
-    "Cours/Audiologie/Pathologies/Cholestéatome.md",
-    "Cours/Audiologie/L'appareil auditif/Trompe d'eustache.md",
->>>>>>> df2c62ed08e075c656ccf160e3b284bf86228e9a
-    "Images/Pasted image 20231223140326.png",
-    "Images/Pasted image 20231219182329.png",
-    "Images/Pasted image 20231219180527.png",
-    "Images/Pasted image 20231219180456.png",
-    "Images/Pasted image 20231219180421.png",
-    "Images/Pasted image 20231218211504.png",
-    "Cours/Acoustique",
-    "Cours/Audioprothèse",
-    "Cours/Audiologie/Mécanismes de l'audition",
-    "Cours/Audiologie/Manœuvres et interventions",
-    "Cours/Audiologie",
-    "Cours/Audiologie/Pathologies",
-    "Untitled.canvas",
-    "Organisation et annexes/Plan d'orga des trucs a faire.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Organisation et annexes",
-    "Images"
+    "Ototoxicité médicamenteuse.md",
+    "Cours/Audiologie/Audiologie.md"
   ]
 }
