@@ -8,19 +8,59 @@
         "type": "tabs",
         "children": [
           {
+            "id": "53b0f36362575a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb7a82b9b09374e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traumatismes sonores aïgus.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "52b79c670b5ffe39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ototoxicité médicamenteuse.md",
+                "file": "Partiels 2A.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f82a4ae7b519aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Audiométrie dans le bruit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31993b4376b00354",
@@ -86,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ototoxicité médicamenteuse.md",
+                "file": "Partiels 2A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ototoxicité médicamenteuse.md",
+                "file": "Partiels 2A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ototoxicité médicamenteuse.md"
+                "file": "Partiels 2A.md"
               }
             }
           }
@@ -149,8 +190,31 @@
   },
   "active": "52b79c670b5ffe39",
   "lastOpenFiles": [
+    "Cours/Audiologie/Manœuvres et interventions/Epreuves vestibulaires caloriques.md",
+    "Partiels 2A.md",
+    "Audiométrie dans le bruit.md",
+    "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
+    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+    "Cours/Audiologie/Pathologies/Schwannome Vestibulaire.md",
+    "Traumatismes sonores aïgus.md",
     "Cours/Audiologie/Pathologies/Pathologies.md",
-    "Ototoxicité médicamenteuse.md",
-    "Cours/Audiologie/Audiologie.md"
+    "Cours/Audiologie/Audiologie.md",
+    "Cours/Audiologie/Pathologies/Cholestéatome.md",
+    "Cours/Audiologie/Pathologies/Pathologies traumatiques du CAE.md",
+    "Cours/Audiologie/Pathologies/Aplasie de Michel.md",
+    "Cours/Audiologie/Pathologies/Agénésie du conduit auditif.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille externe.md",
+    "Cours/Audiologie/L'appareil auditif/Fonctionnement central.md",
+    "ABOUT WORK.md",
+    "ARCHIVES.md",
+    "Dashboard.md",
+    "Cours/Audiologie/Pathologies/Ototoxicité médicamenteuse.md",
+    "SOUTENANCE DE MEMOIRE.md",
+    "Cours/Audiologie/L'appareil auditif/Physiologie de l'audition.md",
+    "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
+    "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
+    "Cours/Audiologie/Types de surdités/Surdité de perception.md",
+    "Cours/Audiologie/Pathologies/Poche de rétraction.md",
+    "Cours/Audiologie/Pathologies/Otospongiose.md"
   ]
 }

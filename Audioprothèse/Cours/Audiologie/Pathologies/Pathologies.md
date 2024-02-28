@@ -43,6 +43,7 @@
 >[[Surdité professionnelle]]
 >[[Surdités brusques]]
 >[[Ototoxicité médicamenteuse]]
+>[[Traumatismes sonores aïgus]]
 
 
 
