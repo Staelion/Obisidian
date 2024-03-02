@@ -14,6 +14,7 @@ Profs : PARENT CODET JAOUEN
 
 >[!WARNING] Définition
 >La cochlée est une structure en forme de coquille située dans l'oreille interne, essentielle à la perception auditive. Elle est composée d'un canal cochléaire contenant la membrane basilaire et l'organe de Corti, responsables de la transformation des vibrations sonores en signaux électriques transmis au cerveau. La cochlée joue un rôle central dans l'audition et la discrimination des différentes fréquences sonores.
+>CF : [[P1 - Physiologie fonctionnelle]]
 
 >[!INFO] Anatomie
 >La cochlée présente une forme en limaçon avec une longueur d'environ 30 mm et un diamètre de 1 à 2 mm. Elle comporte environ 2,5 tours de spire enroulés autour du modiulus. Cette structure est située en avant du vestibule de l'oreille interne et possède un axe oblique en avant et en dedans. Son sommet correspond au promontoire dans l'oreille moyenne.
@@ -80,10 +81,6 @@ Profs : PARENT CODET JAOUEN
 >
 > - Réflexe vestibulo spinal : participe à la régulation du corps lors des mouvements de la tête
 >Ex : si on tourne à droite=> tout le poids du corps bascule vers la droite
-
-  
-
-
 #### Canaux semi-circulaires 
 
 >[!INFO] Anatomie
@@ -92,7 +89,6 @@ Profs : PARENT CODET JAOUEN
 >Les canaux semi-circulaires (CSC) sont des structures essentielles de l'oreille interne, orientées dans les trois plans de l'espace. Ils sont perpendiculaires les uns aux autres, avec un diamètre d'environ 0,8 mm chacun. Chaque canal semi-circulaire comprend une ampoule et un orifice non ampullaire. Le CSC latéral, situé à environ 30° de la verticale (plan de Francfort), s'horizontalise lorsque l'on regarde devant soi et est le plus court, mesurant environ 15 mm de long. Il possède une ampoule antérieure. Le CSC supérieur, qui est également antérieur, est perpendiculaire au grand axe du rocher et mesure environ 16 mm de long. Il partage un canal commun avec le CSC postérieur. Enfin, le CSC postérieur, parallèle au grand axe du rocher, est le plus long des trois canaux, mesurant environ 20 mm de long, avec une ampoule postérieure. Il partage également un canal commun avec le CSC supérieur. On retrouve aussi les macules utriculaires et sacculaires qui apportent des informations de position dans le plan horizontal et vertical respectivement (accélération d'un véhicule / ascenseur)
 >
 >![[Pasted image 20231102152555.png]]
-
 
 >[!INFO]+ Fonctions
 >- Gestion de l'équilibre

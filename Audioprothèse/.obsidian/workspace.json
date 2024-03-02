@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partiels 2A.md",
-                "mode": "preview",
+                "file": "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5
   },
   "right": {
     "id": "31993b4376b00354",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partiels 2A.md"
+                "file": "Cours/Psychoacoustique/P3 - Codage de l'intensité.md"
               }
             }
           }
@@ -147,12 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52b79c670b5ffe39",
+  "active": "1c661abd2fcdc96e",
   "lastOpenFiles": [
-    "Cours/Audiologie/Types de surdités/Surdité professionnelle.md",
-    "Traumatismes sonores aïgus.md",
     "Partiels 2A.md",
-    "Stimulation par voie osseuse et implant d'oreille moyenne.md",
+    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
+    "Cours/Audiologie/Types de surdités/Traumatismes sonores aïgus.md",
+    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
+    "Cours/Audiologie/L'appareil auditif/Fonctionnement central.md",
+    "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
+    "Cours/Psychoacoustique",
+    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
+    "Cours/Audiologie/Types de surdités/Surdité professionnelle.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
     "Cours/Audiologie/Pathologies/Schwannome Vestibulaire.md",
     "Cours/Audiologie/Pathologies/Schwannome vestibulaire (Neurinome de l'acoustique).md",
