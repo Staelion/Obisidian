@@ -2,13 +2,12 @@
 
 >[!INFO]+ Audiologie
 >
->- [[Schwannome Vestibulaire]]
 >- [[Paragangliomes]]
 >- [[Tumeurs de l'oreille externe]]
 >- [[Tumeurs de l'oreille moyenne]]
 >- [[Ototoxicité médicamenteuse]]
 >- [[Cholestéatome]]
->- [[Neurinome de l'acoustique]]
+>- [[Schwannome vestibulaire (Neurinome de l'acoustique)]]
 >- [[Surdités brusques]]
 >- [[Pathologies traumatiques du CAE]]
 >- [[Surdité professionnelle]]

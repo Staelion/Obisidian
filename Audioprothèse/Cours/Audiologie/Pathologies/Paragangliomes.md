@@ -3,7 +3,7 @@
 >Tumeur neuroendocrines développées à partir des paraganglions. Ils sont sépares en deux groupes qui ont des effets sur le système sympathique ou parasympathique
 
 >[!INFO]
->Tumeurs rare (<5% dans tout l'organisme) qui peuvent se déclencher partout dans le corps. 10% à 12% en temporal. Tumeur du rocher la plus fréquente après le [[Neurinome de l'acoustique]]
+>Tumeurs rare (<5% dans tout l'organisme) qui peuvent se déclencher partout dans le corps. 10% à 12% en temporal. Tumeur du rocher la plus fréquente après le [[Schwannome vestibulaire (Neurinome de l'acoustique)]]
 >
 >Prévalence plus élevée chez les hommes, âge de 40 à 60 ans.
 >

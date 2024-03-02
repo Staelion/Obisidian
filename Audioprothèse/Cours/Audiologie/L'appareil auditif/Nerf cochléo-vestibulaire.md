@@ -21,6 +21,6 @@ Le nerf cochléo-vestibulaire, également connu sous le nom de nerf vestibulo-co
 
 >[!INFO] Pathologies
 >
->[[Neurinome de l'acoustique]]
+>[[Schwannome vestibulaire (Neurinome de l'acoustique)]]
 >[[Névrite Vestibulaire]]
 
