@@ -5,16 +5,16 @@
 >- [[Paragangliomes]]
 >- [[Tumeurs de l'oreille externe]]
 >- [[Tumeurs de l'oreille moyenne]]
->- [[Ototoxicité médicamenteuse]]
 >- [[Cholestéatome]]
 >- [[Schwannome vestibulaire (Neurinome de l'acoustique)]]
->- [[Surdités brusques]]
 >- [[Pathologies traumatiques du CAE]]
->- [[Surdité professionnelle]]
 >- [[Stimulation par voie osseuse et implant d'oreille moyenne]]
 >- [[Tumeurs de l'oreille moyenne]]
 >- [[L'implant cochléaire]]
->- [[Traumatismes sonores aïgus]]
+>- [[Traumatismes sonores aïgus]] (RUAUX, ON SKIP)
+>- [[Ototoxicité médicamenteuse]] (RUAUX, ON SKIP)
+>- [[Surdité professionnelle]] (RUAUX, ON SKIP)
+>- [[Surdités brusques]] (RUAUX, ON SKIP)
 
 >[!INFO]+ Audioprothèse
 >
