@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audioprothèse/Constantes de temps.md",
+                "file": "Partiels 2A.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/Constantes de temps.md",
+                "file": "Partiels 2A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/Constantes de temps.md",
+                "file": "Partiels 2A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/Constantes de temps.md"
+                "file": "Partiels 2A.md"
               }
             }
           }
@@ -177,12 +177,14 @@
   },
   "active": "52b79c670b5ffe39",
   "lastOpenFiles": [
+    "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
     "Partiels 2A.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
+    "Cours/Audioprothèse/Constantes de temps.md",
     "Cours/Audioprothèse/Compression dynamique.md",
     "Cours/Audioprothèse/Couplage acoustique.md",
     "Cours/Audiologie/Pathologies/Schwannome vestibulaire (Neurinome de l'acoustique).md",
     "Cours/Audiologie/Pathologies/Paragangliomes.md",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
     "Cours/Audiologie/Manœuvres et interventions/Otoscopie.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
     "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
@@ -191,7 +193,6 @@
     "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
     "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
     "Cours/Psychoacoustique",
-    "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
     "Cours/Audiologie/Types de surdités/Traumatismes sonores aïgus.md",
     "Cours/Audiologie/Manœuvres et interventions/Epreuves vestibulaires caloriques.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
@@ -202,7 +203,6 @@
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
     "Cours/Audiologie/Pathologies/Pathologies traumatiques du CAE.md",
     "Cours/Audiologie/Pathologies/Aplasie de Michel.md",
-    "Cours/Audiologie/Pathologies/Agénésie du conduit auditif.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille externe.md"
+    "Cours/Audiologie/Pathologies/Agénésie du conduit auditif.md"
   ]
 }
