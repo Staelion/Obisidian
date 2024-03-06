@@ -49,7 +49,3 @@
 >
 >- Ouais ouais tkt mon reuf
 
->[!INFO]+ Conf. fournisseurs
->
->- [[Compression dynamique]]
-
