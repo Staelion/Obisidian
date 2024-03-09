@@ -13,7 +13,7 @@
 > 
 >## I - CODAGE NEURONAL ET CODAGE ACTIF
 >
->### A) Codage neuronal => Phase Locking
+>### A) Codage neuronal => [[Phase Locking]]
 > • Une caractéristique très subtile au niveau du nerf auditif, à la sortie des CCE => mécanisme de phase Locking
 > • Les décharges neuronales se font en phase avec le son stimulant
 > • Cela correspond à une longueur d’onde entre deux décharges = le système auditif en déduit une fréquence
