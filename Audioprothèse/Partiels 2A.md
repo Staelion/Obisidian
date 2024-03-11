@@ -6,6 +6,7 @@
 >- [[Tumeurs de l'oreille externe]]
 >- [[Tumeurs de l'oreille moyenne]]
 >- [[Cholestéatome]]
+>- [[Otospongiose]] (A revoir pour bien avoir en tête)
 >- [[Schwannome vestibulaire (Neurinome de l'acoustique)]]
 >- [[Pathologies traumatiques du CAE]]
 >- [[Stimulation par voie osseuse et implant d'oreille moyenne]]

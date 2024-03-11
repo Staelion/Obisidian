@@ -8,7 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b054be6d7eb6c492",
+            "id": "53b0f36362575a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52b79c670b5ffe39",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f82a4ae7b519aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Audiométrie dans le bruit.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "structure fine",
+                "query": "Otospo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
@@ -149,28 +176,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b054be6d7eb6c492",
+  "active": "52b79c670b5ffe39",
   "lastOpenFiles": [
-    "P5 - Localisation et binauralité.md",
-    "Partiels 2A.md",
-    "P4 - La perception temporelle.md",
-    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
     "Phase Locking.md",
-    "Cours/Audiologie/Types de surdités/Traumatismes sonores aïgus.md",
-    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
-    "Cours/Audiologie/L'appareil auditif/Fonctionnement central.md",
-    "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
-    "Cours/Psychoacoustique",
-    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
-    "Cours/Audiologie/Types de surdités/Surdité professionnelle.md",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
-    "Cours/Audiologie/Pathologies/Schwannome Vestibulaire.md",
-    "Cours/Audiologie/Pathologies/Schwannome vestibulaire (Neurinome de l'acoustique).md",
-    "Ototoxicité médicamenteuse.md",
-    "Cours/Audiologie/Pathologies/Ototoxicité médicamenteuse.md",
+    "P5 - Localisation et binauralité.md",
+    "P4 - La perception temporelle.md",
+    "Cours/Audiologie/Pathologies/Cholestéatome.md",
+    "Partiels 2A.md",
     "Audiométrie dans le bruit.md",
+    "Cours/Audiologie/Pathologies/Otospongiose.md",
+    "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
+    "Cours/Audioprothèse/Constantes de temps.md",
+    "Cours/Audioprothèse/Compression dynamique.md",
+    "Cours/Audioprothèse/Couplage acoustique.md",
+    "Cours/Audiologie/Pathologies/Schwannome vestibulaire (Neurinome de l'acoustique).md",
+    "Cours/Audiologie/Pathologies/Paragangliomes.md",
+    "Cours/Audiologie/Manœuvres et interventions/Otoscopie.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
+    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
     "Cours/Audiologie/Pathologies/Pathologies.md",
-    "Cours/Audiologie/Audiologie.md"
+    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
+    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
+    "Cours/Psychoacoustique",
+    "Cours/Audiologie/Types de surdités/Traumatismes sonores aïgus.md",
+    "Cours/Audiologie/Manœuvres et interventions/Epreuves vestibulaires caloriques.md",
+    "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
+    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+    "Cours/Audiologie/Pathologies/Schwannome Vestibulaire.md",
+    "Traumatismes sonores aïgus.md"
   ]
 }
