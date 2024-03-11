@@ -178,9 +178,12 @@
   },
   "active": "52b79c670b5ffe39",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Phase Locking.md",
     "P5 - Localisation et binauralité.md",
     "P4 - La perception temporelle.md",
+=======
+>>>>>>> Stashed changes
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
     "Partiels 2A.md",
     "Audiométrie dans le bruit.md",
@@ -204,6 +207,13 @@
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
     "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
     "Cours/Audiologie/Pathologies/Schwannome Vestibulaire.md",
+<<<<<<< Updated upstream
     "Traumatismes sonores aïgus.md"
+=======
+    "Traumatismes sonores aïgus.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Cours/Audiologie/Pathologies/Pathologies traumatiques du CAE.md",
+    "Cours/Audiologie/Pathologies/Aplasie de Michel.md"
+>>>>>>> Stashed changes
   ]
 }
