@@ -1,27 +1,14 @@
 {
   "main": {
-    "id": "ea810ea634ece087",
+    "id": "bdde238675f77d4d",
     "type": "split",
     "children": [
       {
-        "id": "99f85c5d804f862b",
+        "id": "71ff279940e45114",
         "type": "tabs",
         "children": [
           {
-            "id": "53b0f36362575a79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52b79c670b5ffe39",
+            "id": "d9a8d8b5b6f7541d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,36 +19,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3f82a4ae7b519aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Audiométrie dans le bruit.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ebf2da475c55fbac",
+    "id": "0b1228a7789ca3fd",
     "type": "split",
     "children": [
       {
-        "id": "bfabad7cc7f949ae",
+        "id": "125a05afe5b1c24d",
         "type": "tabs",
         "children": [
           {
-            "id": "1c661abd2fcdc96e",
+            "id": "06c2063f99712123",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,12 +44,12 @@
             }
           },
           {
-            "id": "412e85b6b4bdfc2d",
+            "id": "4712eb26d53fcd37",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Otospo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,31 +59,29 @@
             }
           },
           {
-            "id": "bbaf92f0b35840a0",
+            "id": "9f6be490b47f83e0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "31993b4376b00354",
+    "id": "f84bfc59c7668f7c",
     "type": "split",
     "children": [
       {
-        "id": "cfc7b0cd2d560448",
+        "id": "a4b3bf0d63e0e389",
         "type": "tabs",
         "children": [
           {
-            "id": "69df647267340345",
+            "id": "974e71c7afebbc35",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -127,7 +98,7 @@
             }
           },
           {
-            "id": "aea8f3e8e2a064c5",
+            "id": "ff9a44525fab3632",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -139,7 +110,7 @@
             }
           },
           {
-            "id": "ed120e003cc0a2e7",
+            "id": "97b5e1ca7b1e68ff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +121,7 @@
             }
           },
           {
-            "id": "be64cc041a32c65c",
+            "id": "a643bffe499fc562",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -176,37 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52b79c670b5ffe39",
+  "active": "d9a8d8b5b6f7541d",
   "lastOpenFiles": [
-    "Cours/Audiologie/Pathologies/Cholestéatome.md",
-    "Partiels 2A.md",
-    "Audiométrie dans le bruit.md",
-    "Cours/Audiologie/Pathologies/Otospongiose.md",
-    "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
-    "Cours/Audioprothèse/Constantes de temps.md",
-    "Cours/Audioprothèse/Compression dynamique.md",
-    "Cours/Audioprothèse/Couplage acoustique.md",
-    "Cours/Audiologie/Pathologies/Schwannome vestibulaire (Neurinome de l'acoustique).md",
     "Cours/Audiologie/Pathologies/Paragangliomes.md",
-    "Cours/Audiologie/Manœuvres et interventions/Otoscopie.md",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
-    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
-    "Cours/Audiologie/Pathologies/Pathologies.md",
-    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
-    "Cours/Psychoacoustique",
-    "Cours/Audiologie/Types de surdités/Traumatismes sonores aïgus.md",
-    "Cours/Audiologie/Manœuvres et interventions/Epreuves vestibulaires caloriques.md",
-    "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
-    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
-    "Cours/Audiologie/Pathologies/Schwannome Vestibulaire.md",
-<<<<<<< Updated upstream
-    "Traumatismes sonores aïgus.md"
-=======
-    "Traumatismes sonores aïgus.md",
-    "Cours/Audiologie/Audiologie.md",
-    "Cours/Audiologie/Pathologies/Pathologies traumatiques du CAE.md",
-    "Cours/Audiologie/Pathologies/Aplasie de Michel.md"
+    "Partiels 2A.md"
   ]
 }
