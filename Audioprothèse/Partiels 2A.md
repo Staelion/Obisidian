@@ -46,7 +46,8 @@
 >
 >Apprentissage : Tout les jours, par coeur, CF méthode Loanne
 >
->- Everything sur les phonèmes (CF feuilles de cours et de révisions papier, notes sur mon pc)
+>- Everything sur les phonèmes (CF feuilles de cours et de révisions papier, notes sur mon pc) 
+>(Ya un MAX de truc a apprendre par coeur ici)
 
 >[!INFO]+ Electronique
 >
@@ -60,7 +61,6 @@
 >
 >- Ouais ouais tkt mon reuf
 
-
 >[!Warning]+ Planning
 >
 >Toutes les matières sont que du par coeur 
@@ -73,5 +73,25 @@
 >Matinée : Audiologie
 >Moitié d'aprèm 1 : Audioprothèse, Electronique / Psychoacoustique en rotation
 >Moitié d'aprèm 2 : Phonétique + Relire un chapitre au hasard sur l'obsidian
-
+>
+>horaires : 
+lever 5h30
+Sport 6h-9h
+9h-9h30 douche encas
+9h30 - 11h
+Faire du par coeur car bien frais et réveillé
+11h-11h15 pause, exercice étirements café etc
+11h15 - midi
+midi-13h30 GRANDE PAUSE
+13h30-15h30
+Faire des exercises braindead car fatigue de début d’aprèm / revision sur les matieres qui tournent
+15h30-16h30 Pause
+16h30 18h30
+Taf encore
+19h bouffe
+19h45 21h30
+Code, chill, going out, etc
+21h30 22h
+NIGHT ROUTINE stretching, skills, bathroom
+22h ~ 22h30 dodo
 

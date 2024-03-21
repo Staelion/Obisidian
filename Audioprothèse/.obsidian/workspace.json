@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3afc1c9e73a94d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partiels 2A.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9a8d8b5b6f7541d",
+  "active": "3afc1c9e73a94d0e",
   "lastOpenFiles": [
     "Cours/Audiologie/Pathologies/Paragangliomes.md",
     "Partiels 2A.md"
