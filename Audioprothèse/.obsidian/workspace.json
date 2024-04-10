@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partiels 2A.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3afc1c9e73a94d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Psychoacoustique/P5 - Localisation et binauralité.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Psychoacoustique/P5 - Localisation et binauralité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Psychoacoustique/P5 - Localisation et binauralité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partiels 2A.md"
+                "file": "Cours/Psychoacoustique/P5 - Localisation et binauralité.md"
               }
             }
           }
@@ -161,9 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3afc1c9e73a94d0e",
+  "active": "d9a8d8b5b6f7541d",
   "lastOpenFiles": [
-    "Cours/Audiologie/Pathologies/Paragangliomes.md",
-    "Partiels 2A.md"
+    "Partiels 2A.md",
+    "Dashboard.md",
+    "Cours/Psychoacoustique/Phase Locking.md",
+    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
+    "Cours/Audioprothèse/Constantes de temps.md",
+    "Cours/Audioprothèse/Compression dynamique.md",
+    "Cours/Audiologie/Pathologies/Paragangliomes.md"
   ]
 }

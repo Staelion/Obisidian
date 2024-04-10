@@ -40,7 +40,7 @@
 > 
 > - Pas de délai à 0° et 180°, indépendamment de la fréquence.
 > - Le décalage temporel maximal est à 90°, environ 0,65 ms, quelle que soit la fréquence.
-> - Utilisation du [[Phase locking]] pour mesurer les déphasages entre les signaux, important pour la localisation.
+> - Utilisation du [[Phase Locking]] pour mesurer les déphasages entre les signaux, important pour la localisation.
 > - Fonctionne principalement sur les basses fréquences.
 > 
 > ## Mécanismes de Localisation
