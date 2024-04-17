@@ -24,6 +24,7 @@
 >- [[Compression dynamique]] (P. LANTIN)
 >- [[Constantes de temps]]
 >- Bilan d'orientation prothétique (GUEMAS, drive)
+>- [[Anamnèse (Guemas)]]
 >- [[Audiométrie dans le bruit]]
 >- [[Couplage acoustique]]
 >- [[Surdité unilatérale]]

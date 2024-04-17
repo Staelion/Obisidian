@@ -8,6 +8,8 @@
 >[!INFO]
 >Voici les grands thèmes qui sont abordés en audioprothèse
 >
+>1ère année : 
+>
 >- [[Principe du son]]
 >- [[Pression acoustique]]
 >- [[La surdité]]
@@ -15,5 +17,9 @@
 >- [[L'implant cochléaire]]
 >- [[Le mesurage des ACA]]
 >- [[Les fonctions des ACA]]
+> 
+> 2ème année 
+> 
+> - [[Anamnèse (Guemas)]]
 >- [[Accessoires et connectivité]]
 >- [[L'audiométrie à visée prothétique]]
