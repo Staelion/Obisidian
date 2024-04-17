@@ -30,8 +30,6 @@
 > - Une méthode consiste à présenter simultanément des signaux différents le long d'une dimension acoustique pour déterminer les indices pertinents.
 > - Exemple : regrouper les mots d'une phrase par couleur pour former des objets distincts, similaire à l'analyse des scènes auditives.
 > 
-> > # Révision : Traits de Groupement et Ségrégation dans l'Analyse des Scènes Auditives
-> 
 > ## Groupement d'Évènements Simultanés
 > 
 > - **Harmonicité** :
@@ -65,3 +63,46 @@
 > - **Séparation en Flux Auditifs** :
 >   - Des événements non ordonnables dans le temps sont séparés en flux perceptifs distincts.
 > 
+> ## Indices Sensoriels Extra-Auditifs
+> 
+> - **Localisation Spatiale / Corrélation Binaurale** :
+>   - Ségrégation facilitée lorsque les sources sonores sont spatialement séparées.
+> - **Lecture Labiale** :
+>   - Puissant indice sensoriel non auditif basé sur le destin commun, renforçant la cohérence entre le visuel et l'auditif.
+> 
+> ## Troubles de Ségrégation et Réhabilitation Prothétique
+> 
+> - Chez les malentendants, ainsi que chez les personnes âgées, des troubles de ségrégation peuvent survenir.
+> - Les indices non tonotopiques sont utiles pour les personnes ayant une tonotopie déficiente, comme les malentendants ou les implantés cochléaires.
+> 
+> ## Démasquage Binaural
+> 
+> - **Principe** :
+>   - L'ajout de bruit sur l'oreille controlatérale permet d'améliorer la perception en annulant le bruit.
+> - **Fonctionnement** :
+>   - Le cerveau soustrait le bruit entendu d'un côté pour inhiber le bruit de l'autre côté, permettant de mieux entendre le son.
+> - **Limitations** :
+>   - Le démasquage binaural ne fonctionne pas pour les acouphènes.
+>   - L'efficacité est moindre lorsque le bruit controlatéral est différent du bruit ipsilatéral.
+> - **Implication Évolutive** :
+>   - La capacité de démasquage binaural s'est développée pour prévenir les dangers, et est une caractéristique fondamentale de la perception auditive.
+> 
+> ## Intérêt de la Perception Binaurale
+> 
+> - **Stéréophonie** :
+>   - Permet une expérience auditive immersive.
+> - **Localisation Spatiale** :
+>   - Basée sur le délai inter-aural et la différence inter-aurale d'intensité.
+> 
+> ## Remarques
+> 
+> - **TCS et TCD** :
+>   - Taux de Compression Statique et Dynamique, mesurés pour évaluer la dynamique du signal de la parole.
+> - **Prédisposition à la Lecture Labiale** :
+>   - Les enfants ont une inclination naturelle à la lecture labiale.
+> - **Variabilité dans la Psychoacoustique** :
+>   - On évite de faire intervenir la suppléance mentale pour gommer la variabilité entre les individus.
+> 
+> Pour plus d'informations, contacter : stephane.garnier@wanadoo.fr
+> ```
+
