@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71ff279940e45114",
+        "id": "f0cae19fad456d02",
         "type": "tabs",
         "children": [
           {
-            "id": "d9a8d8b5b6f7541d",
+            "id": "c84799810af639f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audiométrie tonale.md",
+                "file": "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "a4cbad251cd8eafc",
+            "id": "96915859f8b6ed76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audiométrie dans le bruit.md",
+                "file": "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e9ccf90ab52070c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/L'appareil auditif/Oreille moyenne.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e627ebf4b167270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partiels 2A.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f84bfc59c7668f7c",
@@ -100,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Audiométrie dans le bruit.md",
+                "file": "Partiels 2A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Audiométrie dans le bruit.md",
+                "file": "Partiels 2A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Audiométrie dans le bruit.md"
+                "file": "Partiels 2A.md"
               }
             }
           }
@@ -161,16 +188,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4cbad251cd8eafc",
+  "active": "3e627ebf4b167270",
   "lastOpenFiles": [
+    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille moyenne.md",
     "Partiels 2A.md",
-    "Anamnèse (Guemas).md",
-    "Audiométrie tonale.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
+    "Cours/Audiologie/Pathologies/Pathologies vertigineuses.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
+    "Cours/Audiologie/Pathologies/Paragangliomes.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
+    "Audiométrie tonale.md",
+    "Audiométrie dans le bruit.md",
+    "Anamnèse (Guemas).md",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
     "Cours/Audioprothèse/Les fonctions des ACA.md",
-    "Audiométrie dans le bruit.md",
     "Dashboard.md",
     "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
     "SOUTENANCE DE MEMOIRE.md",
@@ -181,10 +215,7 @@
     "Cours/Audioprothèse/Accessoires.md",
     "ARCHIVES.md",
     "ABOUT WORK.md",
-    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
     "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Cours/Audioprothèse/Constantes de temps.md",
-    "Cours/Audioprothèse/Compression dynamique.md",
-    "Cours/Audiologie/Pathologies/Paragangliomes.md"
+    "Cours/Audioprothèse/Constantes de temps.md"
   ]
 }

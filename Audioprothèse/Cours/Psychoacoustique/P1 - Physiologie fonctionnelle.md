@@ -90,7 +90,6 @@
 > - Pas de régénération cellulaire des CCE, pas de thérapie génique possible.
 > - Différenciation fonctionnelle récente des types de cellules.
 >
-> Cette fiche couvre les aspects cruciaux du fonctionnement périphérique normal de l'audition, en mettant en lumière les rôles et les mécanismes clés des organes impliqués.
 > 
 > ## Périphérie Auditive
 >
@@ -142,7 +141,6 @@
 > - Pas de régénération cellulaire des CCE, pas de thérapie génique possible.
 > - Différenciation fonctionnelle récente des types de cellules.
 >
-> Cette fiche couvre les aspects cruciaux du fonctionnement périphérique normal de l'audition, en mettant en lumière les rôles et les mécanismes clés des organes impliqués.
 > 
 > ## A) Mécanique Passive - Békézi
 >
@@ -173,5 +171,3 @@
 > - Diminution de l'amplification cochléaire avec l'augmentation de l'intensité.
 > - La sélectivité fréquentielle disparaît chez les presbyacousiques.
 > - La sensibilité et la sélectivité sont liées à l'activité des CCE.
->
-> Cette fiche couvre les aspects essentiels de la transduction cochléaire passive et active, mettant en évidence les mécanismes de codage de l'intensité et de la fréquence dans la perception auditive.

@@ -40,7 +40,7 @@
 >
 >La [[Labyrinthite]] Aiguë, une inflammation du labyrinthe, peut être infectieuse, bactérienne, virale, inflammatoire, ou ototoxique. Les symptômes incluent une surdité de perception, un grand vertige rotatoire, et un syndrome vestibulaire périphérique. Un traitement précoce avec des antibiotiques en cas d'infection, des corticoïdes en cas d'inflammation, et l'arrêt de l'intoxication en cas d'ototoxicité est nécessaire.
 >
->Le [[Schwannome Vestibulaire]], une tumeur bénigne développée à partir de la gaine de Schwann, affecte souvent le nerf vestibulaire inférieur. Son diagnostic repose sur l'IRM et le PEA, et le traitement varie en fonction de la taille de la tumeur, allant de la surveillance à la chirurgie, en passant par la radiothérapie stéréotaxique.
+>Le [[Schwannome vestibulaire (Neurinome de l'acoustique)]], une tumeur bénigne développée à partir de la gaine de Schwann, affecte souvent le nerf vestibulaire inférieur. Son diagnostic repose sur l'IRM et le PEA, et le traitement varie en fonction de la taille de la tumeur, allant de la surveillance à la chirurgie, en passant par la radiothérapie stéréotaxique.
 >
 >Enfin, certaines circonstances particulières, telles que les traumatismes (fracture du rocher, blast auriculaire, barotraumatisme), les [[Tumeurs de l'oreille moyenne]], la fistule endolymphatique, la déhiscence du CSC antérieur avec le phénomène de Tullio, nécessitent une prise en charge adaptée.
 >
