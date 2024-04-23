@@ -11,6 +11,9 @@ Profs : PEIGNE CODET
 ![[Pasted image 20231024120200.png]]
 ![[Pasted image 20231030191552.png]]
 ![[Pasted image 20231107101251.png]]
+![[Pasted image 20240423115037.png]]
+
+
 ### Le tympan
 
 >[!WARNING]+ Définition

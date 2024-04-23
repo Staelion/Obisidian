@@ -14,13 +14,13 @@
 
 >[!INFO] Cholestéatome de l'oreille moyenne
 >
->Le cholestéatome est une condition caractérisée par la présence d'épiderme dans l'[[Oreille moyenne]]. Lorsque cet épiderme se retrouve piégé dans la cavité du tympan, il forme un cholestéatome, semblable à un kyste, entraînant des dommages graves à l'oreille. Les conséquences incluent l'érosion des osselets, provoquant une [[Surdité de transmission]], la lyse des parois de la caisse du tympan avec un risque de méningite et d'abcès cérébral, une atteinte de l'[[Oreille interne]] entraînant une labyrinthite, des problèmes au niveau du vestibule provoquant des vertiges, et une possible paralysie faciale périphérique. Le cholestéatome peut se former de trois manières : par invagination (rétraction tympanique), par migration épithéliale à travers une perforation tympanique, ou de manière congénitale, ce dernier étant la forme la plus rare, résultant de l'inclusion épidermique de restes branchiaux, souvent observée chez les jeunes enfants.
+>Le cholestéatome est une condition caractérisée par la présence d'épiderme dans l'[[Oreille moyenne]]. Lorsque cet épiderme se retrouve piégé dans la cavité du tympan, il forme un cholestéatome, semblable à un kyste, entraînant des dommages graves à l'oreille. Les conséquences incluent l'érosion des osselets, provoquant une [[Surdité de transmission]], la lyse des parois de la caisse du tympan avec un risque de méningite et d'abcès cérébral, une atteinte de l'[[Oreille interne]] entraînant une [[labyrinthite]], des problèmes au niveau du vestibule provoquant des vertiges, et une possible paralysie faciale périphérique. Le cholestéatome peut se former de trois manières : par invagination (rétraction tympanique), par migration épithéliale à travers une perforation tympanique, ou de manière congénitale, ce dernier étant la forme la plus rare, résultant de l'inclusion épidermique de restes branchiaux, souvent observée chez les jeunes enfants.
 >
 >*Signes cliniques :*
 >- surdité progressive : soit [[Surdité de transmission]] car le C. prend de plus en plus de place + bloque les mouvements des osselets. soit [[Surdité de perception]] si lyse de l'[[Oreille interne]]. *__INSTALLATION INSIDUEUSE__*
 >- Otorrhée chronique +++ car stagnation d'eau et d'épiderme
 >- Méningites
->- [[Labyrhintite]] vertiges ++
+>- [[Labyrinthite]] vertiges ++
 >- Paralysie faciales (cas rare)
 >
 >*[[Otoscopie]] :* 

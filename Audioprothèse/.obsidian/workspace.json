@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Audioprothèse/Compression dynamique.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f84bfc59c7668f7c",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Audioprothèse/Compression dynamique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Audioprothèse/Compression dynamique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Partiels 2A.md"
+                "file": "Cours/Audioprothèse/Compression dynamique.md"
               }
             }
           }
@@ -190,32 +189,34 @@
   },
   "active": "3e627ebf4b167270",
   "lastOpenFiles": [
-    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille moyenne.md",
+    "Cours/Audioprothèse/Les fonctions des ACA.md",
+    "Cours/Audioprothèse/Compression dynamique.md",
     "Partiels 2A.md",
+    "Cours/Audiologie/Pathologies/Cholestéatome.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille moyenne.md",
+    "Images/Pasted image 20240423115037.png",
+    "Pasted image 20240423114945.png",
+    "Cours/Audiologie/Pathologies/Labyrinthite.md",
+    "Labyrhintite.md",
+    "Cours/Audiologie/Pathologies/Paragangliomes.md",
+    "Cours/Audiologie/Manœuvres et interventions/Otoscopie.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
+    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
     "Cours/Audiologie/Pathologies/Pathologies vertigineuses.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
-    "Cours/Audiologie/Pathologies/Paragangliomes.md",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
     "Audiométrie tonale.md",
     "Audiométrie dans le bruit.md",
     "Anamnèse (Guemas).md",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
-    "Cours/Audioprothèse/Les fonctions des ACA.md",
     "Dashboard.md",
     "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
     "SOUTENANCE DE MEMOIRE.md",
     "Images/Pasted image 20240417110002.png",
     "Cours/Audiologie/Pathologies/Otospongiose.md",
     "Cours/Psychoacoustique/P5 - Localisation et binauralité.md",
-    "Cours/Psychoacoustique/Phase Locking.md",
-    "Cours/Audioprothèse/Accessoires.md",
-    "ARCHIVES.md",
-    "ABOUT WORK.md",
-    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Cours/Audioprothèse/Constantes de temps.md"
+    "Cours/Psychoacoustique/Phase Locking.md"
   ]
 }
