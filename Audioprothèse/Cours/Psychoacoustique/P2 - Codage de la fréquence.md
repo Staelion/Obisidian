@@ -28,11 +28,10 @@
 > 
 > 2) La spécificité fréquentielle :
 > - La spécificité fréquentielle de chaque fibre qui sort de chaque CCI, dépend de l’état de la cochlée
-> - + la cochlée est endommagée, - bonne est la sélectivité en fréquence
+> - plus la cochlée est endommagée, moins bonne est la sélectivité en fréquence
 > - Chaque CCI a ses propres spécificités en fréquence
 > - Si elles le sont toutes parfaitement, le système de traitement pourra bien différencier les fréquences l’une de l’autre
-> - Chaque CCI a sa propre courbe d’accord (ou filtre auditif) Une courbe d’accord
-> Psychoacoustique Stéphane Garnier Année 2021
+> - Chaque CCI a sa propre courbe d’accord (ou filtre auditif) 
 > 
 >## II - LE BANC DE FILTRES AUDITIFS
 > • C’est une succession de courbes d’accord

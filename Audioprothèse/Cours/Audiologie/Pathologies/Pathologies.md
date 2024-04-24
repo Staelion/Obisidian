@@ -35,7 +35,7 @@
 
 >[!INFO]+ Pathologies du nerf cochléo-vestibulaire
 >
->[[Schwannome Vestibulaire]]
+>[[Schwannome vestibulaire (Neurinome de l'acoustique)]]
 
 >[!INFO]+ Pathologies externes a l'oreille ayant un impact sur l'audition
 >

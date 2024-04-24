@@ -13,7 +13,15 @@
 >![[Pasted image 20231219180527.png]]
 
 >[!WARNING] Les différentes audiométries 
+>L'audiométrie est l'ensemble de test principal lors de l'appareillage d'un patient car c'est sur cela que tout se base, du choix de l'appareil et du couplages aux réglages de gains que l'on va appliquer au dépistage d'éventuelles anomalies dans l'audition etc
 >
+>La perte d'audition est triée parmi 5 catégories a savoir :
+>- Audition normale 0-20 dB HL de perte
+>- Surdité légère 20-40 dB HL de perte
+>- Surdité moyenne 40-70 dB HL de perte
+>- Surdité sévère 70-90 dB HL de perte
+>- Surdité profonde 90-120 dB HL de perte
+>![[Pasted image 20240424165253.png]]
 >[[Audiométrie tonale]]
 >[[Audiométrie vocale]]
 

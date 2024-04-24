@@ -24,11 +24,11 @@
 >
 > (Le réflexe stapédien à très court terme et pas avec une rapidité particulière peut jouer mais nous  n’en ressentons pas l’action) 
 >
-> • Le codage de l’intensité selon Békézi 
+> • Le codage de l’intensité selon Bekezy
 >
-> - + l’intensité du son est forte, + le résonateur vibrait de manière ample 
+> - +l’intensité du son est forte, + le résonateur vibrait de manière ample 
 >
-> - + l’intensité du son est importante, + l’écrasement des cils des CCI sera importante, + la  cellule se dépolarise et libère des neurotransmetteurs à sa base 
+> - +l’intensité du son est importante, + l’écrasement des cils des CCI sera importante, + la  cellule se dépolarise et libère des neurotransmetteurs à sa base 
 >
 > - Les NT sont libérés dans l’espace inter-synaptique => + la concentration des NT est  importante, + l’excitation de la fibre du nerf auditif est importante.
 > 
@@ -40,7 +40,7 @@
 > - À moyen taux spontané = un peu moins excitable, il faut plus de neuro-transmetteur  
 > - À bas taux spontané ou gros diamètre
 > => Ces 3 catégories se relayent. 
-> Pour arriver au 120 dB, a besoin de 3 mécanismes => celui de Békézy qui met en relation  l’intensité et l’amplitude de la membrane basilaire, la diversité des fibres (elles ne vont pas toutes  agir pour la même gamme d’intensité), la compression cochléaire qui va élargir la dynamique 
+> Pour arriver au 120 dB, a besoin de 3 mécanismes => celui de Bekezy qui met en relation  l’intensité et l’amplitude de la membrane basilaire, la diversité des fibres (elles ne vont pas toutes  agir pour la même gamme d’intensité), la compression cochléaire qui va élargir la dynamique 
 > 1) Surdité de transmission 
 > 2) Surdité neuro-sensorielle CCE 
 > 3) Surdité neuro-sensorielles CCE + CCI 

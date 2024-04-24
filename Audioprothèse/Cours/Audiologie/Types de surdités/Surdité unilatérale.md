@@ -1,5 +1,5 @@
 >[!INFO]
->Ce type de surdité peut résulter d'un choc auditif, d'un barotraumatisme, d'une surdité brusque, d'un blast (lié à une explosion) ou d'un [[Schwannome Vestibulaire]] (neurinome de l'acoustique). Ces pertes auditives peuvent poser des défis significatifs dans la vie quotidienne, notamment lorsqu'il s'agit de comprendre les sons provenant d'un côté, de dos ou d'une autre pièce. Cela peut créer des situations de danger pour le patient.
+>Ce type de surdité peut résulter d'un choc auditif, d'un barotraumatisme, d'une surdité brusque, d'un blast (lié à une explosion) ou d'un [[Schwannome vestibulaire (Neurinome de l'acoustique)]]. Ces pertes auditives peuvent poser des défis significatifs dans la vie quotidienne, notamment lorsqu'il s'agit de comprendre les sons provenant d'un côté, de dos ou d'une autre pièce. Cela peut créer des situations de danger pour le patient.
 >
  La difficulté d'appareiller ces surdités réside dans les distorsions sonores de l'oreille déficiente, rendant l'utilisation d'un appareil auditif sur une seule oreille parfois complexe et désagréable. De plus, l'intégration cérébrale, la localisation et la compréhension dans le bruit sont compromises avec un seul appareil, d'où la recommandation d'utiliser un système CROS dans de telles situations.
 
