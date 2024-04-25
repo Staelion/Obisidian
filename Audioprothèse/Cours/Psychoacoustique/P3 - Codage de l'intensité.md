@@ -19,7 +19,8 @@
 > • Compression dans l’aide auditive car compression perdu dans la cochlée, perte au dessus de 60  dB = pas que atteinte des cce (atteinte des cci aussi), perte en dessous de 60 dB, ça peut être  les CCE 
 >
 > • Les CCE compriment le son pour jamais être au dessus de 60 dB 
->
+> 
+> 
 >## I - L’ORGANE DE CORTI EST LE PREMIER STADE DE CODAGE DE L’INTENSITÉ 
 >
 > (Le réflexe stapédien à très court terme et pas avec une rapidité particulière peut jouer mais nous  n’en ressentons pas l’action) 
@@ -47,7 +48,13 @@
 > 4) Surdité neurale qui atteint les fibres du nerf auditif (principalement les fibres à bas taux  spontané qui sont touchées, trouble de la perception de l’intensité dans le troisième tiers  de l’audiogramme). Distorsion dans les hautes intensités. Vocale dans le bruit très  mauvaise (RSB de 0 dB, 20% de bonnes réponses). Il faut réduire le gain à l’appareillage  pour ne pas atteindre la zone dans laquelle le patient a le + de distorsion (c'est-à-dire les  plus hautes intensités). On améliorera très légèrement avec appareils.  
 > 5) Surdités rétrocochléaire 
 > => Que ça soit les CCI ou les fibres du nerf auditif qui soient endommagées, on obtient à peu  près la même chose niveau surdité, audiométrie 
->
+> 
+> RESUME : 
+> ![[Pasted image 20240425115348.png]]
+> ![[Pasted image 20240425112630.png]]
+>  Pour arriver au 120 dB, a besoin de 3 mécanismes => celui de Bekezy qui met en relation  l’intensité et l’amplitude de la membrane basilaire, la diversité des fibres (elles ne vont pas toutes  agir pour la même gamme d’intensité), la compression cochléaire qui va élargir la dynamique 
+>  
+>  
 >## III - LE SEUIL D’AUDITION 
 > • Mesure clinique du seuil d’audition => audiogramme tonal 
 > • CARART On commence à 50 on descend de 10 en 10 jusqu’à ce que le son ne soit plus perçu,  puis on remonte de 5 en 5 jusqu’à ce qu’il soit perçu, puis -10 puis +5 puis -5 
@@ -55,14 +62,17 @@
 > • L’audibilité des sons est ce qu’on peut le maitriser le plus en audioprothèse. Pour savoir quoi  faire, il faut faire des tests 
 >
 >## IV - LA DISCRIMINATION D’INTENSITÉ (CAPACITE DU SUJET A DÉTECTÉ UNE DIFFÉRENCE  D’INTENSITÉ ENTRE 2 SONS) 
+>#### Méthode 2IFC
 > • Choix forcé, deux intervalles, l’un des deux un peu plus fort que l’autre, on demande lequel.  Discrimination moyenne 1dB 
 > • Chez le malentendant, seuil de discrimination d’intensité entre 0,2 et 0,5 dB => c’est la seule  grandeur qui s’améliore avec une surdité neuro-sensorielle. Peut mesurer le recrutement mais  est ce que ça a un sens ?  
-> • Test clinique => SISI = détection d’incrément.  
+> #### Test clinique => SISI = détection d’incrément.  
 > • On envoie un son pur continu au casque pendant 1 à 2min et de temps en temps on va mettre  un incrément de un décibel pendant 1s 
 > • On va demander au sujet testé de compter les incréments 
 > • En moyenne le normo-entendant va entre la moitié des incréments  
 > • Le score du malentendant est de 10/10. Pour lui 1dB est très largement au dessus de son seuil  de discrimination
 > • Relation entre intensité et recrutement = discrimination d’intensité (recrutement), seule  grandeur connue qui s’ameliore en présence d’une surdité neurosensorielle • Audiométrie de bekezy => voir internet, pincement proportionnel a son recrutement 
+>![[Pasted image 20240425114414.png]]
+>![[Pasted image 20240425115705.png]]
 >
 >## V - LA COTATION CATÉGORIELLE DE SONIE 
 > • Test croissance de sonie = très long 

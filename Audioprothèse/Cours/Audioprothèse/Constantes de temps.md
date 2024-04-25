@@ -4,17 +4,16 @@
 >![[Pasted image 20231209142057.png]]
 
 >[!INFO] Temps d'attaque
->Temps d'attaque ~ 0 à 50 ms
->- Si le temps d’attaque est long :
->La compression met du temps à agir car le temps de réaction est long.
->S’il y a un bruit fort/impulsionnel, le système n’a pas le temps de réagir et le laisse donc passer.
->Plus on met un temps d’attaque court, plus on gomme le pic du bruit fort donc plus le son sera doux.
->Cela peut par contre nuire à la compréhension car certaines consonnes (t-p-…) sont des bruits impulsionnels.
->
->- Si le temps d’attaque est court : les voix sont plus agréables et on perçoit moins le bruit de fond mais il y a beaucoup de fluctuations d’intensité et les claquements sont plus désagréables.
->
->- Au début d’un appareillage : le temps d’attaque est court 🡪 confortable
->Puis on met un temps d’attaque plus long 🡪 le patient peut supporter des bruits plus vifs, la modulation est plus naturelle.
+Un temps d'attaque court (0 à 50 ms) offre certains avantages :
+ >- Les voix paraissent plus agréables et le bruit de fond est moins perceptible.
+ >- Le pic des bruits forts est atténué, ce qui rend le son plus doux.
+ >- Cependant, cette configuration peut entraîner des fluctuations d'intensité importantes et rendre les claquements plus désagréables.
+ >  
+>En revanche, un temps d'attaque long (50 ms et plus) présente également des inconvénients :
+>- La compression met plus de temps à agir, ce qui signifie qu'elle peut ne pas réagir suffisamment rapidement aux bruits forts ou impulsifs.
+>- Bien que cela puisse permettre au patient de supporter des bruits vifs, la modulation sonore peut sembler moins naturelle.
+>  
+>Au début de l'appareillage, un temps d'attaque court est généralement privilégié pour son confort immédiat. Par la suite, un ajustement vers un temps d'attaque plus long peut être envisagé pour mieux gérer les bruits forts et garantir une modulation sonore plus naturelle.
 
 >[!INFO] Temps de retour
 >

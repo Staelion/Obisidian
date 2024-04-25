@@ -1,5 +1,3 @@
-
-
 >[!INFO]
 ># Fiche de révision - Surdité de l'OI et Effets des bruits sur l'audition
 >## **I - INTRODUCTION**
@@ -10,13 +8,13 @@
 >
 >### **A) Otopathies pressionnelles traumatiques**
 >
->- Traumatisme Sonore Aigu (TSA)
+>- [[Traumatismes sonores aïgus]] (TSA)
 >    
 >- Blast auriculaire (explosion)
 >    
 >- [[Surdité professionnelle]]
  >   
->- Barotraumatisme (exposition fréquente à des sons forts)
+>- Barotraumatisme (variations importantes de pressions fréquentes)
  >   
 >
 >### **B) Exposition accidentelle à un bruit impulsif**
@@ -68,7 +66,7 @@
 >  
 >- Rupture possible avec une intensité sonore élevée.
 >  
->2. **CCI (Cils ciliés internes) :**
+>2. **CCI (Cellules ciliées internes) :**
 >
 >- Sensibles aux ruptures de fatigue et à la stimulation excessive.
 >- Les ruptures ciliaires mécaniques surviennent avec une stimulation sonore élevée.
