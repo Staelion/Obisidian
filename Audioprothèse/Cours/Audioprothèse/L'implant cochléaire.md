@@ -138,7 +138,7 @@
 > ## Difficultés Prévisibles
 > - Comportementales (motivation), sociales.
 >   
->   > # Fiche de Révision - Implantation et PEC en Implant Cochléaire
+># Fiche de Révision - Implantation et PEC en Implant Cochléaire
 >
 > ## Préparation de l'enfant
 > - Collaboration des parents et des institutions, notamment les audioprothésistes.
@@ -175,7 +175,7 @@
 > - Évaluation au sein du CIC : 3, 6, 12, 18, 24, 36, 48 et 60 mois.
 >
 >
->> # Fiche de Révision - Résultats, Implantation Bilatérale, Stimulation Électro-Acoustique, Acouphènes, et Implant du Tronc Cérébral
+># Fiche de Révision - Résultats, Implantation Bilatérale, Stimulation Électro-Acoustique, Acouphènes, et Implant du Tronc Cérébral
 >
 > ## VI- Résultats
 > ### 1. Adultes

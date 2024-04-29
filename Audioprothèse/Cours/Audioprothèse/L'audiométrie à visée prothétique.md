@@ -29,18 +29,9 @@
 
 
 
->[!WARNING] Audiométrie vocale
->  
-L'audiométrie vocale à visée prothétique mesure la capacité d'une personne à comprendre la parole dans le silence et en présence de bruit.
-Elle évalue aussi la performance auditive avec des prothèses auditives en analysant la compréhension de la parole à différents niveaux sonores à l'aide des tests de gain vocaux, permettant ainsi d'ajuster les réglages
 
->[!INFO]+
->L'audiométrie vocale évalue la compréhension de la parole et peut utiliser divers éléments comme des logatomes, des syllabes, des mots ou des phrases, dans des environnements calmes ou bruyants. Cet examen évalue non seulement la fonction auditive, mais aussi les capacités de communication, la connaissance linguistique, la culture et la capacité mentale de suppléance dans des situations bruyantes.
->
->Il complète l'audiométrie tonale en confirmant les seuils auditifs et en évaluant la capacité de compréhension de la parole. De plus, il aide à distinguer les problèmes provenant de l'oreille interne de ceux liés au système auditif central. Enfin, l'audiométrie vocale est cruciale pour choisir les meilleures méthodes de réhabilitation pour les personnes malentendantes.
->
->
->Notation : la courbe de référence dépend du matériel vocal que l’on utilise, on note le nombre de mots bien entendus sur 10, et on note en pourcents pour chaque décibel. Il faut 50% d’intelligibilité pour comprendre une conversation.
+
+
 
 
 >[!WARNING] Audiométrie supraliminaire

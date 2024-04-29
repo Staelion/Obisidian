@@ -23,11 +23,11 @@
 >
 >- [[Compression dynamique]] (P. LANTIN)
 >- [[Constantes de temps]]
->- Bilan d'orientation prothétique (GUEMAS, drive)
->- [[Anamnèse (Guemas)]]
+>- [[Bilan d'orientation prothétique]]
 >- [[Audiométrie dans le bruit]]
 >- [[Couplage acoustique]]
 >- [[Surdité unilatérale]]
+>- [[Les méthodologies de préréglages]] (Cheval, Guemas)
 >- Incertitudes de mesures (CHEVAL)
 >- Les différentes pratiques (CHEVAL, note pc)
 

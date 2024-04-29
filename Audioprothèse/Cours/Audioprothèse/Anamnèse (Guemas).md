@@ -3,7 +3,7 @@
 > 
 > ## Introduction
 > 
-> L'anamnèse audioprothétique constitue une étape essentielle dans la prise en charge globale d'un patient souffrant de troubles auditifs. Elle permet d'explorer divers aspects de la vie du patient pour mieux adapter les solutions auditives à ses besoins spécifiques.
+> L'anamnèse constitue une étape essentielle dans la prise en charge globale d'un patient souffrant de troubles auditifs. Elle permet d'explorer divers aspects de la vie du patient pour mieux adapter les solutions auditives à ses besoins spécifiques.
 > 
 > ## Importance de l'Anamnèse
 > 

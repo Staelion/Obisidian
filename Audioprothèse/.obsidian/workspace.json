@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Partiels 2A.md",
+                "file": "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,51 @@
             }
           },
           {
-            "id": "328b33c18990eace",
+            "id": "5067dda733265c29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audioprothèse/Constantes de temps.md",
+                "file": "Cours/Audioprothèse/L'implant cochléaire.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e253f2442dfc5810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audioprothèse/Audiométrie tonale.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55890dee77695b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Validation prothétique.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa3f8556d424f8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "masquage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +119,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/Constantes de temps.md",
+                "file": "Validation prothétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/Constantes de temps.md",
+                "file": "Validation prothétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/Constantes de temps.md"
+                "file": "Validation prothétique.md"
               }
             }
           }
@@ -162,10 +202,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "328b33c18990eace",
+  "active": "55890dee77695b67",
   "lastOpenFiles": [
+    "Bilan d'orientation prothétique.md",
+    "Validation prothétique.md",
+    "Adaptation prothétique.md",
     "Partiels 2A.md",
+    "Cours/Audioprothèse/Audiométrie tonale.md",
+    "Audiométrie vocale.md",
+    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+    "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
+    "Pasted image 20240429143039.png",
+    "Cours/Audioprothèse/Anamnèse (Guemas).md",
+    "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
     "Cours/Audioprothèse/Constantes de temps.md",
+    "Pasted image 20240429134556.png",
+    "Cours/Audioprothèse/L'implant cochléaire.md",
     "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
     "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
     "Cours/Psychoacoustique/P4 - La perception temporelle.md",
@@ -174,27 +226,17 @@
     "Cours/Audiologie/Pathologies/Pathologies traumatiques du CAE.md",
     "Pasted image 20240425114414.png",
     "Pasted image 20240425112630.png",
-    "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
     "Cours/Audiologie/Types de surdités/Traumatismes sonores aïgus.md",
     "Cours/Audiologie/Mécanismes de l'audition/Réflexe stapédien.md",
     "Pasted image 20240424165253.png",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audiologie/Audiologie.md",
-    "Cours/Audioprothèse/Audiométrie tonale.md",
-    "Cours/Audioprothèse/Anamnèse (Guemas).md",
     "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
     "Cours/Audiologie/Types de surdités/Surdité de perception.md",
     "Cours/Audiologie/Pathologies/Pathologies.md",
     "Cours/Audiologie/L'appareil auditif/Physiologie de l'audition.md",
     "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
     "Cours/Psychoacoustique/Phase Locking.md",
-    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
-    "Cours/Audioprothèse/Compression dynamique.md",
-    "Cours/Audiologie/Pathologies/Otospongiose.md",
-    "Cours/Audiologie/Pathologies/Schwannome vestibulaire (Neurinome de l'acoustique).md",
-    "Schwannome Vestibulaire.md",
-    "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
-    "Cours/Audiologie/Manœuvres et interventions/Tympanométrie.md",
     "Images/Pasted image 20240423115037.png",
     "Pasted image 20240423114945.png",
     "Images/Pasted image 20240417110002.png"

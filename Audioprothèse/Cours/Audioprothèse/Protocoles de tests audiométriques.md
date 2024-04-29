@@ -114,6 +114,7 @@ Si latéralisé au milieu : RAS ou surdité mixte
 >- Pas de pronom 
 >- On compte le phonème qui est faux donc à la fin on a un pourcentage d’erreur 
 >- L’unité d’erreur est le phonème (résultat en pourcentage par liste)
+>- Utilisées pour tester l'indication à l'implantation cochléaire CF [[L'implant cochléaire]]
 >
 >Listes de Boorsma :
 >
