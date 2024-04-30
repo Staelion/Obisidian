@@ -16,7 +16,7 @@
 > 
 > ## Méthodes de Mesure
 > ### 1. Fusion de Clics
-> - Test initial de résolution temporelle.
+> - Le premier test de résolution temporelle.
 > - Envoi de deux clics rapprochés progressivement jusqu'à ce qu'un seul clic soit perçu.
 > 
 > ### 2. GAP Test
