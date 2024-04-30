@@ -1,6 +1,6 @@
 >[!WARNING] Définition
 >
->Le terme "neurinome de l'acoustique" est inapproprié pour décrire une tumeur bénigne se développant sur le nerf cochléo-vestibulaire. Cette tumeur, appelée schwannome vestibulaire, émerge principalement sur le nerf vestibulaire supérieur, au niveau de l'angle ponto-cérébelleux, et résulte de la croissance des cellules de Schwann. Le nerf vestibulaire transmet les informations auditives au cerveau, et la gaine de Schwann améliore la rapidité de la transmission. Les neurinomes sont des tumeurs des cellules entourant les nerfs.
+>Le terme "neurinome de l'acoustique" est inapproprié pour décrire une tumeur bénigne se développant sur le nerf cochléo-vestibulaire. Cette tumeur, appelée schwannome vestibulaire, émerge principalement sur le nerf vestibulaire supérieur, au niveau de l'angle ponto-cérébelleux, et résulte de la croissance des cellules de Schwann. Le nerf vestibulaire transmet des informations au cerveau, et la gaine de Schwann améliore la rapidité de la transmission en fabricant de la myéline qui entoure les fibres nerveuses. Les neurinomes sont des tumeurs des cellules entourant les nerfs.
 >
 >Cette pathologie, bien que rare, nécessite une observation précise par IRM et scanner pour déterminer le stade et orienter le traitement.
 >IRM avec séquences T1 et T2 permettant de différencier les tissus liquides. Le scanner, basé sur des rayons X, est utilisé pour l'observation osseuse.
