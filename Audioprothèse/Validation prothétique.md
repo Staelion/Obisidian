@@ -33,8 +33,9 @@
 > - Utilisation de listes d'items équilibrés en difficulté et de phrases groupées.
 > - Le test nécessite plusieurs listes préliminaires pour réduire l'effet d'entraînement.
 > - Fournit rapidement le seuil d'intelligibilité vocale (SIB 50%) avec un bon niveau de précision.
+> -  - SRT = Speech Recgonition Threshold correspond au SIB50 (Seuil d'Intelligibilité dans le Bruit)
 > 
-> ## Test Matrix
+> ## Test Matrix (FRAMATRIX)
 > 
 > - Test d'audiométrie vocale innovant basé sur des phrases de la vie quotidienne.
 > - Utilise un algorithme pour ajuster automatiquement le niveau de bruit en fonction des réponses du sujet.
@@ -43,8 +44,9 @@
 > ## Test HINT
 > - Diffusion a 8 HP
 > - Constitué de 25 listes de 10 phrases chacune.
+> - Unité d'erreur est la phrase
 > - Démarre avec un niveau de signal infra-liminaire, augmentant 
-> - progressivement jusqu'à l'obtention d'une réponse exacte.
+> - progressivement de 2 dB jusqu'à l'obtention d'une réponse exacte, puis augmente ou diminue selon la réponse durant les 10 phrases
 > - Utilise la moyenne des niveaux de présentation des phrases pour calculer le seuil d'intelligibilité vocale (SIB50).
 > 
 > ## VRB

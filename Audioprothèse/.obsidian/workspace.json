@@ -71,22 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4a0075c889426ff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Psychoacoustique/P4 - La perception temporelle.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "masquage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Psychoacoustique/P4 - La perception temporelle.md",
+                "file": "Validation prothétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Psychoacoustique/P4 - La perception temporelle.md",
+                "file": "Validation prothétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Psychoacoustique/P4 - La perception temporelle.md"
+                "file": "Validation prothétique.md"
               }
             }
           }
@@ -215,16 +201,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a0075c889426ff6",
+  "active": "55890dee77695b67",
   "lastOpenFiles": [
+    "Cours/Audioprothèse/Audiométrie tonale.md",
+    "Validation prothétique.md",
     "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+    "Cours/Audioprothèse/Audiométrie dans le bruit.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
+    "Cours/Audiologie/Pathologies/Pathologies traumatiques du CAE.md",
+    "Cours/Psychoacoustique/P4 - La perception temporelle.md",
     "Cours/Audiologie/Pathologies/Schwannome vestibulaire (Neurinome de l'acoustique).md",
     "Cours/Audiologie/Pathologies/Otospongiose.md",
-    "Validation prothétique.md",
     "Bilan d'orientation prothétique.md",
     "Adaptation prothétique.md",
     "Partiels 2A.md",
-    "Cours/Audioprothèse/Audiométrie tonale.md",
     "Audiométrie vocale.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
     "Pasted image 20240429143039.png",
@@ -235,10 +226,8 @@
     "Cours/Audioprothèse/L'implant cochléaire.md",
     "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
     "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
-    "Cours/Psychoacoustique/P4 - La perception temporelle.md",
     "Pasted image 20240425115705.png",
     "Pasted image 20240425115348.png",
-    "Cours/Audiologie/Pathologies/Pathologies traumatiques du CAE.md",
     "Pasted image 20240425114414.png",
     "Pasted image 20240425112630.png",
     "Cours/Audiologie/Types de surdités/Traumatismes sonores aïgus.md",
@@ -247,9 +236,6 @@
     "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
-    "Cours/Audiologie/Types de surdités/Surdité de perception.md",
-    "Cours/Audiologie/Pathologies/Pathologies.md",
-    "Cours/Audiologie/L'appareil auditif/Physiologie de l'audition.md",
     "Images/Pasted image 20240423115037.png",
     "Pasted image 20240423114945.png",
     "Images/Pasted image 20240417110002.png"
