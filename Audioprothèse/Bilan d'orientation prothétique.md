@@ -12,6 +12,7 @@ Il existe 2 volets pour une prise en charge optimisée :
 >
 >Le contrôle d’efficacité immédiat et permanent de l’appareillage auditif chez l’adulte (2ème visite = adaptation) 
 >Prescription de gain
+>[[Les méthodologies de préréglages]]
 >[[Adaptation prothétique]]
 >
 >La validation

@@ -3,7 +3,7 @@
 >Niveau d'importance : 5/5
 >examen : Partiel écrit
 >Enseigné sur : 3 années
->Professeurs : STEPHOU GUEMAS LEMOINE
+>Professeurs : STEPHOU, GUEMAS, LEMOINE, FLEURIOT, LEULIEPAULT
 
 >[!INFO]
 >Voici les grands thèmes qui sont abordés en audioprothèse
@@ -20,6 +20,9 @@
 > 
 > 2ème année 
 > 
-> - [[Anamnèse (Guemas)]]
+>- [[Stimulation par voie osseuse et implant d'oreille moyenne]]
 >- [[Accessoires et connectivité]]
->- [[L'audiométrie à visée prothétique]]
+>- [[Protocoles de tests audiométriques]]
+>
+>L'appareillage prothétique (Guemas, Fleuriot, Cheval) :
+>- [[Bilan d'orientation prothétique]]
