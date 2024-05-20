@@ -22,8 +22,11 @@
 >- Surdité sévère 70-90 dB HL de perte
 >- Surdité profonde 90-120 dB HL de perte
 >![[Pasted image 20240424165253.png]]
+
+>[!INFO]
 >[[Audiométrie tonale]]
 >[[Audiométrie vocale]]
+>
 
 
 
@@ -34,7 +37,7 @@
 
 
 
->[!WARNING] Audiométrie supraliminaire
+
 
 
 

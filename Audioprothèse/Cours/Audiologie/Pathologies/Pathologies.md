@@ -1,5 +1,5 @@
-## __Ici seront regroupés toutes les différentes pathologies qui seront expliquées à travers les différents cours__
-
+>[!WARNING]
+>## __Ici seront regroupés toutes les différentes pathologies qui seront expliquées à travers les différents cours__
 
 >[!INFO]+ Pathologies externes
 >
@@ -7,6 +7,9 @@
 >[[Dermo-hypodermite]]
 >[[Sténose du conduit auditif]]
 >[[Otite externe aïgue]]
+>[[Otite Moyenne aïgue]]
+>[[Otite fibro-ahésive]]
+>[[Otite séro-muqueuse (OSM)]]
 >[[Ostéome et exostose du conduit auditif]]
 >[[Sténose du conduit auditif]] 
 >[[Cholestéatome]]

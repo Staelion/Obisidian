@@ -11,7 +11,7 @@
 >
 >## II- Principe
 >
-> Un implant cochléaire (IC) est un transducteur qui remplace la fonction de l'oreille en convertissant un signal acoustique en un signal électrique. Les cellules ciliées (CC) captent le signal, puis l'IC transmet un influx nerveux aux centres nerveux.
+> Un implant cochléaire (IC) est un transducteur qui remplace la fonction de l'oreille en convertissant un signal acoustique en un signal électrique. Les électrodes stimulent alors directement les fibres résiduelles du nerf auditif, contournant ainsi les cellules ciliées défectueuses de l'oreille interne. Le cerveau interprète ces signaux électriques comme des sons.
 >
 > L'IC se compose de deux parties : une externe avec un processeur et un micro, et une interne avec une antenne, un aimant, un processeur, et une électrode placée dans la cochlée. Le processeur externe numérise le signal acoustique, l'antenne envoie des impulsions électromagnétiques à la partie interne, stimulant ainsi le nerf de l'audition.
 >

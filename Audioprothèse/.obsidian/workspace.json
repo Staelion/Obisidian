@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c07b41bcba516947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5067dda733265c29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cours/Audioprothèse/L'implant cochléaire.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e253f2442dfc5810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Audiométrie tonale.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,9 +45,165 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "43644a1ccdabc74c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "872f25209978dde8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d48fc8e9100a4ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audioprothèse/La presbyacousie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "065e46e7b190bebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cab40ff5dd4c7a98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22e1440bbd4293f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Validation prothétique.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee25becdcb0959d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Les méthodologies de préréglages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63b9976eb2a6ee69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Les méthodologies de préréglages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83b47ca7842446eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Les méthodologies de préréglages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83e5db885501c386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88da006e4a46e5eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "510c71f35b692d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bilan d'orientation prothétique.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -140,13 +270,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validation prothétique.md",
+                "file": "Bilan d'orientation prothétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -157,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Validation prothétique.md",
+                "file": "Bilan d'orientation prothétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Validation prothétique.md"
+                "file": "Bilan d'orientation prothétique.md"
               }
             }
           }
@@ -201,43 +331,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55890dee77695b67",
+  "active": "510c71f35b692d4a",
   "lastOpenFiles": [
-    "Cours/Audioprothèse/Audiométrie tonale.md",
-    "Validation prothétique.md",
+    "Cours/Audioprothèse/Audioprothèse.md",
     "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
-    "Cours/Audioprothèse/Audiométrie dans le bruit.md",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
-    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
-    "Cours/Audiologie/Pathologies/Pathologies traumatiques du CAE.md",
-    "Cours/Psychoacoustique/P4 - La perception temporelle.md",
-    "Cours/Audiologie/Pathologies/Schwannome vestibulaire (Neurinome de l'acoustique).md",
-    "Cours/Audiologie/Pathologies/Otospongiose.md",
+    "Les méthodologies de préréglages.md",
+    "Cours/Audiologie/Pathologies/Cholestéatome.md",
+    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
+    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
+    "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
     "Bilan d'orientation prothétique.md",
     "Adaptation prothétique.md",
-    "Partiels 2A.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
+    "Pasted image 20240520165025.png",
+    "Pasted image 20240520162454.png",
+    "Pasted image 20240520161509.png",
+    "Pasted image 20240520155542.png",
+    "Validation prothétique.md",
+    "Cours/Audiologie/Pathologies/Paragangliomes.md",
     "Audiométrie vocale.md",
+    "Cours/Audioprothèse/Audiométrie tonale.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
-    "Pasted image 20240429143039.png",
+    "Cours/Audioprothèse/La directivité.md",
+    "Cours/Audioprothèse/La presbyacousie.md",
+    "Cours/Audioprothèse/Accessoires et connectivité.md",
     "Cours/Audioprothèse/Anamnèse (Guemas).md",
-    "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
-    "Cours/Audioprothèse/Constantes de temps.md",
-    "Pasted image 20240429134556.png",
+    "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
+    "Cours/Psychoacoustique/P4 - La perception temporelle.md",
+    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
+    "Cours/Psychoacoustique/P5 - Localisation et binauralité.md",
     "Cours/Audioprothèse/L'implant cochléaire.md",
-    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
-    "Cours/Audiologie/L'appareil auditif/Oreille interne.md",
+    "Cours/Psychoacoustique/Phase Locking.md",
+    "Pasted image 20240429143039.png",
+    "Pasted image 20240429134556.png",
     "Pasted image 20240425115705.png",
     "Pasted image 20240425115348.png",
     "Pasted image 20240425114414.png",
-    "Pasted image 20240425112630.png",
-    "Cours/Audiologie/Types de surdités/Traumatismes sonores aïgus.md",
-    "Cours/Audiologie/Mécanismes de l'audition/Réflexe stapédien.md",
-    "Pasted image 20240424165253.png",
-    "Cours/Audioprothèse/Audioprothèse.md",
-    "Cours/Audiologie/Audiologie.md",
-    "Cours/Audiologie/Types de surdités/Surdité de transmission.md",
-    "Images/Pasted image 20240423115037.png",
-    "Pasted image 20240423114945.png",
-    "Images/Pasted image 20240417110002.png"
+    "Pasted image 20240425112630.png"
   ]
 }

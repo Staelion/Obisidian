@@ -25,7 +25,7 @@
 > - Hutchison au début du 20ème siècle, principe d’amplification électrique.
 >
 > ## V. Physiologie
-> - Pas seulement conduction osseuse, rôle des liquides endocrâniens et endocochléaires.
+> - Pas seulement conduction osseuse, rôle des liquides endocriniens et endocochléaires.
 > - Vibration osseuse utilisée dans les loisirs, par exemple, écouter de la musique en nageant.
 >
 > ## VI. Indications de la Voie Osseuse

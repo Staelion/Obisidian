@@ -33,7 +33,7 @@
 > - Utilisation de listes d'items équilibrés en difficulté et de phrases groupées.
 > - Le test nécessite plusieurs listes préliminaires pour réduire l'effet d'entraînement.
 > - Fournit rapidement le seuil d'intelligibilité vocale (SIB 50%) avec un bon niveau de précision.
-> -  - SRT = Speech Recgonition Threshold correspond au SIB50 (Seuil d'Intelligibilité dans le Bruit)
+> - SRT = Speech Recgonition Threshold correspond au SIB50 (Seuil d'Intelligibilité dans le Bruit)
 > 
 > ## Test Matrix (FRAMATRIX)
 > 

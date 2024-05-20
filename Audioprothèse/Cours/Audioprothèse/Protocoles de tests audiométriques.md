@@ -126,5 +126,8 @@ Si latéralisé au milieu : RAS ou surdité mixte
 >  
 >  
 >  Vocale dans le bruit :
+>  CF [[Validation prothétique]]
+
+
 
 

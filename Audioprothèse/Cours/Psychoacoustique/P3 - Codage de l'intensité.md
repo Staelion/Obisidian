@@ -62,7 +62,7 @@
 > • L’audibilité des sons est ce qu’on peut le maitriser le plus en audioprothèse. Pour savoir quoi  faire, il faut faire des tests 
 >
 >## IV - LA DISCRIMINATION D’INTENSITÉ (CAPACITE DU SUJET A DÉTECTÉ UNE DIFFÉRENCE  D’INTENSITÉ ENTRE 2 SONS) 
->#### Méthode 2IFC
+>#### Méthode scientifique 2IFC (2 interval forced choices)
 > • Choix forcé, deux intervalles, l’un des deux un peu plus fort que l’autre, on demande lequel.  Discrimination moyenne 1dB 
 > • Chez le malentendant, seuil de discrimination d’intensité entre 0,2 et 0,5 dB => c’est la seule  grandeur qui s’améliore avec une surdité neuro-sensorielle. Peut mesurer le recrutement mais  est ce que ça a un sens ?  
 > #### Test clinique => SISI = détection d’incrément.  
