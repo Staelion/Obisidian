@@ -34,116 +34,12 @@
             }
           },
           {
-            "id": "fa3f8556d424f8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43644a1ccdabc74c",
+            "id": "ea6a244c3399bf24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "872f25209978dde8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d48fc8e9100a4ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/La presbyacousie.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "065e46e7b190bebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cab40ff5dd4c7a98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22e1440bbd4293f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Validation prothétique.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee25becdcb0959d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les méthodologies de préréglages.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63b9976eb2a6ee69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Audioprothèse.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les méthodologies de préréglages.md",
+                "file": "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Les méthodologies de préréglages.md",
+                "file": "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Les méthodologies de préréglages.md"
+                "file": "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md"
               }
             }
           }
@@ -279,31 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee25becdcb0959d8",
+  "active": "ea6a244c3399bf24",
   "lastOpenFiles": [
-    "Pasted image 20240520165025.png",
-    "Pasted image 20240520162454.png",
-    "Pasted image 20240520161509.png",
-    "Pasted image 20240520155542.png",
-    "Cours/Audioprothèse/Audioprothèse.md",
-    "Validation prothétique.md",
-    "Bilan d'orientation prothétique.md",
-    "Les méthodologies de préréglages.md",
-    "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
-    "Cours/Audiologie/Pathologies/Paragangliomes.md",
-    "Audiométrie vocale.md",
-    "Cours/Audioprothèse/Audiométrie tonale.md",
+    "Audiométrie dans le bruit.md",
+    "Partiels 2A.md",
+    "Anamnèse (Guemas).md",
+    "Audiométrie tonale.md",
     "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
     "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
     "Cours/Audioprothèse/La directivité.md",
     "Cours/Audioprothèse/La presbyacousie.md",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
-    "Cours/Audioprothèse/Anamnèse (Guemas).md",
-    "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
-    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
-    "Cours/Psychoacoustique/P4 - La perception temporelle.md",
-    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
+    "Cours/Audioprothèse/Les fonctions des ACA.md",
+    "Dashboard.md",
+    "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
+    "SOUTENANCE DE MEMOIRE.md",
+    "Images/Pasted image 20240417110002.png",
+    "Cours/Audiologie/Pathologies/Otospongiose.md",
     "Cours/Psychoacoustique/P5 - Localisation et binauralité.md",
     "Cours/Audioprothèse/L'implant cochléaire.md",
     "Cours/Psychoacoustique/Phase Locking.md",
