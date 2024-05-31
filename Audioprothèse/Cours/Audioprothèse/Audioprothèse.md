@@ -23,6 +23,7 @@
 >- [[Stimulation par voie osseuse et implant d'oreille moyenne]]
 >- [[Accessoires et connectivité]]
 >- [[Protocoles de tests audiométriques]]
->
+>-[[Les différentes pratiques]]
+>  
 >L'appareillage prothétique (Guemas, Fleuriot, Cheval) :
 >- [[Bilan d'orientation prothétique]]

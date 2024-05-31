@@ -190,12 +190,25 @@
             }
           },
           {
-            "id": "510c71f35b692d4a",
+            "id": "b36f3c45bade50b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bilan d'orientation prothétique.md",
+                "file": "Les méthodologies de préréglages.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0efe6b23b74f4be8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Les différentes pratiques.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -203,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -270,7 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bilan d'orientation prothétique.md",
+                "file": "Les différentes pratiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bilan d'orientation prothétique.md",
+                "file": "Les différentes pratiques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +323,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bilan d'orientation prothétique.md"
+                "file": "Les différentes pratiques.md"
               }
             }
           }
@@ -331,24 +344,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "510c71f35b692d4a",
+  "active": "0efe6b23b74f4be8",
   "lastOpenFiles": [
     "Cours/Audioprothèse/Audioprothèse.md",
-    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+    "Les différentes pratiques.md",
     "Les méthodologies de préréglages.md",
-    "Cours/Audiologie/Pathologies/Cholestéatome.md",
-    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
-    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
     "Bilan d'orientation prothétique.md",
     "Adaptation prothétique.md",
+    "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
+    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
+    "Validation prothétique.md",
+    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+    "Cours/Audiologie/Pathologies/Cholestéatome.md",
+    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
     "Pasted image 20240520165025.png",
     "Pasted image 20240520162454.png",
     "Pasted image 20240520161509.png",
     "Pasted image 20240520155542.png",
-    "Validation prothétique.md",
     "Cours/Audiologie/Pathologies/Paragangliomes.md",
     "Audiométrie vocale.md",
     "Cours/Audioprothèse/Audiométrie tonale.md",
@@ -362,7 +376,6 @@
     "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
     "Cours/Psychoacoustique/P5 - Localisation et binauralité.md",
     "Cours/Audioprothèse/L'implant cochléaire.md",
-    "Cours/Psychoacoustique/Phase Locking.md",
     "Pasted image 20240429143039.png",
     "Pasted image 20240429134556.png",
     "Pasted image 20240425115705.png",
