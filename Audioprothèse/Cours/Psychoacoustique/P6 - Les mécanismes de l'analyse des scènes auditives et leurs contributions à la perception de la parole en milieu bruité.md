@@ -44,8 +44,8 @@
 > - Le système auditif perçoit autant de sources détectées que d’harmoniques différentes.
 > - Quand les raies spectrales sont harmoniques les unes aux autres (multiple de fréquence fondamentale), le système auditif est capable de les regrouper facilement. 
 > - Ce phénomène se fait instinctivement même lorsque deux voix sont parfaitement simultanées. La fréquence fondamentale est un facteur de groupement et de ségrégation (participe à 80% de la différenciation des sons). 
-> - Ce qui différencie 2 voix est la tonalité. Dès que les événements ne sont plus simultanés, la régularité spectrale devient moins importante.
->   - La tonalité est un outil puissant pour séparer des voix différentes.
+> - Ce qui différencie 2 voix est la mélodicité. Dès que les événements ne sont plus simultanés, la régularité spectrale devient moins importante.
+>   - La mélodicité est un outil puissant pour séparer des voix différentes.
 >   - La régularité spectrale devient moins importante lorsque les événements ne sont plus simultanés.
 > - **Destin Commun** :
 >   - Les événements acoustiques provenant de la même source fluctuent simultanément.

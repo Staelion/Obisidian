@@ -45,7 +45,7 @@ Si on ne doit faire qu’un seul examen, ce serait celui-là, il faut qu’il so
 > 
 > - Le MAF monaural est une conversion "normalisée" du seuil binaural à un seuil monaural.
 > - Selon la norme ANSI S3.6-2004, 2 dB sont ajoutés à toutes les fréquences, sous réserve que les seuils soient quasi-identiques sur les deux oreilles.
-> - MAF (biaural) = MAF (monaural) + 2 dB.
+> - MAF (binaural) = MAF (monaural) + 2 dB.
 >
 ![[Pasted image 20240429134556.png]]
 >

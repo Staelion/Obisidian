@@ -3,8 +3,8 @@
 > 
 > => Comment mesurer la capacité de perception de la fréquence chez le malentendant ?
 > 
-> • La première étape du codage de la fréquence est le codage passif de Bekezi 
-> • Si une cochlée est dépourvue de tout mécanisme actif (=de Bekezi), les résultats de sélectivité fréquentielle seront 5 fois moins bons
+> • La première étape du codage de la fréquence est le codage passif de Bekezy
+> • Si une cochlée est dépourvue de tout mécanisme actif (=de Bekezy), les résultats de sélectivité fréquentielle seront 5 fois moins bons
 > • Cochlée passive => premier mécanisme de perception de fréquences
 > • CCE => ce n’est pas la force de contraction des CCE qui amplifie la vibration de la membrane basilaire, un deuxième mécanisme de résonnance mécanique, ce mécanisme est plus local 
 > 

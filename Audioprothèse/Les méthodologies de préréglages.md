@@ -14,7 +14,7 @@
 > - **Canal Cochléaire** : Rempli d’endolymphe, délimité par l’organe de Corti, la membrane de Reissner et la strie vasculaire.
 > - **Cellules Ciliées Internes (CCI)** : Transforment la vibration de la membrane basilaire en influx nerveux.
 > - **Cellules Ciliées Externes (CCE)** : Amplifient la vibration de la membrane basilaire.
-> - **Strie Vasculaire** : Maintient un déséquilibre ionique crucial pour la transmission du signal.
+> - **Strie Vasculaire** : Maintient un déséquilibre ionique crucial pour la transmission du signal. (pompe a potassium)
 >
 > ### Notions de Psychoacoustique
 >
@@ -27,8 +27,7 @@
 > - **Fibres** : Haut taux spontané (60%), moyen taux spontané (20%), faible taux spontané (20%).
 > - **Neurones** : Types 1 à 5, variant selon l’intensité sonore.
 >
-> ## Distorsions Liées aux Cellules Ciliées Externes (CCE)
->
+> ## Trois grandes distorsions Liées aux Cellules Ciliées Externes (CCE)
 > ### Baisse de la Sensibilité
 >
 > - **Conséquence** : Augmentation du seuil absolu.
@@ -58,7 +57,7 @@
 > ### Audiologie
 >
 > - **Canal Cochléaire** : Rempli d'endolymphe et bordé par l'organe de Corti.
-> - **CCI** : Convertissent les vibrations de la membrane basilaire en signaux nerveux.
+> - **CCI** : Ce sont des transducteurs, leur rôle est de transformer la vibration de la membrane basilaire en influe nerveux.
 > - **CCE** : Amplifient les vibrations de la membrane basilaire, essentielles pour une audition correcte.
 >
 > ### Psychoacoustique
@@ -74,8 +73,9 @@
 >
 > ### Neurones
 >
-> - **Neurones de Type 1** : Le taux de décharge augmente avec l'intensité sonore.
-> - **Neurones de Type 5** : Le taux de décharge diminue avec l'intensité sonore.
+> - **Neurones de Type 1** : Plus l'intensité augmente plus le taux de décharge augmente (proportionnel)
+> - **Neurones de Type 5** : Plus l'intensité augmente plus de taux de décharge diminue (inversement proportionnel)
+> - Neurones de type 2, 3, 4 : décharge si intensité suffisante (neurones on/off)
 >
 > ### Distorsions Auditives dues aux CCE Endommagées
 >

@@ -1,6 +1,6 @@
 >[!WARNING]
 >
->Le phénomène de phase-locking, également connu sous le nom de synchronisation de phase, est un processus crucial dans le domaine de l'audition, notamment pour comprendre comment le cerveau interprète et analyse les signaux sonores.
+Le phénomène de phase-locking, également connu sous le nom de synchronisation de phase, est un processus crucial dans le domaine de l'audition, notamment pour comprendre comment le cerveau interprète et analyse les signaux sonores.
 >
 Dans le système auditif, la phase-locking se produit au niveau des neurones dans le cortex auditif, ainsi que dans le tronc cérébral et la cochlée. Ce processus permet au cerveau de détecter la fréquence des sons, ce qui est essentiel pour comprendre et interpréter les informations auditives.
 >

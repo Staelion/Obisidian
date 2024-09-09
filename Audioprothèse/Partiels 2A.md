@@ -14,6 +14,7 @@
 >- [[Stimulation par voie osseuse et implant d'oreille moyenne]]
 >- [[Tumeurs de l'oreille moyenne]]
 >- [[L'implant cochléaire]]
+>- [[Surdités génétiques]]
 >- [[Traumatismes sonores aïgus]] (RUAUX, ON SKIP)
 >- [[Ototoxicité médicamenteuse]] (RUAUX, ON SKIP)
 >- [[Surdité professionnelle]] (RUAUX, ON SKIP)
