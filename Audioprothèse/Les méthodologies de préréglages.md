@@ -92,7 +92,7 @@
 > - **Méthodes de soustractions :**
 >   - Formule : G = HTL - Cte
 >   - Exemple : HTL = 60 dB HL, Gain = 60 - 15 = 45 dB
-> - **Méthodes de quotient :**
+> - **Méthodes de quotient (demi-gain, 1/3 de gain) :**
 >   - Formule : G = HTL x XY
 > 
 > ## Méthodes Supraliminaires
@@ -100,7 +100,7 @@
 > **Définition :** Formule de prescription basée sur la mesure du champ auditif dans sa globalité.
 > 
 > **Types :**
-> - **MTD**
+> - **MTD** (Médiane Théorique de la Dynamique)
 > - **MCL (Most Comfortable Level)**
 >   - Exemple : Méthode CTM (Confort Transfert Matrix)
 > 
@@ -114,7 +114,7 @@
 > 
 > - **POGO :**
 >   - Formule : IG = HTL / 2 + K
->   - Correctif pour éviter le masquage ascendant
+>   - Correctif pour éviter le masquage ascendant ( effet de masques des HF par les BF dans les environnements bruyants) donc le correctif => sous correction des BF
 > - **POGO II :**
 >   - Pour pertes > 65 dB HL : IG = HTL / 2 + K + (HTL - 65) / 2
 > 
@@ -149,7 +149,6 @@
 >   - SSPL Min Souhaitable : 95 dB SPL
 >
 > ## Méthodes Supraliminaires
-> 
 > **MCL (Most Comfortable Level) :**
 > - Seuil de confort, milieu de la zone d’audition confortable.
 > - **MCL Low** et **MCL High**.

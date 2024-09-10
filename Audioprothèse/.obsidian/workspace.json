@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cours/Audiologie/Pathologies/Otospongiose.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -27,66 +27,40 @@
               "type": "markdown",
               "state": {
                 "file": "Les méthodologies de préréglages.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c82faeaddd834a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Psychoacoustique/Phase Locking.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dfebf08584ca11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Partiels 2A.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6dffba3fdced48b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd8b34f202ca028e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
                 "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6f05f4a9a25ab07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/Pathologies/Paragangliomes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9711a0a743bab627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -153,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+                "file": "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+                "file": "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audioprothèse/Protocoles de tests audiométriques.md"
+                "file": "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md"
               }
             }
           }
@@ -214,16 +188,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd8b34f202ca028e",
+  "active": "9711a0a743bab627",
   "lastOpenFiles": [
+    "Cours/Audiologie/Pathologies/Paragangliomes.md",
+    "Cours/Audiologie/Pathologies/Otospongiose.md",
+    "Les méthodologies de préréglages.md",
+    "Cours/Psychoacoustique/Phase Locking.md",
+    "Partiels 2A.md",
+    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
+    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
     "Les différentes pratiques.md",
     "Cours/Audioprothèse/Audiométrie tonale.md",
     "Bilan d'orientation prothétique.md",
-    "Les méthodologies de préréglages.md",
-    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Partiels 2A.md",
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
-    "Cours/Psychoacoustique/Phase Locking.md",
     "Cours/Audiologie/Audiologie.md",
     "Cours/Audiologie/Pathologies/Pathologies.md",
     "Cours/Audiologie/Mécanismes de l'audition/Mécanismes de l'audition.md",
@@ -236,12 +213,9 @@
     "Cours/Audioprothèse/La presbyacousie.md",
     "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
     "Audiométrie vocale.md",
-    "Cours/Audiologie/Pathologies/Otospongiose.md",
-    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
     "Cours/Audioprothèse/Stimulation par voie osseuse et implant d'oreille moyenne.md",
     "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
     "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
-    "Nerf auditif.md",
     "Pasted image 20240520165025.png",
     "Pasted image 20240520162454.png",
     "Pasted image 20240520161509.png",
