@@ -214,9 +214,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89e58e804a397f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pathologies rhinosinusiennes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -283,7 +296,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Audiologie/Pathologies/Otospongiose.md",
+                "file": "Pathologies rhinosinusiennes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Audiologie/Pathologies/Otospongiose.md",
+                "file": "Pathologies rhinosinusiennes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +336,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Audiologie/Pathologies/Otospongiose.md"
+                "file": "Pathologies rhinosinusiennes.md"
               }
             }
           }
@@ -344,8 +357,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbeeb6f7d34c3fec",
+  "active": "89e58e804a397f2c",
   "lastOpenFiles": [
+    "Pasted image 20240912091528.png",
+    "Pasted image 20240912091158.png",
+    "Pasted image 20240912091141.png",
+    "Cours/Audiologie/Pathologies/Pathologies.md",
+    "Pathologies rhinosinusiennes.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Cours/Audiologie/Pathologies/Otospongiose.md",
     "Les méthodologies de préréglages.md",
     "Les différentes pratiques.md",
     "Cours/Audioprothèse/La presbyacousie.md",
@@ -371,16 +391,9 @@
     "Cours/Audioprothèse/La directivité.md",
     "Cours/Audioprothèse/Accessoires et connectivité.md",
     "Cours/Audioprothèse/Anamnèse (Guemas).md",
-    "Cours/Audiologie/Types de surdités/Surdité unilatérale.md",
-    "Cours/Psychoacoustique/P4 - La perception temporelle.md",
-    "Cours/Psychoacoustique/P1 - Physiologie fonctionnelle.md",
-    "Cours/Psychoacoustique/P5 - Localisation et binauralité.md",
-    "Cours/Audioprothèse/L'implant cochléaire.md",
     "Pasted image 20240429143039.png",
     "Pasted image 20240429134556.png",
     "Pasted image 20240425115705.png",
-    "Pasted image 20240425115348.png",
-    "Pasted image 20240425114414.png",
-    "Pasted image 20240425112630.png"
+    "Pasted image 20240425115348.png"
   ]
 }

@@ -18,6 +18,7 @@
 >[[Oreille Geyser]]
 >[[Tumeurs de l'oreille externe]]
 
+
 >[!INFO]+ Pathologies internes 
 >
 >[[Labyrinthite]]
@@ -30,6 +31,7 @@
 >[[Névrite Vestibulaire]]
 >[[Vertige Paroxystique Positionnel Bénin (VPPB)]]
 >[[Tumeurs de l'oreille moyenne]]
+>[[Pathologies rhinosinusiennes]]
 
 >[!INFO]+ Maladies rare ayant un impact sur l'audition 
 >[[Maladie de Ménière]]
