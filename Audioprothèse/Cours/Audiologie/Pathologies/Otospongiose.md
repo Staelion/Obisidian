@@ -47,6 +47,7 @@
 
 
 
+>[!INFO]
 > # Fiche de Révision - Otospongiose
 > 
 > ## Plan
