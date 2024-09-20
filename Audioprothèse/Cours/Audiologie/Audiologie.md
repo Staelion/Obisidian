@@ -16,6 +16,16 @@
 >- # [[Mécanismes de l'audition]]
 
 
+>[!INFO]
+>Pour chaque sujet d'audiologie retenir :
+>EPDT -> étudier pour diagnostiquer et traiter
+>EPDT -> Epidémiologie, physiopathologie, diagnostic, traitement
+>
+>Epidémiologie = étude de la maladie
+>Physiopathologie = mécanisme de la maladie
+>Diagnostic = identification de la maladie
+>Traitement = traitement de la maladie
+>
 
 
 

@@ -8,7 +8,11 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< Updated upstream
             "id": "5067dda733265c29",
+=======
+            "id": "dbeeb6f7d34c3fec",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +25,20 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "c6f05f4a9a25ab07",
+=======
+            "id": "8daca91614011255",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cours/Audiologie/Pathologies/Paragangliomes.md",
+=======
+                "file": "pb 20/09.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,6 +46,7 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "9711a0a743bab627",
             "type": "leaf",
             "state": {
@@ -48,6 +61,9 @@
           },
           {
             "id": "5e8e6d8b244c8cda",
+=======
+            "id": "89e58e804a397f2c",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,8 +74,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f50dfc90e64fbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bilan d'orientation prothétique.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36cf02973781d66d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/Audiologie.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
+<<<<<<< Updated upstream
         ]
+=======
+        ],
+        "currentTab": 4
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -126,7 +173,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cours/Audiologie/Pathologies/Otospongiose.md",
+=======
+                "file": "Cours/Audiologie/Audiologie.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +194,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cours/Audiologie/Pathologies/Otospongiose.md",
+=======
+                "file": "Cours/Audiologie/Audiologie.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +221,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Cours/Audiologie/Pathologies/Otospongiose.md"
+=======
+                "file": "Cours/Audiologie/Audiologie.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -187,6 +246,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "5067dda733265c29",
   "lastOpenFiles": [
     "Pathologies rhinosinusiennes.md",
@@ -195,6 +255,34 @@
     "Pasted image 20240912091141.png",
     "Cours/Audiologie/Pathologies/Otospongiose.md",
     "Les méthodologies de préréglages.md",
+=======
+  "active": "36cf02973781d66d",
+  "lastOpenFiles": [
+    "pb 20/09.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Bilan d'orientation prothétique.md",
+    "Cours/Audiologie/Pathologies/Otospongiose.md",
+    "Pathologies rhinosinusiennes.md",
+    "Untitled.md",
+    "pb 20",
+    "Cours/Audioprothèse/Anamnèse (Guemas).md",
+    "Pasted image 20240912091528.png",
+    "Pasted image 20240912091158.png",
+    "Pasted image 20240912091141.png",
+    "Cours/Audiologie/Pathologies/Pathologies.md",
+    "Les méthodologies de préréglages.md",
+    "Les différentes pratiques.md",
+    "Cours/Audioprothèse/La presbyacousie.md",
+    "Cours/Audioprothèse/Audioprothèse.md",
+    "Adaptation prothétique.md",
+    "Cours/Psychoacoustique/P6 - Les mécanismes de l'analyse des scènes auditives et leurs contributions à la perception de la parole en milieu bruité.md",
+    "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
+    "Validation prothétique.md",
+    "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
+    "Cours/Audiologie/Pathologies/Cholestéatome.md",
+    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
+    "Cours/Audiologie/Pathologies/Tumeurs de l'oreille moyenne.md",
+>>>>>>> Stashed changes
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
     "Cours/Audiologie/Pathologies/Paragangliomes.md",
     "Cours/Psychoacoustique/Phase Locking.md",
@@ -222,6 +310,14 @@
     "Pasted image 20240520162454.png",
     "Pasted image 20240520161509.png",
     "Pasted image 20240520155542.png",
+<<<<<<< Updated upstream
+=======
+    "Cours/Audiologie/Pathologies/Paragangliomes.md",
+    "Audiométrie vocale.md",
+    "Cours/Audioprothèse/Audiométrie tonale.md",
+    "Cours/Audioprothèse/L'audiométrie à visée prothétique.md",
+    "Cours/Audioprothèse/La directivité.md",
+>>>>>>> Stashed changes
     "Pasted image 20240429143039.png",
     "Pasted image 20240429134556.png",
     "Pasted image 20240425115705.png"

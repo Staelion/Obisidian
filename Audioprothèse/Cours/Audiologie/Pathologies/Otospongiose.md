@@ -114,3 +114,8 @@
 > - Interdiction de plongée sous-marine, vols non pressurisés à vie. Inaptitude pour certains métiers (militaire, policier).
 > - Pas d’effort physique pendant 1 mois.
 
+
+
+[[pb 20/09]]
+
+
