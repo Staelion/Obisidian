@@ -31,13 +31,13 @@
 > 
 > ### Sigles Importants :
 > 
-> - REUR : Real Ear Unaided Response
-> - REUG : Real Ear Unaided Gain
-> - REOR : Real Ear Occluded Response
-> - REOG : Real Ear Occluded Gain
-> - REAR : Real Ear Aided Response
-> - REAG : Real Ear Aided Gain
-> - REIG : Real Ear Insertion Gain
+> - REUR : Niveau de pression acoustique mesuré dans le conduit auditif non occlus (Real Ear Unaided Response).
+> - REUG : Gain fourni par le pavillon et le conduit auditif sans aide auditive (Real Ear Unaided Gain).
+> - REOR : Réponse en fréquence mesurée près du tympan avec l'aide auditive en place mais éteinte (Real Ear Occluded Response).
+> - REOG : Gain mesuré avec l'aide auditive en place mais éteinte (Real Ear Occluded Gain).
+> - REAR : Niveau de pression acoustique mesuré dans le conduit auditif avec l'aide auditive allumée (Real Ear Aided Response).
+> - REAG : Gain de l'aide auditive mesuré dans le conduit auditif (Real Ear Aided Gain).
+> - REIG : Différence entre le gain appareillé et non appareillé dans le conduit auditif (Real Ear Insertion Gain).
 > 
 > ## Positionnement des HP
 > 

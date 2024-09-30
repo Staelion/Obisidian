@@ -21,7 +21,7 @@
 >- Surdité moyenne 40-70 dB HL de perte
 >- Surdité sévère 70-90 dB HL de perte
 >- Surdité profonde 90-120 dB HL de perte
->![[Pasted image 20240424165253.png]]
+>![[Pasted image 20240930105724.png]]
 
 >[!INFO]
 >[[Audiométrie tonale]]
