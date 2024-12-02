@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Otospongiose"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Paragangliomes"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Tumeurs de l'oreille externe"
             }
           },
           {
@@ -56,7 +62,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "P3 - Codage de l'intensité"
             }
           },
           {
@@ -69,7 +77,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Les méthodologies de préréglages"
             }
           },
           {
@@ -82,20 +92,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "650c4cce7fb3b4de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Audioprothèse/Audiométrie tonale.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Adaptation prothétique"
             }
           },
           {
@@ -108,11 +107,58 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "La surdité"
+            }
+          },
+          {
+            "id": "2bf5084bba9354ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audioprothèse/Audiométrie tonale.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Audiométrie tonale"
+            }
+          },
+          {
+            "id": "9aa1053a0f7cc9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Les différentes pratiques.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Les différentes pratiques"
+            }
+          },
+          {
+            "id": "c94bff04b3f8e5b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/Pathologies/Otospongiose.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Otospongiose"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -132,7 +178,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -147,7 +195,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -155,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -187,7 +239,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Adaptation prothétique"
             }
           },
           {
@@ -199,7 +253,9 @@
                 "file": "Adaptation prothétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Adaptation prothétique"
             }
           },
           {
@@ -210,7 +266,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -220,7 +278,9 @@
               "type": "outline",
               "state": {
                 "file": "Adaptation prothétique.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Adaptation prothétique"
             }
           }
         ]
@@ -240,14 +300,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51fbc82b56d868db",
+  "active": "c94bff04b3f8e5b1",
   "lastOpenFiles": [
+    "pb 20/09.md",
+    "Cours/Audiologie/Pathologies/Otospongiose.md",
+    "Les différentes pratiques.md",
     "Bilan d'orientation prothétique.md",
+    "Validation prothétique.md",
+    "Cours/Audioprothèse/Audioprothèse.md",
+    "Adaptation prothétique.md",
+    "Les méthodologies de préréglages.md",
+    "Cours/Audioprothèse/Audiométrie tonale.md",
+    "Cours/Audioprothèse/Anamnèse (Guemas).md",
+    "Cours/Audioprothèse/La surdité.md",
+    "Untitled.md",
     "Audiométrie vocale.md",
     "Cours/Audioprothèse/Protocoles de tests audiométriques.md",
-    "Cours/Audioprothèse/Audiométrie tonale.md",
-    "Les méthodologies de préréglages.md",
-    "Cours/Audioprothèse/La surdité.md",
     "Pasted image 20240930105941.png",
     "Images/Pasted image 20231130133309.png",
     "Images/Pasted image 20231130133304.png",
@@ -259,11 +327,7 @@
     "Images/Pasted image 20240424165253.png",
     "Images/Pasted image 20240425112630.png",
     "Images/Pasted image 20240425114414.png",
-    "Adaptation prothétique.md",
-    "Cours/Audioprothèse/Anamnèse (Guemas).md",
     "Cours/Psychoacoustique/P3 - Codage de l'intensité.md",
-    "Cours/Audiologie/Pathologies/Otospongiose.md",
-    "pb 20/09.md",
     "pb 20",
     "Images/Pathologies rhinosinusiennes.md",
     "Pathologies rhinosinusiennes.md",
@@ -272,12 +336,8 @@
     "Cours/Psychoacoustique/Phase Locking.md",
     "Partiels 2A.md",
     "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Les différentes pratiques.md",
     "Cours/Audiologie/Pathologies/Cholestéatome.md",
     "Cours/Audiologie/Audiologie.md",
-    "Cours/Audiologie/Pathologies/Pathologies.md",
-    "Cours/Audiologie/Mécanismes de l'audition/Mécanismes de l'audition.md",
-    "Cours/Audioprothèse/L'implant cochléaire.md",
-    "Validation prothétique.md"
+    "Cours/Audiologie/Pathologies/Pathologies.md"
   ]
 }
