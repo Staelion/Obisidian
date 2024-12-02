@@ -32,6 +32,10 @@
 >[[Vertige Paroxystique Positionnel Bénin (VPPB)]]
 >[[Tumeurs de l'oreille moyenne]]
 >[[Pathologies rhinosinusiennes]]
+>[[Surdité professionnelle]]
+>[[Surdités brusques]]
+>[[Surdités génétiques]]
+>[[Infections spécifiques de l'oreille]]
 
 >[!INFO]+ Maladies rare ayant un impact sur l'audition 
 >[[Maladie de Ménière]]
@@ -45,10 +49,9 @@
 >[!INFO]+ Pathologies externes a l'oreille ayant un impact sur l'audition
 >
 >[[Paragangliomes]]
->[[Surdité professionnelle]]
->[[Surdités brusques]]
 >[[Ototoxicité médicamenteuse]]
 >[[Traumatismes sonores aïgus]]
+
 
 
 

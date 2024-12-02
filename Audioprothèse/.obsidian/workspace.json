@@ -128,37 +128,52 @@
             }
           },
           {
-            "id": "9aa1053a0f7cc9be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Les différentes pratiques.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Les différentes pratiques"
-            }
-          },
-          {
             "id": "c94bff04b3f8e5b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cours/Audiologie/Pathologies/Otospongiose.md",
+                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Otospongiose"
+              "title": "Pathologies"
+            }
+          },
+          {
+            "id": "778be7b6a3edd92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infections spécifiques de l'oreille.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infections spécifiques de l'oreille"
+            }
+          },
+          {
+            "id": "02f4ee176edac19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Audiologie/Pathologies/Pathologies.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pathologies"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -300,17 +315,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c94bff04b3f8e5b1",
+  "active": "02f4ee176edac19e",
   "lastOpenFiles": [
-    "pb 20/09.md",
-    "Cours/Audiologie/Pathologies/Otospongiose.md",
+    "Cours/Audiologie/Audiologie.md",
+    "Infections spécifiques de l'oreille.md",
+    "Partiels 2A.md",
+    "Surdités génétiques.md",
+    "Cours/Audiologie/Pathologies/Pathologies.md",
+    "Cours/Audioprothèse/Audiométrie tonale.md",
     "Les différentes pratiques.md",
+    "Cours/Audiologie/Pathologies/Otospongiose.md",
+    "pb 20/09.md",
     "Bilan d'orientation prothétique.md",
     "Validation prothétique.md",
     "Cours/Audioprothèse/Audioprothèse.md",
     "Adaptation prothétique.md",
     "Les méthodologies de préréglages.md",
-    "Cours/Audioprothèse/Audiométrie tonale.md",
     "Cours/Audioprothèse/Anamnèse (Guemas).md",
     "Cours/Audioprothèse/La surdité.md",
     "Untitled.md",
@@ -333,11 +353,6 @@
     "Pathologies rhinosinusiennes.md",
     "Cours/Audiologie/Pathologies/Tumeurs de l'oreille externe.md",
     "Cours/Audiologie/Pathologies/Paragangliomes.md",
-    "Cours/Psychoacoustique/Phase Locking.md",
-    "Partiels 2A.md",
-    "Cours/Psychoacoustique/P2 - Codage de la fréquence.md",
-    "Cours/Audiologie/Pathologies/Cholestéatome.md",
-    "Cours/Audiologie/Audiologie.md",
-    "Cours/Audiologie/Pathologies/Pathologies.md"
+    "Cours/Psychoacoustique/Phase Locking.md"
   ]
 }

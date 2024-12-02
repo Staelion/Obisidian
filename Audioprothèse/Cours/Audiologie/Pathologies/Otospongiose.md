@@ -24,6 +24,10 @@
 >- **Interrogatoire:** Surdité vers 30-40 ans, évolution progressive, acouphènes 1/3 des cas, instabilité plutôt que vertiges. Recherche d'antécédents familiaux et métiers à risque.
 >- **Otoscopie:** Généralement normale, possible tache rosée de Schwartz indiquant une hypervascularisation.
 >- **Audiométrie:** [[Surdité de transmission]] ou [[Surdité mixte]], atteinte initiale des basses fréquences.
+>- **Acoumétrie :**  
+> - Rinne négatif (CA < CO).  
+> - Weber latéralisé vers l’oreille atteinte.  
+> - Encoche de Carhart (750-2000 Hz), régressive après chirurgie.  
 >- [[Tympanométrie]]:** Généralement normale, sauf pour des ankyloses sévères, avec réflexe stapédien aboli.
 >- **Scanner des Rochers:** Recherche d'hypodensité de la capsule otique.
 >- Encoche de Carhart = diminution artificielle de la CO par ankylose stapédovestibulaire, maximale au point de résonnance (de 750 a 2000Hz, surtout 2000Hz)
@@ -118,4 +122,94 @@
 
 [[pb 20/09]]
 
+
+
+>[!INFO]
+>> # Fiche de Révision : OTOSPONGIOSE
+> 
+> ## Informations Générales
+> **Prévalence :**  
+> - 0,5 % de la population caucasienne.  
+> - Plus rare chez Africains et Asiatiques ; exceptionnelle chez Amérindiens.  
+> 
+> **Population touchée :**  
+> - 1ère cause de surdité acquise progressive à tympan normal en Occident.  
+> - Prédominance féminine (1,5 à 2:1), âge moyen : 30-40 ans.  
+> - Bilatérale mais asymétrique dans 75 % des cas.  
+> 
+> ---
+> 
+> ## Physiopathologie
+> **Mécanisme principal :**  
+> Ostéodystrophie de la capsule otique, dysplasie osseuse primitive se développant à partir de foyers cartilagineux embryonnaires.  
+> 
+> **Types de foyers :**  
+> - Os spongieux hypervascularisé.  
+> - Plages de fibrose et sclérose (otosclerosis).  
+> 
+> **Localisations possibles :**  
+> - **Forme la plus fréquente :** Blocage de la platine par calcification du ligament annulaire (fissura antefenestram).  
+> - Formes cochléaires et vestibulaires possibles.  
+> 
+> **Étiologies multifactorielle :**  
+> - Facteurs génétiques.  
+> - Métabolisme osseux (angiotensine II, PTH).  
+> - Facteurs hormonaux (œstrogènes).  
+> - Auto-immunité (collagène type II).  
+> - Rougeole (hypothèse).  
+> 
+> ---
+> 
+> ## Diagnostic
+> **Interrogatoire :**  
+> - Apparition vers 30-40 ans.  
+> - Surdité progressive, acouphènes (1/3), instabilité ou vertiges.  
+> - ATCD familiaux (forme familiale ?) ou professionnels (aéronautique, plongeurs, armes à feu).  
+> 
+> **Otoscopie :**  
+> - Normale dans la majorité des cas.  
+> - Rare : tache rosée de Schwartz (hypervascularisation du promontoire).  
+> 
+> **Acoumétrie :**  
+> - Rinne négatif (CA < CO).  
+> - Weber latéralisé vers l’oreille atteinte.  
+> - Encoche de Carhart (750-2000 Hz), régressive après chirurgie.  
+> 
+> **Audiométrie :**  
+> - Perte initiale sur les basses fréquences.  
+> - Test vocal pour pronostic négatif.  
+> 
+> **Impedancemétrie :**  
+> - Tympanogramme normal sauf ankyloses sévères.  
+> - Réflexe stapédien aboli.  
+> 
+> **Scanner des rochers :**  
+> - Coupes fines (0,2-0,5 mm).  
+> - Classification radiologique selon hypodensité (Type 0 à Type 2).  
+> 
+> ---
+> 
+> ## Traitement
+> **Médical :**  
+> - Fluorure de sodium, bisphosphonates (efficacité non prouvée).  
+> 
+> **Chirurgical :**  
+> - Indiqué pour surdité > 30 dB (Rinne > 20 dB).  
+> - Technique : platinotomie calibrée (voie endaurale ou du conduit).  
+> - Précautions postopératoires : éviter plongée sous-marine, vols non pressurisés, efforts physiques pendant 1 mois.  
+> 
+> **Appareillage auditif :**  
+> - Alternative en cas de contre-indication ou refus de chirurgie.  
+> 
+> ---
+> 
+> ## Points Clés à Retenir
+> - **Prévalence :** 0,5 % chez les Caucasiens, rare chez les autres.  
+> - **Physiopathologie :** Blocage de la platine (fissura antefenestram).  
+> - **Diagnostic différentiel :** Blocage ossiculaire, aplasie mineure, syndromes (Minor, Gusher).  
+> - **Traitement :** Chirurgie (platinotomie), appareillage auditif.  
+> 
+> **Précautions vitales :** Pas de plongée sous-marine ni d’activités militaires.  
+> 
+> ---
 

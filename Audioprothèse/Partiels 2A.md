@@ -15,6 +15,7 @@
 >- [[Tumeurs de l'oreille moyenne]]
 >- [[L'implant cochléaire]]
 >- [[Surdités génétiques]]
+>  [[Infections spécifiques de l'oreille]]
 >- [[Traumatismes sonores aïgus]] (RUAUX, ON SKIP)
 >- [[Ototoxicité médicamenteuse]] (RUAUX, ON SKIP)
 >- [[Surdité professionnelle]] (RUAUX, ON SKIP)
